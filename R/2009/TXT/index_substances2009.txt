@@ -1,0 +1,3034 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.2"/>
+<meta name="xmp:CreatorTool" content="Microsoft Access"/>
+<meta name="access_permission:modify_annotations" content="true"/>
+<meta name="access_permission:can_print_degraded" content="true"/>
+<meta name="dc:creator" content="Pat"/>
+<meta name="dcterms:created" content="2009-06-26T12:50:56Z"/>
+<meta name="dc:format" content="application/pdf; version=1.2"/>
+<meta name="access_permission:fill_in_form" content="true"/>
+<meta name="pdf:encrypted" content="false"/>
+<meta name="dc:title" content="Index"/>
+<meta name="Content-Length" content="73449"/>
+<meta name="X-TIKA:digest:MD5" content="be2797d72ba18e1b99fa48d809f9ae31"/>
+<meta name="Content-Type" content="application/pdf"/>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser"/>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.pdf.PDFParser"/>
+<meta name="creator" content="Pat"/>
+<meta name="meta:author" content="Pat"/>
+<meta name="meta:creation-date" content="2009-06-26T12:50:56Z"/>
+<meta name="created" content="Fri Jun 26 14:50:56 CEST 2009"/>
+<meta name="X-TIKA:digest:SHA256" content="db7c8d46da08a92e16ded9d83f27282a2b0ff6ed2fb26e5f4094357ec1480079"/>
+<meta name="access_permission:extract_for_accessibility" content="true"/>
+<meta name="access_permission:assemble_document" content="true"/>
+<meta name="xmpTPg:NPages" content="36"/>
+<meta name="Creation-Date" content="2009-06-26T12:50:56Z"/>
+<meta name="resourceName" content="Index substances 26062009.pdf"/>
+<meta name="access_permission:extract_content" content="true"/>
+<meta name="access_permission:can_print" content="true"/>
+<meta name="Author" content="Pat"/>
+<meta name="producer" content="Acrobat PDFWriter 5.0 pour Windows NT"/>
+<meta name="access_permission:can_modify" content="true"/>
+<title>Index</title>
+</head>
+<body><div class="page"><p/>
+<p>INDEX DU
+THESAURUS
+</p>
+<p>DES INTERACTIONS 
+MEDICAMENTEUSES
+</p>
+<p>AFSSAPS
+Mise à jour Juin 2009</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>abciximab (c 7e3b fab)
+Voir : antiagrégants plaquettaires
+</p>
+<p>acebutolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>aceclofenac
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>acenocoumarol
+Voir : anticoagulants oraux
+</p>
+<p>acepromazine
+Voir : hypnotiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments 
+sédatifs - neuroleptiques - neuroleptiques phénothiaziniques
+</p>
+<p>aceprometazine
+Voir : hypnotiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments 
+sédatifs - neuroleptiques - neuroleptiques phénothiaziniques
+</p>
+<p>acetazolamide
+Interactions en propre mais voir aussi : alcalinisants urinaires
+</p>
+<p>acetylsulfafurazol
+Voir : sulfamides antibactériens
+</p>
+<p>aciclovir
+Voir : médicaments néphrotoxiques
+</p>
+<p>acide acetohydroxamique
+Interactions en propre seulement
+</p>
+<p>acide acetylsalicylique
+Interactions en propre mais voir aussi : antiagrégants plaquettaires
+</p>
+<p>acide alendronique
+Voir : bisphosphonates
+</p>
+<p>acide amidotrizoïque
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>acide ascorbique
+Interactions en propre seulement
+</p>
+<p>acide chenodesoxycholique
+Voir : acides biliaires
+</p>
+<p>acide clodronique
+Interactions en propre mais voir aussi : bisphosphonates - médicaments néphrotoxiques
+</p>
+<p>acide etidronique
+Voir : bisphosphonates
+</p>
+<p>acide folinique
+Interactions en propre mais voir aussi : folates
+</p>
+<p>acide folique
+Voir : folates
+</p>
+<p>acide fusidique
+Interactions en propre seulement
+</p>
+<p>acide ibandronique
+Voir : bisphosphonates
+</p>
+<p>acide ioxaglique
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>acide ioxitalamique
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>acide medronique
+Voir : bisphosphonates
+</p>
+<p>acide mefenamique
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>acide nicotinique
+Interactions en propre seulement
+</p>
+<p>acide niflumique
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>acide oxidronique
+Voir : bisphosphonates</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>acide pamidronique
+Voir : bisphosphonates
+</p>
+<p>acide risedronique
+Voir : bisphosphonates
+</p>
+<p>acide tiaprofenique
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>acide tiludronique
+Voir : bisphosphonates
+</p>
+<p>acide ursodesoxycholique
+Voir : acides biliaires
+</p>
+<p>acide valproique
+Voir : anticonvulsivants métabolisés - valproïque (acide) et, par extrapolation, valpromide
+</p>
+<p>acide zoledronique
+Voir : bisphosphonates
+</p>
+<p>acitretine
+Voir : rétinoïdes
+</p>
+<p>adefovir
+Voir : médicaments néphrotoxiques
+</p>
+<p>adrenaline
+Voir : adrénaline (voie bucco-dentaire ou sous-cutanée) - sympathomimétiques alpha et bêta (voie IM et IV)
+</p>
+<p>alcuronium
+Voir : curares - curares non dépolarisants
+</p>
+<p>aldesleukine
+Interactions en propre seulement
+</p>
+<p>alfacalcidol
+Voir : vitamine D
+</p>
+<p>alfentanil
+Interactions en propre mais voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>alfuzosine
+Interactions en propre mais voir aussi : alphabloquants à visée urologique (sauf doxazosine) - médicaments abaissant la pression artérielle
+</p>
+<p>alimemazine
+Voir : hypnotiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments 
+sédatifs - neuroleptiques - neuroleptiques phénothiaziniques
+</p>
+<p>aliskirene
+Interactions en propre seulement
+</p>
+<p>alitretinoine
+Voir : rétinoïdes
+</p>
+<p>alizapride
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques - neuroleptiques antiémétiques
+</p>
+<p>allobarbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>allopurinol
+Interactions en propre seulement
+</p>
+<p>alminoprofene
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>almotriptan
+Voir : triptans - triptans métabolisés par la MAO
+</p>
+<p>alpha-tocopherol
+Interactions en propre seulement
+</p>
+<p>alprazolam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>alteplase recombinante
+Voir : thrombolytiques
+</p>
+<p>altretamine
+Voir : cytotoxiques
+</p>
+<p>amantadine
+Voir : antiparkinsoniens dopaminergiques - dopaminergiques</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ambenonium
+Voir : anticholinestérasiques - bradycardisants
+</p>
+<p>amifostine
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle
+</p>
+<p>amikacine
+Voir : aminosides - médicaments néphrotoxiques
+</p>
+<p>amiloride
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques épargneurs de potassium (seuls ou associés) - hyperkaliémiants - 
+hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>aminoglutethimide
+Interactions en propre seulement
+</p>
+<p>aminophylline
+Voir : théophylline (et, par extrapolation, aminophylline)
+</p>
+<p>amiodarone
+Interactions en propre mais voir aussi : antiarythmiques - autres médicaments susceptibles de donner des torsades de pointes - bradycardisants - médicaments 
+susceptibles de donner des torsades de pointes - torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>amisulpride
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - médicaments susceptibles de donner des torsades de pointes - neuroleptiques - 
+neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>amitriptyline
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - 
+médicaments mixtes adrénergiques-sérotoninergiques - médicaments sédatifs
+</p>
+<p>amlodipine
+Voir : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression 
+artérielle
+</p>
+<p>amobarbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>amoxapine
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques
+</p>
+<p>amoxicilline
+Voir : pénicillines - pénicillines A
+</p>
+<p>amphotericine b
+Interactions en propre mais voir aussi : hypokaliémiants - médicaments néphrotoxiques
+</p>
+<p>ampicilline
+Voir : pénicillines - pénicillines A
+</p>
+<p>amprenavir
+Voir : amprénavir (et, par extrapolation, fosamprénavir) - inhibiteurs de protéase - inhibiteurs de protéase (sauf ritonavir)
+</p>
+<p>amsacrine
+Voir : cytotoxiques
+</p>
+<p>anakinra
+Interactions en propre seulement
+</p>
+<p>apomorphine
+Voir : antiparkinsoniens dopaminergiques - dopaminergiques
+</p>
+<p>aprepitant
+Interactions en propre seulement
+</p>
+<p>aripiprazole
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine)
+</p>
+<p>arsenieux
+Voir : médicaments susceptibles de donner des torsades de pointes
+</p>
+<p>asparaginase
+Voir : cytotoxiques
+</p>
+<p>atazanavir
+Interactions en propre mais voir aussi : inhibiteurs de protéase - inhibiteurs de protéase (sauf ritonavir)
+</p>
+<p>atenolol
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf 
+esmolol) - bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>atorvastatine
+Interactions en propre mais voir aussi : substrats à risque du CYP3A4
+</p>
+<p>atracurium
+Voir : curares - curares non dépolarisants</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>atropine
+Voir : médicaments atropiniques
+</p>
+<p>avizafone
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>azatadine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>azathioprine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>azelastine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>azithromycine
+Interactions en propre mais voir aussi : macrolides (sauf spiramycine)
+</p>
+<p>aztreonam
+Interactions en propre seulement
+</p>
+<p>bacampicilline
+Voir : pénicillines - pénicillines A
+</p>
+<p>baclofene
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments sédatifs
+</p>
+<p>bambuterol
+Voir : bêta-2 mimétiques
+</p>
+<p>barbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>barnidipine
+Voir : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression 
+artérielle
+</p>
+<p>bcg
+Voir : vaccins vivants atténués - vaccins vivants atténués (sauf antiamarile)
+</p>
+<p>befunolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>benazepril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>bendroflumethiazide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>benethamine-penicilline
+Voir : pénicillines
+</p>
+<p>benzalkonium
+Voir : spermicides
+</p>
+<p>benzbromarone
+Interactions en propre mais voir aussi : uricosuriques
+</p>
+<p>benzylpenicilline
+Voir : pénicillines
+</p>
+<p>bepridil
+Interactions en propre mais voir aussi : antagonistes des canaux calciques - antiarythmiques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - autres 
+médicaments susceptibles de donner des torsades de pointes - bradycardisants - médicaments abaissant la pression artérielle - médicaments susceptibles de 
+donner des torsades de pointes - torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>betamethasone
+Voir : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>betaxolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>bezafibrate
+Voir : fibrates - fibrates (sauf gemfibrozil)
+</p>
+<p>biperidene
+Voir : antiparkinsoniens anticholinergiques - médicaments atropiniques
+</p>
+<p>bisacodyl
+Voir : hypokaliémiants</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>bisoprolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bêta-bloquants dans 
+l'insuffisance cardiaque - bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>bleomycine
+Voir : cytotoxiques
+</p>
+<p>boldo
+Voir : hypokaliémiants
+</p>
+<p>bosentan
+Interactions en propre seulement
+</p>
+<p>botulique (toxine)
+Interactions en propre seulement
+</p>
+<p>bourdaine
+Voir : hypokaliémiants
+</p>
+<p>bromazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>bromocriptine
+Voir : alcaloïdes de l'ergot de seigle dopaminergiques - antiparkinsoniens dopaminergiques - dopaminergiques
+</p>
+<p>brompheniramine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>brotizolam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>buclizine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>budesonide
+Voir : corticoïdes inhalés - glucocorticoïdes (sauf hydrocortisone en traitement substitutif)
+</p>
+<p>buflomedil
+Interactions en propre seulement
+</p>
+<p>bumetanide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques de l'anse - diurétiques hypokaliémiants - hypokaliémiants - 
+hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>buprenorphine
+Interactions en propre mais voir aussi : médicaments sédatifs - morphiniques - morphiniques agonistes-antagonistes - morphiniques en traitement de substitution
+</p>
+<p>bupropione
+Interactions en propre mais voir aussi : médicaments abaissant le seuil épileptogène
+</p>
+<p>buspirone
+Interactions en propre mais voir aussi : 
+</p>
+<p>busulfan
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>butalbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>butobarbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>cabergoline
+Voir : alcaloïdes de l'ergot de seigle dopaminergiques - dopaminergiques - dopaminergiques, hors Parkinson
+</p>
+<p>cafeine
+Interactions en propre seulement
+</p>
+<p>calcitonine
+Interactions en propre seulement
+</p>
+<p>calcitriol
+Voir : vitamine D
+</p>
+<p>calcium
+Interactions en propre seulement
+</p>
+<p>camazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>candesartan cilexetil
+Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la 
+pression artérielle</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>canrenoate de potassium
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques épargneurs de potassium (seuls ou associés) - hyperkaliémiants - 
+hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>capecitabine
+Voir : cytotoxiques - fluorouracile (et, par extrapolation, tegafur et capécitabine)
+</p>
+<p>captodiame
+Voir : médicaments sédatifs
+</p>
+<p>captopril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>carbamazepine
+Interactions en propre mais voir aussi : anticonvulsivants inducteurs enzymatiques - hyponatrémiants - inducteurs enzymatiques
+</p>
+<p>carbinoxamine
+Voir : médicaments sédatifs
+</p>
+<p>carboplatine
+Voir : cytotoxiques - médicaments néphrotoxiques - organoplatines
+</p>
+<p>carbutamide
+Voir : sulfamides hypoglycémiants
+</p>
+<p>carmustine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>carpipramine
+Voir : médicaments abaissant la pression artérielle - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine)
+</p>
+<p>carteolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>carvedilol
+Interactions en propre mais voir aussi : bêta-bloquants dans l'insuffisance cardiaque - bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>cascara
+Voir : hypokaliémiants
+</p>
+<p>cascara sagrada
+Voir : hypokaliémiants
+</p>
+<p>catioresine sulfo sodique
+Interactions en propre seulement
+</p>
+<p>cefalotine
+Interactions en propre mais voir aussi : 
+</p>
+<p>cefamandole
+Interactions en propre mais voir aussi : antabuse (réaction)
+</p>
+<p>cefoperazone
+Interactions en propre mais voir aussi : 
+</p>
+<p>cefotetan
+Interactions en propre mais voir aussi : 
+</p>
+<p>ceftriaxone
+Interactions en propre mais voir aussi : 
+</p>
+<p>celecoxib
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>celiprolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>cetalkonium
+Voir : spermicides
+</p>
+<p>chlorambucil
+Voir : cytotoxiques
+</p>
+<p>chlordiazepoxide
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>chlormadinone
+Voir : progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>chlormethine
+Voir : cytotoxiques</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>chloroquine
+Interactions en propre mais voir aussi : médicaments abaissant le seuil épileptogène
+</p>
+<p>chlorphenamine
+Voir : médicaments sédatifs
+</p>
+<p>chlorphenoxamine
+Voir : médicaments sédatifs
+</p>
+<p>chlorproethazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques phénothiaziniques
+</p>
+<p>chlorpromazine
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - 
+médicaments sédatifs - médicaments susceptibles de donner des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - 
+neuroleptiques phénothiaziniques - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>chlorpropamide
+Voir : sulfamides hypoglycémiants
+</p>
+<p>chlortalidone
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>chlortetracycline
+Voir : cyclines
+</p>
+<p>cholecalciferol
+Voir : vitamine D
+</p>
+<p>cibenzoline
+Voir : antiarythmiques - antiarythmiques classe I (sauf lidocaïne)
+</p>
+<p>cicletanine
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>ciclosporine
+Interactions en propre mais voir aussi : hyperkaliémiants - immunosuppresseurs - médicaments néphrotoxiques - substrats à risque du CYP3A4
+</p>
+<p>cidofovir
+Voir : médicaments néphrotoxiques
+</p>
+<p>cilazapril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>cimetidine
+Interactions en propre mais voir aussi : antisécrétoires antihistaminiques H2
+</p>
+<p>cinacalcet
+Interactions en propre seulement
+</p>
+<p>ciprofibrate
+Voir : fibrates - fibrates (sauf gemfibrozil)
+</p>
+<p>ciprofloxacine
+Interactions en propre mais voir aussi : fluoroquinolones
+</p>
+<p>cisapride
+Interactions en propre mais voir aussi : autres médicaments susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de 
+pointes - substrats à risque du CYP3A4 - torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>cisatracurium
+Voir : curares - curares non dépolarisants
+</p>
+<p>cisplatine
+Voir : cytotoxiques - médicaments néphrotoxiques - organoplatines
+</p>
+<p>citalopram
+Interactions en propre mais voir aussi : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotonine - médicaments abaissant le seuil épileptogène
+</p>
+<p>cladribine
+Voir : cytotoxiques
+</p>
+<p>clarithromycine
+Interactions en propre mais voir aussi : inhibiteurs puissants du CYP3A4 - macrolides (sauf spiramycine)
+</p>
+<p>clidinium
+Voir : médicaments atropiniques
+</p>
+<p>clindamycine
+Interactions en propre mais voir aussi : lincosanides</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>clobazam
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>clocinizine
+Voir : médicaments sédatifs
+</p>
+<p>clofibrate
+Voir : fibrates - fibrates (sauf gemfibrozil)
+</p>
+<p>clomipramine
+Interactions en propre mais voir aussi : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil 
+épileptogène - médicaments atropiniques - médicaments mixtes adrénergiques-sérotoninergiques
+</p>
+<p>clonazepam
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>clonidine
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs centraux - antihypertenseurs sauf alpha-bloquants - bradycardisants - médicaments 
+abaissant la pression artérielle - médicaments sédatifs
+</p>
+<p>clopamide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>clopidogrel
+Interactions en propre mais voir aussi : antiagrégants plaquettaires
+</p>
+<p>clorazepate
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>clotiazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>cloxacilline
+Voir : pénicillines
+</p>
+<p>cloxazolam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>clozapine
+Interactions en propre mais voir aussi : médicaments à risque lors du sevrage tabagique - médicaments abaissant la pression artérielle - médicaments atropiniques - 
+médicaments sédatifs - neuroleptiques
+</p>
+<p>codeine
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier II - antitussifs morphiniques vrais - médicaments sédatifs - morphiniques
+</p>
+<p>colchicine
+Interactions en propre seulement
+</p>
+<p>colestyramine
+Interactions en propre seulement
+</p>
+<p>colistine
+Interactions en propre seulement
+</p>
+<p>cortisone
+Voir : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>cortivazol
+Voir : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>cyamemazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+médicaments susceptibles de donner des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques 
+phénothiaziniques - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>cyanocobalamine
+Interactions en propre seulement
+</p>
+<p>cyclizine
+Voir : médicaments sédatifs
+</p>
+<p>cyclobarbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>cyclopentolate
+Voir : médicaments atropiniques
+</p>
+<p>cyclophosphamide
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>cyclothiazide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>cyproheptadine
+Interactions en propre mais voir aussi : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>cyproterone
+Interactions en propre mais voir aussi : progestatifs contraceptifs
+</p>
+<p>cytarabine
+Voir : cytotoxiques
+</p>
+<p>dacarbazine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>dactinomycine
+Voir : cytotoxiques
+</p>
+<p>dalfopristine
+Interactions en propre seulement
+</p>
+<p>dalteparine sodique
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>danaparoide sodique
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>danazol
+Interactions en propre seulement
+</p>
+<p>dantrolene
+Interactions en propre seulement
+</p>
+<p>dapsone
+Interactions en propre seulement
+</p>
+<p>darifenacine
+Interactions en propre mais voir aussi : médicaments atropiniques
+</p>
+<p>darunavir
+Voir : inhibiteurs de protéase
+</p>
+<p>daunorubicine
+Voir : cytotoxiques
+</p>
+<p>deferasirox
+Interactions en propre seulement
+</p>
+<p>deferoxamine
+Interactions en propre seulement
+</p>
+<p>delorazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>desflurane
+Voir : anesthésiques volatils halogénés
+</p>
+<p>desipramine
+Interactions en propre mais voir aussi : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil 
+épileptogène - médicaments atropiniques
+</p>
+<p>desirudine
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>deslanoside
+Voir : bradycardisants - digitaliques
+</p>
+<p>desmopressine
+Voir : hyponatrémiants
+</p>
+<p>desogestrel
+Voir : progestatifs contraceptifs
+</p>
+<p>desoxycortone
+Voir : minéralocorticoïdes
+</p>
+<p>dexamethasone
+Interactions en propre mais voir aussi : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>dexchlorpheniramine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>dexketoprofene trometamol
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>dextran
+Voir : dextran 40
+</p>
+<p>dextromethorphane
+Interactions en propre mais voir aussi : antitussifs morphine-like - médicaments sédatifs - morphiniques
+</p>
+<p>dextromoramide
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>dextropropoxyphene
+Interactions en propre mais voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier II - médicaments sédatifs - morphiniques
+</p>
+<p>di(acefylline) diphenhydramine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>diazepam
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>dibekacine
+Voir : aminosides - médicaments néphrotoxiques
+</p>
+<p>diclofenac
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>dicloxacilline
+Voir : pénicillines
+</p>
+<p>didanosine
+Interactions en propre seulement
+</p>
+<p>diethylstilbestrol
+Voir : estrogènes non contraceptifs
+</p>
+<p>digitoxine
+Interactions en propre mais voir aussi : bradycardisants - digitaliques
+</p>
+<p>digoxine
+Interactions en propre mais voir aussi : bradycardisants - digitaliques
+</p>
+<p>dihexyverine
+Voir : médicaments atropiniques
+</p>
+<p>dihydralazine
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - médicaments abaissant la pression artérielle
+</p>
+<p>dihydrocodeine
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier II - médicaments sédatifs - morphiniques
+</p>
+<p>dihydroergotamine
+Interactions en propre mais voir aussi : alcaloïdes de l'ergot de seigle vasoconstricteurs - substrats à risque du CYP3A4
+</p>
+<p>diltiazem
+Interactions en propre mais voir aussi : antagonistes des canaux calciques - antiarythmiques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - 
+bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>dimenhydrinate
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>dinitrate d'isosorbide
+Voir : dérivés nitrés et apparentés
+</p>
+<p>diosmectite
+Voir : topiques gastro-intestinaux, antiacides et charbon
+</p>
+<p>diphemanil
+Interactions en propre mais voir aussi : autres médicaments susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de 
+pointes - torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>diphenhydramine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>diprophylline
+Interactions en propre seulement
+</p>
+<p>dipyridamole
+Interactions en propre seulement
+</p>
+<p>dirithromycine
+Voir : macrolides (sauf spiramycine)
+</p>
+<p>disopyramide
+Interactions en propre mais voir aussi : antiarythmiques - antiarythmiques classe I (sauf lidocaïne) - antiarythmiques classe Ia - bradycardisants - médicaments 
+atropiniques - médicaments susceptibles de donner des torsades de pointes
+</p>
+<p>disulfirame
+Interactions en propre mais voir aussi : antabuse (réaction)</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>docetaxel
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>dofetilide
+Voir : antiarythmiques - autres médicaments susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de pointes - 
+torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>donepezil
+Voir : anticholinestérasiques - bradycardisants
+</p>
+<p>dopamine
+Voir : sympathomimétiques alpha et bêta (voie IM et IV)
+</p>
+<p>dosulepine
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques
+</p>
+<p>doxazosine
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle
+</p>
+<p>doxepine
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - 
+médicaments sédatifs
+</p>
+<p>doxorubicine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>doxycycline
+Interactions en propre mais voir aussi : cyclines
+</p>
+<p>doxylamine
+Voir : hypnotiques - médicaments atropiniques - médicaments sédatifs
+</p>
+<p>droperidol
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments sédatifs - médicaments susceptibles de donner 
+des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>duloxetine
+Interactions en propre mais voir aussi : médicaments mixtes adrénergiques-sérotoninergiques
+</p>
+<p>dydrogesterone
+Voir : progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>ebastine
+Interactions en propre seulement
+</p>
+<p>econazole
+Interactions en propre seulement
+</p>
+<p>efavirenz
+Interactions en propre mais voir aussi : inducteurs enzymatiques
+</p>
+<p>eletriptan
+Voir : triptans - triptans non métabolisés par la MAO
+</p>
+<p>enalapril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>enflurane
+Voir : anesthésiques volatils halogénés
+</p>
+<p>enoxacine
+Interactions en propre mais voir aussi : fluoroquinolones
+</p>
+<p>enoxaparine
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>entacapone
+Interactions en propre mais voir aussi : antiparkinsoniens dopaminergiques - dopaminergiques
+</p>
+<p>ephedrine
+Voir : sympathomimétiques indirects
+</p>
+<p>epirubicine
+Voir : cytotoxiques
+</p>
+<p>eplerenone
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques épargneurs de potassium (seuls ou associés) - hyperkaliémiants - 
+hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>epoprostenol
+Voir : antiagrégants plaquettaires</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>eprosartan
+Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la 
+pression artérielle
+</p>
+<p>eptifibatide
+Voir : antiagrégants plaquettaires
+</p>
+<p>ergocalciferol
+Voir : vitamine D
+</p>
+<p>ergotamine
+Interactions en propre mais voir aussi : alcaloïdes de l'ergot de seigle vasoconstricteurs - substrats à risque du CYP3A4
+</p>
+<p>erlotinib
+Interactions en propre mais voir aussi : inhibiteurs des tyrosine kinases - substrats à risque du CYP3A4
+</p>
+<p>erythromycine
+Interactions en propre mais voir aussi : autres médicaments susceptibles de donner des torsades de pointes - inhibiteurs puissants du CYP3A4 - macrolides (sauf 
+spiramycine) - médicaments susceptibles de donner des torsades de pointes - torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>escitalopram
+Voir : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotonine - médicaments abaissant le seuil épileptogène
+</p>
+<p>esmolol
+Interactions en propre mais voir aussi : bradycardisants
+</p>
+<p>esomeprazole
+Voir : antisécrétoires inhibiteurs de la pompe à protons
+</p>
+<p>estazolam
+Voir : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs
+</p>
+<p>estradiol
+Voir : estrogènes non contraceptifs
+</p>
+<p>estramustine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>estriol
+Voir : estrogènes non contraceptifs
+</p>
+<p>estrogenes sulfoconjugues equins
+Voir : estrogènes non contraceptifs
+</p>
+<p>estrone
+Voir : estrogènes non contraceptifs
+</p>
+<p>etanercept
+Interactions en propre seulement
+</p>
+<p>ethambutol
+Interactions en propre seulement
+</p>
+<p>ethinylestradiol
+Voir : estroprogestatifs contraceptifs
+</p>
+<p>ethosuximide
+Interactions en propre mais voir aussi : anticonvulsivants métabolisés
+</p>
+<p>ethylmorphine
+Voir : antitussifs morphiniques vrais - médicaments sédatifs - morphiniques
+</p>
+<p>etifoxine
+Voir : médicaments sédatifs
+</p>
+<p>etilefrine
+Voir : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>etodolac
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>etonogestrel
+Voir : progestatifs contraceptifs
+</p>
+<p>etoposide
+Voir : cytotoxiques
+</p>
+<p>etretinate
+Voir : rétinoïdes
+</p>
+<p>everolimus
+Interactions en propre mais voir aussi : immunosuppresseurs - substrats à risque du CYP3A4
+</p>
+<p>exemestane
+Interactions en propre seulement</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ezetimibe
+Interactions en propre seulement
+</p>
+<p>famotidine
+Voir : antisécrétoires antihistaminiques H2
+</p>
+<p>felbamate
+Interactions en propre mais voir aussi : anticonvulsivants métabolisés
+</p>
+<p>felodipine
+Voir : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression 
+artérielle
+</p>
+<p>fenbufene
+Interactions en propre mais voir aussi : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>fenofibrate
+Interactions en propre mais voir aussi : fibrates - fibrates (sauf gemfibrozil)
+</p>
+<p>fenoprofene
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>fentanyl
+Interactions en propre mais voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>fer
+Interactions en propre seulement
+</p>
+<p>fexofenadine
+Interactions en propre seulement
+</p>
+<p>flavoxate
+Voir : médicaments atropiniques
+</p>
+<p>flecainide
+Interactions en propre mais voir aussi : antiarythmiques - antiarythmiques classe I (sauf lidocaïne)
+</p>
+<p>fleroxacine
+Voir : fluoroquinolones
+</p>
+<p>floctafenine
+Interactions en propre seulement
+</p>
+<p>fluanisone
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques
+</p>
+<p>fluconazole
+Interactions en propre mais voir aussi : antifongiques azolés
+</p>
+<p>flucytosine
+Interactions en propre seulement
+</p>
+<p>fludarabine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>fludiazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>fludrocortisone
+Voir : hypokaliémiants - minéralocorticoïdes
+</p>
+<p>fluindione
+Voir : anticoagulants oraux
+</p>
+<p>flunarizine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>flunitrazepam
+Voir : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs
+</p>
+<p>fluor
+Interactions en propre seulement
+</p>
+<p>fluorouracile
+Voir : cytotoxiques - fluorouracile (et, par extrapolation, tegafur et capécitabine)
+</p>
+<p>fluoxetine
+Interactions en propre mais voir aussi : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotonine - médicaments abaissant le seuil épileptogène
+</p>
+<p>flupentixol
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine)
+</p>
+<p>fluphenazine
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - 
+médicaments sédatifs - médicaments susceptibles de donner des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - 
+neuroleptiques phénothiaziniques - neuroleptiques susceptibles de donner des torsades de pointes</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>flurazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>flurbiprofene
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>flutamide
+Interactions en propre seulement
+</p>
+<p>fluticasone
+Voir : corticoïdes inhalés
+</p>
+<p>fluvastatine
+Interactions en propre mais voir aussi : 
+</p>
+<p>fluvoxamine
+Interactions en propre mais voir aussi : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotonine - médicaments abaissant le seuil épileptogène
+</p>
+<p>fondaparinux
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>fosamprenavir
+Voir : amprénavir (et, par extrapolation, fosamprénavir) - inhibiteurs de protéase - inhibiteurs de protéase (sauf ritonavir)
+</p>
+<p>foscarnet
+Interactions en propre mais voir aussi : médicaments néphrotoxiques
+</p>
+<p>fosinopril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>fosphenytoine
+Voir : anticonvulsivants inducteurs enzymatiques - anticonvulsivants métabolisés - inducteurs enzymatiques - phénytoïne (et, par extrapolation, fosphénytoïne)
+</p>
+<p>fotemustine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>frovatriptan
+Voir : triptans - triptans non métabolisés par la MAO
+</p>
+<p>furazolidone
+Voir : antabuse (réaction)
+</p>
+<p>furosemide
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques de l'anse - diurétiques 
+hypokaliémiants - hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>galantamine
+Voir : anticholinestérasiques - bradycardisants
+</p>
+<p>ganciclovir
+Interactions en propre mais voir aussi : médicaments néphrotoxiques
+</p>
+<p>gefitinib
+Voir : inhibiteurs des tyrosine kinases - substrats à risque du CYP3A4
+</p>
+<p>gel d'hydroxyde d'aluminium et de carbonate de magne
+Voir : topiques gastro-intestinaux, antiacides et charbon
+</p>
+<p>gemcitabine
+Voir : cytotoxiques
+</p>
+<p>gemfibrozil
+Interactions en propre mais voir aussi : fibrates
+</p>
+<p>gentamicine
+Voir : aminosides - médicaments néphrotoxiques
+</p>
+<p>glibenclamide
+Interactions en propre mais voir aussi : antabuse (réaction) - sulfamides hypoglycémiants
+</p>
+<p>glibornuride
+Voir : sulfamides hypoglycémiants
+</p>
+<p>gliclazide
+Voir : sulfamides hypoglycémiants
+</p>
+<p>glimepiride
+Interactions en propre mais voir aussi : sulfamides hypoglycémiants
+</p>
+<p>glipizide
+Interactions en propre mais voir aussi : antabuse (réaction) - sulfamides hypoglycémiants
+</p>
+<p>griseofulvine
+Interactions en propre mais voir aussi : antabuse (réaction)</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>guanethidine
+Interactions en propre seulement
+</p>
+<p>guanfacine
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs centraux - antihypertenseurs sauf alpha-bloquants - bradycardisants - médicaments 
+abaissant la pression artérielle - médicaments sédatifs
+</p>
+<p>halazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>halofantrine
+Interactions en propre mais voir aussi : antiparasitaires susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de 
+pointes - substrats à risque du CYP3A4
+</p>
+<p>haloperidol
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments sédatifs - 
+médicaments susceptibles de donner des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de 
+donner des torsades de pointes
+</p>
+<p>halothane
+Interactions en propre mais voir aussi : anesthésiques volatils halogénés
+</p>
+<p>haloxazolam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>heparine calcique
+Voir : héparines - héparines non fractionnées (doses curatives et/ou sujet âgé) - héparines non fractionnées (doses préventives) - hyperkaliémiants
+</p>
+<p>heparine sodique
+Voir : héparines - héparines non fractionnées (doses curatives et/ou sujet âgé) - héparines non fractionnées (doses préventives) - hyperkaliémiants
+</p>
+<p>heparine sodique/iodure de sodium
+Voir : héparines - héparines non fractionnées (doses curatives et/ou sujet âgé) - héparines non fractionnées (doses préventives) - hyperkaliémiants
+</p>
+<p>hexylresorcinol
+Voir : spermicides
+</p>
+<p>histapyrrodine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>homatropine
+Voir : médicaments atropiniques
+</p>
+<p>hydrochlorothiazide
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques 
+thiazidiques et apparentés - hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>hydrocortisone
+Interactions en propre mais voir aussi : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>hydromorphone
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>hydroquinidine
+Interactions en propre mais voir aussi : antiarythmiques - antiarythmiques classe I (sauf lidocaïne) - antiarythmiques classe Ia - autres médicaments susceptibles 
+de donner des torsades de pointes - bradycardisants - médicaments susceptibles de donner des torsades de pointes - torsadogènes (sauf antiparasitaires, 
+neuroleptiques, méthadone)
+</p>
+<p>hydrotalcite
+Voir : topiques gastro-intestinaux, antiacides et charbon
+</p>
+<p>hydroxycarbamide
+Voir : cytotoxiques
+</p>
+<p>hydroxyprogesterone
+Voir : progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>hydroxyzine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>ibuprofene
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>ibutilide
+Voir : antiarythmiques - autres médicaments susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de pointes - 
+torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>idarubicine
+Voir : cytotoxiques
+</p>
+<p>ifosfamide
+Interactions en propre mais voir aussi : cytotoxiques - médicaments néphrotoxiques
+</p>
+<p>iloprost
+Voir : antiagrégants plaquettaires</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>iloprost trometamol
+Voir : antiagrégants plaquettaires
+</p>
+<p>imatinib
+Voir : inhibiteurs des tyrosine kinases - substrats à risque du CYP3A4
+</p>
+<p>imidapril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>imipenem
+Interactions en propre seulement
+</p>
+<p>imipramine
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - 
+médicaments mixtes adrénergiques-sérotoninergiques
+</p>
+<p>immunoglobuline de lapin anti-lymphocyte t humain
+Voir : globulines antilymphocytaires
+</p>
+<p>immunoglobulines equines antilymphocyte humain
+Voir : globulines antilymphocytaires
+</p>
+<p>indapamide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>indinavir
+Interactions en propre mais voir aussi : inhibiteurs de protéase - inhibiteurs de protéase (sauf ritonavir)
+</p>
+<p>indometacine
+Interactions en propre mais voir aussi : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>indoramine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>insuline
+Interactions en propre mais voir aussi : insuline
+</p>
+<p>insuline asparte
+Voir : insuline
+</p>
+<p>insuline asparte isophane biphasique
+Voir : insuline
+</p>
+<p>insuline glargine
+Voir : insuline
+</p>
+<p>insuline humaine biosynthetique
+Voir : insuline
+</p>
+<p>insuline humaine biosynthetique zinc
+Voir : insuline
+</p>
+<p>insuline humaine hemisynthetique d'origine porcine
+Voir : insuline
+</p>
+<p>insuline humaine hemisynthetique isophane
+Voir : insuline
+</p>
+<p>insuline humaine hemisynthetique isophane biphasiqu
+Voir : insuline
+</p>
+<p>insuline humaine recombinante
+Voir : insuline
+</p>
+<p>insuline humaine recombinante isophane
+Voir : insuline
+</p>
+<p>insuline humaine recombinante isophane biphasique
+Voir : insuline
+</p>
+<p>insuline humaine recombinante zinc
+Voir : insuline
+</p>
+<p>insuline humaine recombinante zinc cristalline
+Voir : insuline
+</p>
+<p>insuline lispro
+Voir : insuline
+</p>
+<p>insuline porcine
+Voir : insuline
+</p>
+<p>interferon alfa
+Interactions en propre seulement</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>iobitridol
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>iodixanol
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>iohexol
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>iomeprol
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>iopamidol
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>iopentol
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>iopromide
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>ioversol
+Voir : médicaments néphrotoxiques - produits de contraste iodés
+</p>
+<p>ipratropium
+Voir : médicaments atropiniques
+</p>
+<p>iproniazide
+Voir : IMAO non sélectifs
+</p>
+<p>irbesartan
+Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la 
+pression artérielle
+</p>
+<p>irinotecan
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>isepamicine
+Voir : aminosides - médicaments néphrotoxiques
+</p>
+<p>isoflurane
+Voir : anesthésiques volatils halogénés
+</p>
+<p>isoniazide
+Interactions en propre seulement
+</p>
+<p>isoprenaline
+Interactions en propre seulement
+</p>
+<p>isosorbide
+Voir : dérivés nitrés et apparentés
+</p>
+<p>isothipendyl
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>isotretinoine
+Voir : rétinoïdes
+</p>
+<p>isradipine
+Voir : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression 
+artérielle
+</p>
+<p>itraconazole
+Interactions en propre mais voir aussi : antifongiques azolés - inhibiteurs puissants du CYP3A4
+</p>
+<p>ivabradine
+Interactions en propre mais voir aussi : bradycardisants
+</p>
+<p>josamycine
+Interactions en propre mais voir aussi : macrolides (sauf spiramycine)
+</p>
+<p>kanamycine
+Voir : aminosides - médicaments néphrotoxiques
+</p>
+<p>ketazolam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>ketoconazole
+Interactions en propre mais voir aussi : antabuse (réaction) - antifongiques azolés - inhibiteurs puissants du CYP3A4
+</p>
+<p>ketoprofene
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>ketotifene
+Voir : médicaments sédatifs</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>labetalol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>lacidipine
+Voir : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression 
+artérielle
+</p>
+<p>lamivudine
+Interactions en propre seulement
+</p>
+<p>lamotrigine
+Interactions en propre mais voir aussi : anticonvulsivants métabolisés
+</p>
+<p>lanreotide
+Voir : analogues de la somatostatine
+</p>
+<p>lansoprazole
+Interactions en propre mais voir aussi : antisécrétoires inhibiteurs de la pompe à protons
+</p>
+<p>lapatinib
+Voir : inhibiteurs des tyrosine kinases - substrats à risque du CYP3A4
+</p>
+<p>lepirudine
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>lercanidipine
+Interactions en propre mais voir aussi : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - 
+médicaments abaissant la pression artérielle
+</p>
+<p>levobunolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>levodopa
+Interactions en propre seulement
+</p>
+<p>levofloxacine
+Voir : fluoroquinolones
+</p>
+<p>levomepromazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+médicaments susceptibles de donner des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques 
+phénothiaziniques - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>levonorgestrel
+Voir : progestatifs contraceptifs
+</p>
+<p>levothyroxine
+Voir : hormones thyroïdiennes
+</p>
+<p>lidocaine
+Interactions en propre mais voir aussi : antiarythmiques
+</p>
+<p>lincomycine
+Voir : lincosanides
+</p>
+<p>linezolide
+Interactions en propre seulement
+</p>
+<p>linsidomine
+Voir : dérivés nitrés et apparentés
+</p>
+<p>liothyronine sodique
+Voir : hormones thyroïdiennes
+</p>
+<p>lisinopril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>lisuride
+Voir : alcaloïdes de l'ergot de seigle dopaminergiques - antiparkinsoniens dopaminergiques - dopaminergiques
+</p>
+<p>lithium
+Interactions en propre seulement
+</p>
+<p>lomefloxacine
+Voir : fluoroquinolones
+</p>
+<p>lomustine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>lopinavir
+Voir : inhibiteurs de protéase - inhibiteurs de protéase (sauf ritonavir)</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>loprazolam
+Voir : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs
+</p>
+<p>lorazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>lormetazepam
+Voir : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs
+</p>
+<p>losartan
+Interactions en propre mais voir aussi : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - 
+hyperkaliémiants - médicaments abaissant la pression artérielle
+</p>
+<p>loxapine
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine)
+</p>
+<p>lumefantrine
+Interactions en propre mais voir aussi : antiparasitaires susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de 
+pointes - substrats à risque du CYP3A4
+</p>
+<p>lymecycline
+Voir : cyclines
+</p>
+<p>lynestrenol
+Voir : progestatifs contraceptifs - progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>magaldrate
+Voir : topiques gastro-intestinaux, antiacides et charbon
+</p>
+<p>magnesium (trisilicate de)
+Voir : topiques gastro-intestinaux, antiacides et charbon
+</p>
+<p>manidipine
+Voir : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression 
+artérielle
+</p>
+<p>maprotiline
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques
+</p>
+<p>medazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>medrogestone
+Voir : progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>medroxyprogesterone
+Voir : progestatifs contraceptifs - progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>mefenidramium
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>mefloquine
+Interactions en propre mais voir aussi : bradycardisants - médicaments abaissant le seuil épileptogène
+</p>
+<p>meloxicam
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>melphalan
+Voir : cytotoxiques
+</p>
+<p>meprobamate
+Voir : hypnotiques - médicaments sédatifs
+</p>
+<p>mepyramine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>merbromine
+Voir : antiseptiques mercuriels
+</p>
+<p>mercaptopurine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>meropenem
+Interactions en propre seulement
+</p>
+<p>mesalazine
+Voir : dérivés de l'acide aminosalicylique (ASA)
+</p>
+<p>metformine
+Interactions en propre seulement
+</p>
+<p>methadone
+Interactions en propre mais voir aussi : médicaments sédatifs - médicaments susceptibles de donner des torsades de pointes - morphiniques - morphiniques en 
+traitement de substitution</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>methenamine
+Interactions en propre seulement
+</p>
+<p>methotrexate
+Interactions en propre mais voir aussi : cytotoxiques - médicaments néphrotoxiques
+</p>
+<p>methoxyflurane
+Voir : anesthésiques volatils halogénés
+</p>
+<p>methyclothiazide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>methyldopa
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs centraux - antihypertenseurs sauf alpha-bloquants - médicaments abaissant la 
+pression artérielle - médicaments sédatifs
+</p>
+<p>methylenecycline
+Voir : cyclines
+</p>
+<p>methylergometrine
+Interactions en propre mais voir aussi : alcaloïdes de l'ergot de seigle vasoconstricteurs - substrats à risque du CYP3A4
+</p>
+<p>methylphenidate
+Voir : sympathomimétiques indirects
+</p>
+<p>methylphenobarbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>methylprednisolone
+Interactions en propre mais voir aussi : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>methysergide
+Voir : alcaloïdes de l'ergot de seigle vasoconstricteurs - substrats à risque du CYP3A4
+</p>
+<p>metipranolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>metoclopramide
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques - neuroleptiques antiémétiques
+</p>
+<p>metopimazine
+Voir : médicaments abaissant la pression artérielle - médicaments atropiniques - médicaments sédatifs - neuroleptiques - neuroleptiques antiémétiques - 
+neuroleptiques phénothiaziniques
+</p>
+<p>metoprolol
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf 
+esmolol) - bêta-bloquants dans l'insuffisance cardiaque - bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>metronidazole
+Interactions en propre mais voir aussi : antabuse (réaction) - nitro-imidazolés
+</p>
+<p>metyrapone
+Interactions en propre seulement
+</p>
+<p>mexiletine
+Interactions en propre mais voir aussi : antiarythmiques - antiarythmiques classe I (sauf lidocaïne)
+</p>
+<p>mezlocilline
+Voir : pénicillines
+</p>
+<p>mianserine
+Voir : médicaments sédatifs
+</p>
+<p>miconazole
+Interactions en propre seulement
+</p>
+<p>midazolam
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - médicaments sédatifs - substrats à risque du CYP3A4
+</p>
+<p>midecamycine
+Interactions en propre mais voir aussi : macrolides (sauf spiramycine)
+</p>
+<p>midodrine
+Interactions en propre mais voir aussi : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>millepertuis
+Interactions en propre seulement
+</p>
+<p>milnacipran
+Voir : médicaments mixtes adrénergiques-sérotoninergiques
+</p>
+<p>miltefosine
+Voir : cytotoxiques</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>minocycline
+Voir : cyclines
+</p>
+<p>mirtazapine
+Voir : médicaments sédatifs
+</p>
+<p>mitoguazone
+Voir : cytotoxiques
+</p>
+<p>mitomycine c
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>mitoxantrone
+Voir : cytotoxiques
+</p>
+<p>mivacurium
+Voir : curares
+</p>
+<p>mizolastine
+Interactions en propre mais voir aussi : autres médicaments susceptibles de donner des torsades de pointes - médicaments atropiniques - médicaments sédatifs - 
+médicaments susceptibles de donner des torsades de pointes - torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>moclobemide
+Interactions en propre mais voir aussi : IMAO-A sélectifs
+</p>
+<p>modafinil
+Interactions en propre seulement
+</p>
+<p>moexipril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>molsidomine
+Voir : dérivés nitrés et apparentés
+</p>
+<p>mometasone
+Voir : corticoïdes inhalés
+</p>
+<p>montelukast
+Interactions en propre seulement
+</p>
+<p>morniflumate
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>morphine
+Interactions en propre mais voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>moxifloxacine
+Voir : autres médicaments susceptibles de donner des torsades de pointes - fluoroquinolones - médicaments susceptibles de donner des torsades de pointes - 
+torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>moxonidine
+Voir : antihypertenseurs - antihypertenseurs centraux - antihypertenseurs sauf alpha-bloquants - médicaments abaissant la pression artérielle - médicaments 
+sédatifs
+</p>
+<p>myristalkonium
+Voir : spermicides
+</p>
+<p>nabumetone
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>nadolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>nadoxolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>nadroparine calcique
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>nalbuphine
+Voir : médicaments sédatifs - morphiniques - morphiniques agonistes-antagonistes
+</p>
+<p>nalorphine
+Voir : médicaments sédatifs - morphiniques
+</p>
+<p>naloxone
+Voir : médicaments sédatifs - morphiniques
+</p>
+<p>naltrexone
+Interactions en propre mais voir aussi : médicaments sédatifs - morphiniques</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>naphazoline
+Voir : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>naproxene
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>naratriptan
+Voir : triptans - triptans non métabolisés par la MAO
+</p>
+<p>nebivolol
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf 
+esmolol) - bêta-bloquants dans l'insuffisance cardiaque - bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>nefopam
+Voir : médicaments sédatifs
+</p>
+<p>nelfinavir
+Interactions en propre mais voir aussi : inhibiteurs de protéase - inhibiteurs de protéase (sauf ritonavir) - inhibiteurs puissants du CYP3A4
+</p>
+<p>neostigmine
+Voir : anticholinestérasiques - bradycardisants
+</p>
+<p>netilmicine
+Voir : aminosides - médicaments néphrotoxiques
+</p>
+<p>nevirapine
+Interactions en propre mais voir aussi : inducteurs enzymatiques
+</p>
+<p>nialamide
+Voir : IMAO non sélectifs
+</p>
+<p>niaprazine
+Voir : hypnotiques - médicaments atropiniques - médicaments sédatifs
+</p>
+<p>nicardipine
+Interactions en propre mais voir aussi : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - 
+médicaments abaissant la pression artérielle
+</p>
+<p>nicorandil
+Voir : dérivés nitrés et apparentés
+</p>
+<p>nicotine
+Voir : traitements de substitution nicotinique
+</p>
+<p>nifedipine
+Interactions en propre mais voir aussi : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - 
+médicaments abaissant la pression artérielle
+</p>
+<p>nilotinib
+Voir : inhibiteurs des tyrosine kinases - substrats à risque du CYP3A4
+</p>
+<p>nimesulide
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>nimetazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>nimodipine
+Interactions en propre mais voir aussi : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - 
+médicaments abaissant la pression artérielle
+</p>
+<p>nitrazepam
+Voir : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs
+</p>
+<p>nitrendipine
+Voir : antagonistes des canaux calciques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression 
+artérielle
+</p>
+<p>nizatidine
+Voir : antisécrétoires antihistaminiques H2
+</p>
+<p>nomegestrol
+Voir : progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>nonoxynol 9
+Voir : spermicides
+</p>
+<p>noradrenaline
+Voir : sympathomimétiques alpha et bêta (voie IM et IV)
+</p>
+<p>nordazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>norepinephrine
+Voir : sympathomimétiques alpha et bêta (voie IM et IV)</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>norethandrolone
+Voir : androgènes
+</p>
+<p>norethisterone
+Voir : progestatifs contraceptifs - progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>norfloxacine
+Interactions en propre mais voir aussi : fluoroquinolones
+</p>
+<p>norgestrienone
+Voir : progestatifs contraceptifs
+</p>
+<p>nortriptyline
+Interactions en propre mais voir aussi : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil 
+épileptogène - médicaments atropiniques
+</p>
+<p>noscapine
+Voir : antitussifs morphine-like - médicaments sédatifs - morphiniques
+</p>
+<p>octreotide
+Voir : analogues de la somatostatine
+</p>
+<p>ofloxacine
+Voir : fluoroquinolones
+</p>
+<p>olanzapine
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques - neuroleptiques antipsychotiques 
+(sauf clozapine)
+</p>
+<p>olmesartan
+Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la 
+pression artérielle
+</p>
+<p>olsalazine
+Voir : dérivés de l'acide aminosalicylique (ASA)
+</p>
+<p>omeprazole
+Interactions en propre mais voir aussi : antisécrétoires inhibiteurs de la pompe à protons
+</p>
+<p>ondansetron
+Interactions en propre mais voir aussi : 
+</p>
+<p>opipramol
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques
+</p>
+<p>or
+Interactions en propre seulement
+</p>
+<p>orlistat
+Interactions en propre seulement
+</p>
+<p>ornidazole
+Interactions en propre mais voir aussi : antabuse (réaction) - nitro-imidazolés
+</p>
+<p>oxacilline
+Voir : pénicillines
+</p>
+<p>oxaliplatine
+Voir : cytotoxiques - médicaments néphrotoxiques - organoplatines
+</p>
+<p>oxatomide
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>oxazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>oxazolam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>oxcarbazepine
+Interactions en propre mais voir aussi : anticonvulsivants métabolisés - hyponatrémiants - inducteurs enzymatiques
+</p>
+<p>oxetorone
+Voir : médicaments sédatifs
+</p>
+<p>oxitriptan
+Voir : médicaments mixtes adrénergiques-sérotoninergiques
+</p>
+<p>oxitropium
+Voir : médicaments atropiniques
+</p>
+<p>oxomemazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques phénothiaziniques</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>oxprenolol
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf 
+esmolol) - bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>oxybutynine
+Voir : médicaments atropiniques
+</p>
+<p>oxycodone
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>oxymetazoline
+Voir : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>oxyphenbutazone
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>oxytetracycline
+Voir : cyclines
+</p>
+<p>p a s sodique
+Voir : dérivés de l'acide aminosalicylique (ASA)
+</p>
+<p>paclitaxel
+Voir : cytotoxiques
+</p>
+<p>pancuronium
+Voir : curares - curares non dépolarisants
+</p>
+<p>pantoprazole
+Voir : antisécrétoires inhibiteurs de la pompe à protons
+</p>
+<p>paracetamol
+Interactions en propre seulement
+</p>
+<p>paraffine
+Voir : huiles minérales
+</p>
+<p>parecoxib
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>paroxetine
+Interactions en propre mais voir aussi : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotonine - médicaments abaissant le seuil épileptogène
+</p>
+<p>pefloxacine
+Interactions en propre mais voir aussi : fluoroquinolones
+</p>
+<p>peg-interferon
+Interactions en propre seulement
+</p>
+<p>pemetrexed
+Interactions en propre seulement
+</p>
+<p>penfluridol
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments sédatifs - neuroleptiques - neuroleptiques 
+antipsychotiques (sauf clozapine)
+</p>
+<p>penicillamine
+Interactions en propre seulement
+</p>
+<p>pentamidine
+Interactions en propre mais voir aussi : antiparasitaires susceptibles de donner des torsades de pointes - médicaments néphrotoxiques - médicaments susceptibles 
+de donner des torsades de pointes
+</p>
+<p>pentazocine
+Voir : médicaments sédatifs - morphiniques - morphiniques agonistes-antagonistes
+</p>
+<p>pentobarbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>pentostatine
+Interactions en propre mais voir aussi : cytotoxiques
+</p>
+<p>pentoxifylline
+Interactions en propre seulement
+</p>
+<p>pergolide
+Voir : alcaloïdes de l'ergot de seigle dopaminergiques - antiparkinsoniens dopaminergiques - dopaminergiques
+</p>
+<p>perhexiline
+Interactions en propre seulement
+</p>
+<p>perindopril tert-butylamine
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>perphenazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques phénothiaziniques
+</p>
+<p>pethidine
+Interactions en propre mais voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>phenindione
+Voir : anticoagulants oraux
+</p>
+<p>pheniramine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>phenobarbital
+Voir : anticonvulsivants inducteurs enzymatiques - anticonvulsivants métabolisés - barbituriques - inducteurs enzymatiques - médicaments sédatifs - phénobarbital 
+(et, par extrapolation, primidone)
+</p>
+<p>phenoperidine
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - morphiniques
+</p>
+<p>phenoxymethylpenicilline
+Voir : pénicillines
+</p>
+<p>phenylbutazone
+Interactions en propre mais voir aussi : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>phenylephrine
+Voir : sympathomimétiques alpha (voies orale et/ou nasale) - sympathomimétiques indirects
+</p>
+<p>phenyltoloxamine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>phenytoine
+Voir : anticonvulsivants inducteurs enzymatiques - anticonvulsivants métabolisés - inducteurs enzymatiques - phénytoïne (et, par extrapolation, fosphénytoïne)
+</p>
+<p>pholcodine
+Voir : antitussifs morphine-like - médicaments sédatifs - morphiniques
+</p>
+<p>phosphore
+Interactions en propre seulement
+</p>
+<p>pilocarpine
+Interactions en propre mais voir aussi : bradycardisants
+</p>
+<p>pimethixene
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>pimozide
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments sédatifs - médicaments susceptibles de donner des torsades de 
+pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes - substrats à risque du 
+CYP3A4
+</p>
+<p>pinazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>pindolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>pioglitazone
+Voir : antidiabétiques glitazones
+</p>
+<p>pipamperone
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments sédatifs - médicaments susceptibles de donner 
+des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>piperacilline
+Voir : pénicillines
+</p>
+<p>piperazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques phénothiaziniques
+</p>
+<p>pipobroman
+Voir : cytotoxiques
+</p>
+<p>pipotiazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+médicaments susceptibles de donner des torsades de pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques 
+phénothiaziniques - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>pirarubicine
+Voir : cytotoxiques</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>piretanide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques de l'anse - diurétiques hypokaliémiants - hypokaliémiants - 
+hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>piribedil
+Voir : antiparkinsoniens dopaminergiques - dopaminergiques
+</p>
+<p>piroxicam
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>piroxicam-betadex
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>pivampicilline
+Voir : pénicillines - pénicillines A
+</p>
+<p>pizotifene
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>plicamycine
+Voir : cytotoxiques
+</p>
+<p>polymyxine b
+Interactions en propre seulement
+</p>
+<p>posaconazole
+Interactions en propre mais voir aussi : antifongiques azolés - inhibiteurs puissants du CYP3A4
+</p>
+<p>potassium
+Interactions en propre mais voir aussi : hyperkaliémiants
+</p>
+<p>povidone
+Interactions en propre seulement
+</p>
+<p>pramipexole
+Voir : antiparkinsoniens dopaminergiques - dopaminergiques
+</p>
+<p>pravastatine
+Interactions en propre mais voir aussi : 
+</p>
+<p>prazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>praziquantel
+Interactions en propre seulement
+</p>
+<p>prazosine
+Voir : alphabloquants à visée urologique (sauf doxazosine) - antihypertenseurs - antihypertenseurs alpha-bloquants - médicaments abaissant la pression artérielle
+</p>
+<p>prednisolone
+Interactions en propre mais voir aussi : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>prednisone
+Voir : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>pregabaline
+Voir : médicaments sédatifs
+</p>
+<p>prilocaine
+Interactions en propre seulement
+</p>
+<p>primidone
+Voir : anticonvulsivants inducteurs enzymatiques - anticonvulsivants métabolisés - barbituriques - inducteurs enzymatiques - médicaments sédatifs - phénobarbital 
+(et, par extrapolation, primidone)
+</p>
+<p>pristinamycine
+Interactions en propre seulement
+</p>
+<p>probenecide
+Interactions en propre mais voir aussi : uricosuriques
+</p>
+<p>procarbazine
+Interactions en propre mais voir aussi : antabuse (réaction) - cytotoxiques
+</p>
+<p>prochlorperazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques phénothiaziniques
+</p>
+<p>progesterone
+Voir : progestatifs non contraceptifs, associés ou non à un estrogène
+</p>
+<p>proguanil
+Interactions en propre seulement
+</p>
+<p>promegestone
+Voir : progestatifs non contraceptifs, associés ou non à un estrogène</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>promestriene
+Voir : estrogènes non contraceptifs
+</p>
+<p>promethazine
+Voir : hypnotiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments 
+sédatifs - neuroleptiques - neuroleptiques phénothiaziniques
+</p>
+<p>propafenone
+Interactions en propre mais voir aussi : antiarythmiques - antiarythmiques classe I (sauf lidocaïne)
+</p>
+<p>propericiazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques phénothiaziniques
+</p>
+<p>propranolol
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf 
+esmolol) - bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>pseudoephedrine
+Voir : sympathomimétiques indirects
+</p>
+<p>pyrazinamide
+Interactions en propre seulement
+</p>
+<p>pyridostigmine
+Voir : anticholinestérasiques - bradycardisants
+</p>
+<p>pyrimethamine
+Interactions en propre seulement
+</p>
+<p>quetiapine
+Interactions en propre seulement
+</p>
+<p>quinagolide
+Voir : dopaminergiques - dopaminergiques, hors Parkinson
+</p>
+<p>quinapril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>quinidine
+Interactions en propre mais voir aussi : antiarythmiques - antiarythmiques classe I (sauf lidocaïne) - antiarythmiques classe Ia - autres médicaments susceptibles 
+de donner des torsades de pointes - bradycardisants - médicaments atropiniques - médicaments susceptibles de donner des torsades de pointes - torsadogènes 
+(sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>quinine
+Interactions en propre seulement
+</p>
+<p>quinupristine
+Interactions en propre seulement
+</p>
+<p>rabeprazole
+Voir : antisécrétoires inhibiteurs de la pompe à protons
+</p>
+<p>raltitrexed
+Voir : cytotoxiques
+</p>
+<p>ramipril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>ranitidine
+Voir : antisécrétoires antihistaminiques H2
+</p>
+<p>rasagiline
+Voir : antiparkinsoniens dopaminergiques - dopaminergiques - IMAO-B sélectifs
+</p>
+<p>remifentanil
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>repaglinide
+Interactions en propre seulement
+</p>
+<p>reserpine
+Interactions en propre seulement
+</p>
+<p>reteplase
+Voir : thrombolytiques
+</p>
+<p>reviparine
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>rhubarbe
+Voir : hypokaliémiants</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ribavirine
+Interactions en propre seulement
+</p>
+<p>ricin
+Voir : hypokaliémiants
+</p>
+<p>ricinus communis
+Voir : hypokaliémiants
+</p>
+<p>rifabutine
+Interactions en propre mais voir aussi : inducteurs enzymatiques
+</p>
+<p>rifampicine
+Interactions en propre mais voir aussi : inducteurs enzymatiques
+</p>
+<p>rilmenidine
+Voir : antihypertenseurs - antihypertenseurs centraux - antihypertenseurs sauf alpha-bloquants - médicaments abaissant la pression artérielle - médicaments 
+sédatifs
+</p>
+<p>risperidone
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments sédatifs - neuroleptiques - neuroleptiques antipsychotiques 
+(sauf clozapine)
+</p>
+<p>ritodrine
+Voir : bêta-2 mimétiques
+</p>
+<p>ritonavir
+Interactions en propre mais voir aussi : inhibiteurs de protéase - inhibiteurs puissants du CYP3A4
+</p>
+<p>rivastigmine
+Voir : anticholinestérasiques - bradycardisants
+</p>
+<p>rizatriptan
+Interactions en propre mais voir aussi : triptans - triptans métabolisés par la MAO
+</p>
+<p>rocuronium
+Voir : curares - curares non dépolarisants
+</p>
+<p>rofecoxib
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>ropinirole
+Interactions en propre mais voir aussi : antiparkinsoniens dopaminergiques - dopaminergiques - médicaments à risque lors du sevrage tabagique
+</p>
+<p>rosiglitazone
+Voir : antidiabétiques glitazones
+</p>
+<p>rosuvastatine
+Interactions en propre mais voir aussi : 
+</p>
+<p>roxatidine
+Voir : antisécrétoires antihistaminiques H2
+</p>
+<p>roxithromycine
+Interactions en propre mais voir aussi : macrolides (sauf spiramycine)
+</p>
+<p>rupatadine
+Voir : médicaments sédatifs
+</p>
+<p>salbutamol
+Voir : bêta-2 mimétiques
+</p>
+<p>sapropterine
+Interactions en propre seulement
+</p>
+<p>saquinavir
+Voir : inhibiteurs de protéase - inhibiteurs de protéase (sauf ritonavir)
+</p>
+<p>scopolamine
+Voir : médicaments atropiniques
+</p>
+<p>secbutabarbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>secnidazole
+Voir : antabuse (réaction) - nitro-imidazolés
+</p>
+<p>selegiline
+Voir : antiparkinsoniens dopaminergiques - dopaminergiques - IMAO-B sélectifs
+</p>
+<p>sene
+Voir : hypokaliémiants
+</p>
+<p>sene de khartoum
+Voir : hypokaliémiants</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>sene de l'inde
+Voir : hypokaliémiants
+</p>
+<p>sertindole
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments sédatifs - médicaments susceptibles de donner des torsades de 
+pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>sertraline
+Interactions en propre mais voir aussi : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotonine - médicaments abaissant le seuil épileptogène
+</p>
+<p>sevelamer
+Interactions en propre seulement
+</p>
+<p>sevoflurane
+Voir : anesthésiques volatils halogénés
+</p>
+<p>sibutramine
+Voir : médicaments mixtes adrénergiques-sérotoninergiques
+</p>
+<p>sildenafil
+Interactions en propre mais voir aussi : inhibiteurs de la phosphodiesterase de type 5 (sauf vardenafil)
+</p>
+<p>silicone
+Voir : huiles minérales
+</p>
+<p>simvastatine
+Interactions en propre mais voir aussi : substrats à risque du CYP3A4
+</p>
+<p>sirolimus
+Interactions en propre mais voir aussi : immunosuppresseurs - substrats à risque du CYP3A4
+</p>
+<p>sodium (aurothiopropanolsulfonate de)
+Interactions en propre seulement
+</p>
+<p>sodium (bicarbonate de)
+Voir : alcalinisants urinaires
+</p>
+<p>sodium (docusate de)
+Voir : hypokaliémiants
+</p>
+<p>sodium (picosulfate de)
+Voir : hypokaliémiants
+</p>
+<p>sodium (ricinoleate de)
+Voir : hypokaliémiants
+</p>
+<p>solifenacine
+Interactions en propre mais voir aussi : médicaments atropiniques
+</p>
+<p>sorafenib
+Voir : inhibiteurs des tyrosine kinases - substrats à risque du CYP3A4
+</p>
+<p>sorbitol
+Interactions en propre seulement
+</p>
+<p>sotalol
+Voir : antiarythmiques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - autres médicaments susceptibles de donner des torsades de pointes - bêta-
+bloquants (sauf esmolol) - bradycardisants - médicaments abaissant la pression artérielle - médicaments susceptibles de donner des torsades de pointes - 
+torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>spectinomycine
+Voir : médicaments néphrotoxiques
+</p>
+<p>spiramycine
+Interactions en propre mais voir aussi : autres médicaments susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de 
+pointes - torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>spirapril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>spironolactone
+Interactions en propre mais voir aussi : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques épargneurs de potassium (seuls ou 
+associés) - hyperkaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>stavudine
+Interactions en propre seulement
+</p>
+<p>stiripentol
+Interactions en propre seulement
+</p>
+<p>streptokinase
+Voir : thrombolytiques
+</p>
+<p>streptomycine
+Voir : aminosides - médicaments néphrotoxiques</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>streptozocine
+Voir : cytotoxiques - médicaments néphrotoxiques
+</p>
+<p>strontium
+Interactions en propre seulement
+</p>
+<p>succinylcholine
+Voir : curares
+</p>
+<p>sucralfate
+Interactions en propre seulement
+</p>
+<p>sufentanil
+Voir : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - médicaments sédatifs - morphiniques
+</p>
+<p>sulfacetamide
+Voir : sulfamides antibactériens
+</p>
+<p>sulfadiazine
+Voir : sulfamides antibactériens
+</p>
+<p>sulfadoxine
+Voir : sulfamides antibactériens
+</p>
+<p>sulfafurazol
+Interactions en propre mais voir aussi : sulfamides antibactériens
+</p>
+<p>sulfaguanidine
+Voir : sulfamides antibactériens
+</p>
+<p>sulfamethizol
+Interactions en propre mais voir aussi : sulfamides antibactériens
+</p>
+<p>sulfamethoxazole
+Interactions en propre mais voir aussi : sulfamides antibactériens
+</p>
+<p>sulfamoxole
+Voir : sulfamides antibactériens
+</p>
+<p>sulfasalazine
+Interactions en propre mais voir aussi : dérivés de l'acide aminosalicylique (ASA)
+</p>
+<p>sulfinpyrazone
+Interactions en propre seulement
+</p>
+<p>sulindac
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>sulpiride
+Interactions en propre mais voir aussi : médicaments abaissant la pression artérielle - médicaments sédatifs - médicaments susceptibles de donner des torsades de 
+pointes - neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>sulprostone
+Interactions en propre seulement
+</p>
+<p>sultopride
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - médicaments susceptibles de donner des torsades de pointes - neuroleptiques - 
+neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>sumatriptan
+Voir : triptans - triptans métabolisés par la MAO
+</p>
+<p>sunitinib
+Voir : inhibiteurs des tyrosine kinases - substrats à risque du CYP3A4
+</p>
+<p>suxamethonium
+Interactions en propre mais voir aussi : curares
+</p>
+<p>synephrine
+Voir : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>tacrolimus
+Interactions en propre mais voir aussi : hyperkaliémiants - immunosuppresseurs - médicaments néphrotoxiques - substrats à risque du CYP3A4
+</p>
+<p>tadalafil
+Voir : inhibiteurs de la phosphodiesterase de type 5 (sauf vardenafil)
+</p>
+<p>tamoxifene
+Interactions en propre seulement
+</p>
+<p>tamsulosine
+Voir : alphabloquants à visée urologique (sauf doxazosine) - médicaments abaissant la pression artérielle
+</p>
+<p>tegafur
+Voir : cytotoxiques - fluorouracile (et, par extrapolation, tegafur et capécitabine)</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>telbivudine
+Interactions en propre seulement
+</p>
+<p>telithromycine
+Interactions en propre mais voir aussi : inhibiteurs puissants du CYP3A4 - macrolides (sauf spiramycine)
+</p>
+<p>telmisartan
+Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la 
+pression artérielle
+</p>
+<p>temazepam
+Voir : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs
+</p>
+<p>temozolomide
+Voir : cytotoxiques
+</p>
+<p>tenecteplase
+Voir : thrombolytiques
+</p>
+<p>tenofovir disoproxil
+Interactions en propre mais voir aussi : médicaments néphrotoxiques
+</p>
+<p>tenonitrozole
+Voir : antabuse (réaction) - nitro-imidazolés
+</p>
+<p>tenoxicam
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>terazosine
+Voir : alphabloquants à visée urologique (sauf doxazosine) - médicaments abaissant la pression artérielle
+</p>
+<p>terbinafine
+Interactions en propre seulement
+</p>
+<p>terbutaline
+Voir : bêta-2 mimétiques
+</p>
+<p>tertatolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>testosterone
+Voir : androgènes
+</p>
+<p>tetrabenazine
+Interactions en propre mais voir aussi : médicaments sédatifs
+</p>
+<p>tetracosactide
+Voir : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>tetracycline
+Voir : cyclines
+</p>
+<p>tetrazepam
+Voir : benzodiazépines et apparentés - médicaments sédatifs
+</p>
+<p>tetryzoline
+Voir : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>thalidomide
+Interactions en propre mais voir aussi : médicaments sédatifs
+</p>
+<p>thenyldiamine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>theophylline
+Interactions en propre mais voir aussi : médicaments à risque lors du sevrage tabagique - théophylline (et, par extrapolation, aminophylline)
+</p>
+<p>thiomersal
+Voir : antiseptiques mercuriels
+</p>
+<p>thiopental
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>thioproperazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques phénothiaziniques
+</p>
+<p>thiotepa
+Voir : cytotoxiques
+</p>
+<p>thyroxines
+Voir : hormones thyroïdiennes
+</p>
+<p>tiabendazole
+Interactions en propre seulement</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>tiagabine
+Interactions en propre mais voir aussi : anticonvulsivants métabolisés
+</p>
+<p>tiapride
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - médicaments susceptibles de donner des torsades de pointes - neuroleptiques - 
+neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes
+</p>
+<p>tibolone
+Interactions en propre seulement
+</p>
+<p>ticarcilline
+Voir : pénicillines - pénicillines A
+</p>
+<p>ticlopidine
+Interactions en propre mais voir aussi : antiagrégants plaquettaires
+</p>
+<p>tigecycline
+Voir : cyclines
+</p>
+<p>timolol
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - bradycardisants - 
+médicaments abaissant la pression artérielle
+</p>
+<p>tinidazole
+Voir : antabuse (réaction) - nitro-imidazolés
+</p>
+<p>tinzaparine
+Voir : héparines - héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé) - héparines de bas poids moléculaire et apparentés (doses 
+préventives) - hyperkaliémiants
+</p>
+<p>tioclomarol
+Voir : anticoagulants oraux
+</p>
+<p>tioguanine
+Voir : cytotoxiques
+</p>
+<p>tipranavir
+Voir : inhibiteurs de protéase
+</p>
+<p>tiratricol
+Voir : hormones thyroïdiennes
+</p>
+<p>tirofiban
+Voir : antiagrégants plaquettaires
+</p>
+<p>tobramycine
+Voir : aminosides - médicaments néphrotoxiques
+</p>
+<p>tolbutamide
+Voir : antabuse (réaction) - sulfamides hypoglycémiants
+</p>
+<p>toloxatone
+Voir : IMAO-A sélectifs
+</p>
+<p>tolterodine
+Interactions en propre mais voir aussi : médicaments atropiniques
+</p>
+<p>topiramate
+Interactions en propre mais voir aussi : anticonvulsivants métabolisés
+</p>
+<p>topotecane
+Voir : cytotoxiques
+</p>
+<p>torasemide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques de l'anse - diurétiques hypokaliémiants - hypokaliémiants - 
+hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>toremifene
+Voir : médicaments susceptibles de donner des torsades de pointes
+</p>
+<p>tramadol
+Interactions en propre mais voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier II - médicaments abaissant le seuil 
+épileptogène - médicaments sédatifs - morphiniques
+</p>
+<p>trandolapril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>triamcinolone
+Voir : glucocorticoïdes (sauf hydrocortisone en traitement substitutif) - hypokaliémiants
+</p>
+<p>triamterene
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques épargneurs de potassium (seuls ou associés) - hyperkaliémiants - 
+hyponatrémiants - médicaments abaissant la pression artérielle</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>triazolam
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs - substrats à risque du CYP3A4
+</p>
+<p>triclabendazole
+Interactions en propre seulement
+</p>
+<p>trifluoperazine
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments sédatifs - 
+neuroleptiques - neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques phénothiaziniques
+</p>
+<p>trifluperidol
+Voir : médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments sédatifs - neuroleptiques - neuroleptiques 
+antipsychotiques (sauf clozapine)
+</p>
+<p>trihexyphenidyle
+Voir : antiparkinsoniens anticholinergiques - médicaments atropiniques
+</p>
+<p>trimazosine
+Voir : antihypertenseurs - antihypertenseurs alpha-bloquants - médicaments abaissant la pression artérielle
+</p>
+<p>trimethoprime
+Interactions en propre mais voir aussi : hyperkaliémiants
+</p>
+<p>trimipramine
+Voir : antidépresseurs imipraminiques - médicaments abaissant la pression artérielle - médicaments abaissant le seuil épileptogène - médicaments atropiniques - 
+médicaments sédatifs
+</p>
+<p>trinitrine
+Voir : dérivés nitrés et apparentés
+</p>
+<p>triprolidine
+Voir : médicaments atropiniques - médicaments sédatifs
+</p>
+<p>troleandomycine
+Voir : macrolides (sauf spiramycine)
+</p>
+<p>trometamol
+Voir : alcalinisants urinaires
+</p>
+<p>tropatepine
+Voir : antiparkinsoniens anticholinergiques - médicaments atropiniques
+</p>
+<p>tropicamide
+Voir : médicaments atropiniques
+</p>
+<p>trospium
+Voir : médicaments atropiniques
+</p>
+<p>tuaminoheptane
+Voir : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>tymazoline
+Voir : sympathomimétiques alpha (voies orale et/ou nasale)
+</p>
+<p>urapidil
+Voir : antihypertenseurs - antihypertenseurs alpha-bloquants - médicaments abaissant la pression artérielle
+</p>
+<p>urokinase
+Voir : thrombolytiques
+</p>
+<p>valaciclovir
+Voir : médicaments néphrotoxiques
+</p>
+<p>valdecoxib
+Voir : anti-inflammatoires non stéroïdiens - hyperkaliémiants
+</p>
+<p>valganciclovir
+Voir : médicaments néphrotoxiques
+</p>
+<p>valpromide
+Voir : anticonvulsivants métabolisés - valproïque (acide) et, par extrapolation, valpromide
+</p>
+<p>valsartan
+Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la 
+pression artérielle
+</p>
+<p>vancomycine
+Voir : médicaments néphrotoxiques
+</p>
+<p>vardenafil
+Interactions en propre seulement
+</p>
+<p>vecuronium
+Voir : curares - curares non dépolarisants</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>venlafaxine
+Interactions en propre mais voir aussi : médicaments mixtes adrénergiques-sérotoninergiques
+</p>
+<p>verapamil
+Interactions en propre mais voir aussi : antagonistes des canaux calciques - antiarythmiques - antihypertenseurs - antihypertenseurs sauf alpha-bloquants - 
+bradycardisants - médicaments abaissant la pression artérielle
+</p>
+<p>vidarabine
+Interactions en propre seulement
+</p>
+<p>viloxazine
+Voir : médicaments atropiniques
+</p>
+<p>vinblastine
+Voir : cytotoxiques - substrats à risque du CYP3A4 - vinca-alcaloïdes cytotoxiques
+</p>
+<p>vincamine
+Voir : autres médicaments susceptibles de donner des torsades de pointes - médicaments susceptibles de donner des torsades de pointes - torsadogènes (sauf 
+antiparasitaires, neuroleptiques, méthadone)
+</p>
+<p>vincristine
+Voir : cytotoxiques - substrats à risque du CYP3A4 - vinca-alcaloïdes cytotoxiques
+</p>
+<p>vindesine
+Voir : cytotoxiques - substrats à risque du CYP3A4 - vinca-alcaloïdes cytotoxiques
+</p>
+<p>vinorelbine
+Voir : cytotoxiques - substrats à risque du CYP3A4 - vinca-alcaloïdes cytotoxiques
+</p>
+<p>vinylbital
+Voir : barbituriques - médicaments sédatifs
+</p>
+<p>virus de la fievre jaune
+Voir : vaccin antiamarile - vaccins vivants atténués
+</p>
+<p>virus de la varicelle
+Voir : vaccins vivants atténués - vaccins vivants atténués (sauf antiamarile)
+</p>
+<p>virus des oreillons
+Voir : vaccins vivants atténués - vaccins vivants atténués (sauf antiamarile)
+</p>
+<p>virus rougeoleux
+Voir : vaccins vivants atténués - vaccins vivants atténués (sauf antiamarile)
+</p>
+<p>virus rubeoleux
+Voir : vaccins vivants atténués - vaccins vivants atténués (sauf antiamarile)
+</p>
+<p>voriconazole
+Interactions en propre mais voir aussi : antifongiques azolés - inhibiteurs puissants du CYP3A4
+</p>
+<p>warfarine
+Voir : anticoagulants oraux
+</p>
+<p>xipamide
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - diurétiques - diurétiques hypokaliémiants - diurétiques thiazidiques et apparentés - 
+hypokaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
+</p>
+<p>yohimbine
+Interactions en propre seulement
+</p>
+<p>zalcitabine
+Interactions en propre seulement
+</p>
+<p>zidovudine
+Interactions en propre seulement
+</p>
+<p>zinc
+Interactions en propre seulement
+</p>
+<p>zofenopril
+Voir : antihypertenseurs - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression 
+artérielle
+</p>
+<p>zolmitriptan
+Voir : triptans - triptans métabolisés par la MAO
+</p>
+<p>zolpidem
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs
+</p>
+<p>zonisamide
+Voir : anticonvulsivants métabolisés
+</p>
+<p>zopiclone
+Interactions en propre mais voir aussi : benzodiazépines et apparentés - hypnotiques - médicaments sédatifs</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>zuclopenthixol
+Voir : médicaments abaissant la pression artérielle - médicaments sédatifs - médicaments susceptibles de donner des torsades de pointes - neuroleptiques - 
+neuroleptiques antipsychotiques (sauf clozapine) - neuroleptiques susceptibles de donner des torsades de pointes</p>
+<p/>
+</div>
+</body></html>

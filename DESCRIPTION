@@ -1,0 +1,11 @@
+Package: IMthesaurusANSM
+Type: Package
+Title: Thesaurus des Interactions Medicamenteuses de l ANSM
+Version: 0.1
+Date: 2016-02-04
+Author: Sebastien Cossin
+Maintainer: Sebastien Cossin <cossin.sebastien@gmail.com>
+Description: Transforme le thesaurus des interactions de l'ANSM en format structuré
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1

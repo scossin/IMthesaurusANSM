@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2014-01-10T15:13:00Z"/>
+<meta name="pdf:PDFVersion" content="1.6"/>
+<meta name="xmp:CreatorTool" content="PDFCreator Version 0.9.7"/>
+<meta name="Keywords" content="Interactions medicamenteuses - Classes pharmaco-therapeutiques"/>
+<meta name="access_permission:modify_annotations" content="true"/>
+<meta name="access_permission:can_print_degraded" content="true"/>
+<meta name="subject" content=""/>
+<meta name="dc:creator" content="Ansm"/>
+<meta name="dcterms:created" content="2014-01-09T17:52:02Z"/>
+<meta name="Last-Modified" content="2014-01-10T15:13:00Z"/>
+<meta name="dcterms:modified" content="2014-01-10T15:13:00Z"/>
+<meta name="dc:format" content="application/pdf; version=1.6"/>
+<meta name="Last-Save-Date" content="2014-01-10T15:13:00Z"/>
+<meta name="access_permission:fill_in_form" content="true"/>
+<meta name="meta:save-date" content="2014-01-10T15:13:00Z"/>
+<meta name="pdf:encrypted" content="false"/>
+<meta name="dc:title" content="Interactions medicamenteuses - Classes pharmaco-therapeutiques"/>
+<meta name="modified" content="2014-01-10T15:13:00Z"/>
+<meta name="cp:subject" content=""/>
+<meta name="Content-Length" content="374447"/>
+<meta name="X-TIKA:digest:MD5" content="33b36682b77906fb84a726433d74625a"/>
+<meta name="Content-Type" content="application/pdf"/>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser"/>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.pdf.PDFParser"/>
+<meta name="creator" content="Ansm"/>
+<meta name="meta:author" content="Ansm"/>
+<meta name="dc:subject" content="Interactions medicamenteuses - Classes pharmaco-therapeutiques"/>
+<meta name="meta:creation-date" content="2014-01-09T17:52:02Z"/>
+<meta name="created" content="Thu Jan 09 18:52:02 CET 2014"/>
+<meta name="X-TIKA:digest:SHA256" content="c3dc1954cabadf884ebfc7734b1eb96a119c646b8ec7d41d18af854da3ecae9b"/>
+<meta name="access_permission:extract_for_accessibility" content="true"/>
+<meta name="access_permission:assemble_document" content="true"/>
+<meta name="xmpTPg:NPages" content="20"/>
+<meta name="Creation-Date" content="2014-01-09T17:52:02Z"/>
+<meta name="resourceName" content="Thesaurus_Index_des_classes_therapeutiques_2014_.pdf"/>
+<meta name="access_permission:extract_content" content="true"/>
+<meta name="access_permission:can_print" content="true"/>
+<meta name="meta:keyword" content="Interactions medicamenteuses - Classes pharmaco-therapeutiques"/>
+<meta name="Author" content="Ansm"/>
+<meta name="producer" content="GPL Ghostscript 8.63"/>
+<meta name="access_permission:can_modify" content="true"/>
+<title>Interactions medicamenteuses - Classes pharmaco-therapeutiques</title>
+</head>
+<body><div class="page"><p/>
+<p>INTERACTIONS MEDICAMENTEUSES
+</p>
+<p>INDEX DES CLASSES
+PHARMACO-THERAPEUTIQUES
+</p>
+<p>ANSM
+Mise à jour Janvier 2014
+</p>
+<p>ANSM - Janvier 2014 1/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 2/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>IMAO irréversibles
+(iproniazide
+</p>
+<p>IMAO-A réversibles, y compris linezolide et bleu de méthylène
+(bleu de methylene, linezolide, moclobemide)
+</p>
+<p>IMAO-B réversibles
+(rasagiline, selegiline)
+</p>
+<p>acides biliaires
+(acide chenodesoxycholique, acide ursodesoxycholique)
+</p>
+<p>adrénaline (voie bucco-dentaire ou sous-cutanée)
+(adrenaline
+</p>
+<p>alcalinisants urinaires
+(acetazolamide, sodium (bicarbonate de), trometamol)
+</p>
+<p>alcaloïdes de l'ergot de seigle dopaminergiques
+(bromocriptine, cabergoline, lisuride, pergolide)
+</p>
+<p>alcaloïdes de l'ergot de seigle vasoconstricteurs
+(dihydroergotamine, ergotamine, methylergometrine, methysergide)
+</p>
+<p>alphabloquants à visée urologique
+(alfuzosine, doxazosine, prazosine, silodosine, tamsulosine, terazosine)
+</p>
+<p>aluminium (sels)
+(gel d'hydroxyde d'aluminium et de carbonate de magnesium codesseches, hydrotalcite, magaldrate)
+</p>
+<p>aminosides
+(amikacine, dibekacine, gentamicine, isepamicine, kanamycine, netilmicine, streptomycine, tobramycine)
+</p>
+<p>amprénavir (et, par extrapolation, fosamprénavir)
+(amprenavir, fosamprenavir)
+</p>
+<p>analgésiques morphiniques agonistes
+(alfentanil, codeine, dextromoramide, dihydrocodeine, fentanyl, hydromorphone, morphine, oxycodone, pethidine, phenoperidine, 
+remifentanil, sufentanil, tapentadol, tramadol)
+</p>
+<p>analgésiques morphiniques de palier II
+(codeine, dihydrocodeine, tramadol)
+</p>
+<p>analgésiques morphiniques de palier III
+(alfentanil, dextromoramide, fentanyl, hydromorphone, morphine, oxycodone, pethidine, phenoperidine, remifentanil, sufentanil, tapentadol)
+</p>
+<p>analogues de la somatostatine
+(lanreotide, octreotide, pasiréotide)
+</p>
+<p>androgènes
+(androstanolone, norethandrolone, testosterone)
+</p>
+<p>anesthésiques volatils halogénés
+(desflurane, enflurane, halothane, isoflurane, methoxyflurane, sevoflurane)
+</p>
+<p>antabuse (réaction)
+(cefamandole, disulfirame, furazolidone, glibenclamide, glipizide, griseofulvine, ketoconazole, metronidazole, ornidazole, procarbazine, 
+secnidazole, tenonitrozole, tinidazole, tolbutamide)
+</p>
+<p>antagonistes des canaux calciques
+(amlodipine, barnidipine, clévidipine, diltiazem, felodipine, isradipine, lacidipine, lercanidipine, manidipine, nicardipine, nifedipine, 
+nimodipine, nitrendipine, verapamil)
+</p>
+<p>antagonistes des récepteurs de l'angiotensine II
+(azilsartan, candesartan cilexetil, eprosartan, irbesartan, losartan, olmesartan, telmisartan, valsartan)
+</p>
+<p>ANSM - Janvier 2014 3/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 4/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>anti-inflammatoires non stéroïdiens
+(aceclofenac, acide mefenamique, acide niflumique, acide tiaprofenique, alminoprofene, celecoxib, dexketoprofene trometamol, diclofenac, 
+etodolac, etorecoxib, fenbufene, fenoprofene, flurbiprofene, ibuprofene, indometacine, ketoprofene, meloxicam, morniflumate, nabumetone, 
+naproxene, nimesulide, parecoxib, phenylbutazone, piroxicam, piroxicam-betadex, rofecoxib, sulindac, tenoxicam, valdecoxib)
+</p>
+<p>antiagrégants plaquettaires
+(abciximab (c 7e3b fab), acide acetylsalicylique, cilostazol, clopidogrel, epoprostenol, eptifibatide, iloprost, iloprost trometamol, prasugrel, 
+ticagrelor, ticlopidine, tirofiban)
+</p>
+<p>antiarythmiques
+(amiodarone, cibenzoline, diltiazem, disopyramide, dofetilide, dronedarone, flecainide, hydroquinidine, ibutilide, lidocaine, mexiletine, 
+propafenone, quinidine, sotalol, verapamil)
+</p>
+<p>antiarythmiques classe I (sauf lidocaïne)
+(cibenzoline, disopyramide, flecainide, hydroquinidine, mexiletine, propafenone, quinidine)
+</p>
+<p>antiarythmiques classe Ia
+(disopyramide, hydroquinidine, quinidine)
+</p>
+<p>anticholinestérasiques
+(ambenonium, donepezil, galantamine, neostigmine, pyridostigmine, rivastigmine)
+</p>
+<p>anticoagulants oraux
+(acenocoumarol, apixaban, argatroban, dabigatran, fluindione, phenindione, rivaroxaban, tioclomarol, warfarine)
+</p>
+<p>anticonvulsivants inducteurs enzymatiques
+(carbamazepine, fosphenytoine, phenobarbital, phenytoine, primidone)
+</p>
+<p>anticonvulsivants métabolisés
+(acide valproique, ethosuximide, felbamate, fosphenytoine, lamotrigine, oxcarbazepine, pérampanel, phenobarbital, phenytoine, primidone, 
+retigabine, tiagabine, topiramate, valpromide, zonisamide)
+</p>
+<p>antidiabétiques glitazones
+(pioglitazone, rosiglitazone)
+</p>
+<p>antidépresseurs imipraminiques
+(amitriptyline, amoxapine, clomipramine, desipramine, dosulepine, doxepine, imipramine, maprotiline, nortriptyline, opipramol, trimipramine)
+</p>
+<p>antifongiques azolés
+(fluconazole, itraconazole, ketoconazole, posaconazole, voriconazole)
+</p>
+<p>antihypertenseurs alpha-bloquants
+(doxazosine, prazosine, urapidil)
+</p>
+<p>antihypertenseurs centraux
+(clonidine, guanfacine, methyldopa, moxonidine, rilmenidine)
+</p>
+<p>antihypertenseurs sauf alpha-bloquants
+(acebutolol, aliskiren, altizide, amiloride, amlodipine, atenolol, azilsartan, barnidipine, befunolol, benazepril, bendroflumethiazide, betaxolol, 
+bisoprolol, bumetanide, candesartan cilexetil, canrenoate de potassium, captopril, carteolol, celiprolol, chlortalidone, cicletanine, cilazapril, 
+clévidipine, clonidine, clopamide, cyclothiazide, dihydralazine, diltiazem, enalapril, eplerenone, eprosartan, felodipine, fosinopril, furosemide, 
+guanfacine, hydrochlorothiazide, imidapril, indapamide, irbesartan, isradipine, labetalol, lacidipine, lercanidipine, levobunolol, lisinopril, 
+losartan, manidipine, methyclothiazide, methyldopa, metipranolol, metoprolol, moexipril, moxonidine, nadolol, nadoxolol, nebivolol, 
+nicardipine, nifedipine, nimodipine, nitrendipine, olmesartan, oxprenolol, perindopril tert-butylamine, pindolol, piretanide, propranolol, 
+quinapril, ramipril, rilmenidine, sotalol, spirapril, spironolactone, telmisartan, tertatolol, timolol, torasemide, trandolapril, triamterene, 
+valsartan, verapamil, xipamide, zofenopril)
+</p>
+<p>antiparasitaires susceptibles de donner des torsades de pointes
+(halofantrine, lumefantrine, pentamidine)
+</p>
+<p>antiparkinsoniens anticholinergiques
+(biperidene, trihexyphenidyle, tropatepine)
+</p>
+<p>antiparkinsoniens dopaminergiques
+(amantadine, apomorphine, bromocriptine, entacapone, lisuride, pergolide, piribedil, pramipexole, rasagiline, ropinirole, rotigotine, selegiline)
+</p>
+<p>antiseptiques mercuriels
+(merbromine, thiomersal)
+</p>
+<p>antisécrétoires antihistaminiques H2
+(cimetidine, famotidine, nizatidine, ranitidine, roxatidine)
+</p>
+<p>ANSM - Janvier 2014 5/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 6/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>antisécrétoires inhibiteurs de la pompe à protons
+(esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole)
+</p>
+<p>antitussifs morphine-like
+(dextromethorphane, noscapine, pholcodine)
+</p>
+<p>antitussifs morphiniques vrais
+(codeine, ethylmorphine)
+</p>
+<p>antivitamines K
+(acenocoumarol, fluindione, phenindione, warfarine)
+</p>
+<p>autres corticoïdes, notamment inhalés
+(budesonide, ciclesonide, fluticasone, mometasone)
+</p>
+<p>barbituriques
+(allobarbital, amobarbital, barbital, butalbital, butobarbital, cyclobarbital, hexobarbital, methylphenobarbital, pentobarbital, phenobarbital, 
+primidone, secbutabarbital, sécobarbital, thiopental, vinbarbital, vinylbital)
+</p>
+<p>benzodiazépines et apparentés
+(alprazolam, avizafone, bromazepam, brotizolam, camazepam, chlordiazepoxide, clobazam, clonazepam, clorazepate, clotiazepam, 
+cloxazolam, delorazepam, diazepam, estazolam, fludiazepam, flunitrazepam, flurazepam, halazepam, haloxazolam, ketazolam, loflazépate, 
+loprazolam, lorazepam, lormetazepam, medazepam, midazolam, nimetazepam, nitrazepam, nordazepam, oxazepam, oxazolam, 
+pinazepam, prazepam, temazepam, tetrazepam, zolpidem, zopiclone)
+</p>
+<p>bisphosphonates
+(acide alendronique, acide clodronique, acide etidronique, acide ibandronique, acide medronique, acide oxidronique, acide pamidronique, 
+acide risedronique, acide tiludronique, acide zoledronique)
+</p>
+<p>bradycardisants
+(acebutolol, ambenonium, amiodarone, atenolol, befunolol, betaxolol, bisoprolol, carteolol, carvedilol, celiprolol, clonidine, crizotinib, 
+deslanoside, digitoxine, digoxine, diltiazem, disopyramide, donepezil, dronedarone, esmolol, fampridines, fingolimod, galantamine, 
+guanfacine, hydroquinidine, ivabradine, labetalol, levobunolol, mefloquine, metipranolol, metoprolol, nadolol, nadoxolol, nebivolol, 
+neostigmine, oxprenolol, pasiréotide, pilocarpine, pindolol, propranolol, pyridostigmine, quinidine, rivastigmine, sotalol, tertatolol, 
+thalidomide, timolol, verapamil)
+</p>
+<p>bêta-2 mimétiques
+(bambuterol, ritodrine, salbutamol, terbutaline)
+</p>
+<p>bêta-bloquants (sauf esmolol et sotalol)
+(acebutolol, atenolol, befunolol, betaxolol, bisoprolol, carteolol, celiprolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, nadoxolol, 
+nebivolol, oxprenolol, pindolol, propranolol, tertatolol, timolol)
+</p>
+<p>bêta-bloquants (sauf esmolol)
+(acebutolol, atenolol, befunolol, betaxolol, bisoprolol, carteolol, celiprolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, nadoxolol, 
+nebivolol, oxprenolol, pindolol, propranolol, sotalol, tertatolol, timolol)
+</p>
+<p>bêta-bloquants dans l'insuffisance cardiaque
+(bisoprolol, carvedilol, metoprolol, nebivolol)
+</p>
+<p>citrates
+(citrate de gallium [67ga], dicitrate trimagnesien, potassium (citrate de), sodium (citrate de), sodium (citrate diacide de))
+</p>
+<p>curares
+(alcuronium, atracurium, cisatracurium, mivacurium, pancuronium, rocuronium, succinylcholine, suxamethonium, vecuronium)
+</p>
+<p>curares non dépolarisants
+(alcuronium, atracurium, cisatracurium, pancuronium, rocuronium, vecuronium)
+</p>
+<p>cyclines
+(chlortetracycline, déméclocycline, doxycycline, lymecycline, methylenecycline, minocycline, oxytetracycline, tetracycline, tigecycline)
+</p>
+<p>cytotoxiques
+(altretamine, amsacrine, asparaginase, azathioprine, bleomycine, bortezomib, busulfan, cabazitaxel, capecitabine, carboplatine, carmustine, 
+chlorambucil, chlormethine, cisplatine, cladribine, cyclophosphamide, cytarabine, dacarbazine, dactinomycine, daunorubicine, décitabine, 
+docetaxel, doxorubicine, epirubicine, estramustine, etoposide, fludarabine, fluorouracile, fotemustine, gemcitabine, hydroxycarbamide, 
+idarubicine, ifosfamide, irinotecan, lomustine, melphalan, mercaptopurine, methotrexate, miltefosine, mitoguazone, mitomycine c, 
+mitoxantrone, oxaliplatine, paclitaxel, pentostatine, pipobroman, pirarubicine, plicamycine, procarbazine, raltitrexed, streptozocine, tegafur, 
+temozolomide, thiotepa, tioguanine, topotecane, vinblastine, vincristine, vindesine, vinorelbine)
+</p>
+<p>dextran 40
+(dextran
+</p>
+<p>ANSM - Janvier 2014 7/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 8/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>digitaliques
+(deslanoside, digitoxine, digoxine)
+</p>
+<p>dihydropyridines
+(amlodipine, barnidipine, clévidipine, felodipine, isradipine, lacidipine, lercanidipine, manidipine, nicardipine, nifedipine, nimodipine, 
+nitrendipine)
+</p>
+<p>diurétiques
+(altizide, amiloride, bendroflumethiazide, bumetanide, canrenoate de potassium, chlortalidone, cicletanine, clopamide, cyclothiazide, 
+eplerenone, furosemide, hydrochlorothiazide, indapamide, methyclothiazide, piretanide, spironolactone, torasemide, triamterene, xipamide)
+</p>
+<p>diurétiques de l'anse
+(bumetanide, furosemide, piretanide, torasemide)
+</p>
+<p>diurétiques hypokaliémiants
+(altizide, bendroflumethiazide, bumetanide, chlortalidone, cicletanine, clopamide, cyclothiazide, furosemide, hydrochlorothiazide, 
+indapamide, methyclothiazide, piretanide, torasemide, xipamide)
+</p>
+<p>diurétiques thiazidiques et apparentés
+(altizide, bendroflumethiazide, chlortalidone, cicletanine, clopamide, cyclothiazide, hydrochlorothiazide, indapamide, methyclothiazide, 
+xipamide)
+</p>
+<p>diurétiques épargneurs de potassium (seuls ou associés)
+(amiloride, canrenoate de potassium, eplerenone, spironolactone, triamterene)
+</p>
+<p>dopaminergiques
+(amantadine, apomorphine, bromocriptine, cabergoline, entacapone, lisuride, pergolide, piribedil, pramipexole, quinagolide, rasagiline, 
+ropinirole, rotigotine, selegiline)
+</p>
+<p>dopaminergiques, hors Parkinson
+(cabergoline, quinagolide)
+</p>
+<p>dérivés de l'acide aminosalicylique (ASA)
+(mesalazine, olsalazine, p a s sodique, sulfasalazine)
+</p>
+<p>dérivés nitrés et apparentés
+(dinitrate d'isosorbide, isosorbide, linsidomine, molsidomine, nicorandil, trinitrine)
+</p>
+<p>estrogènes non contraceptifs
+(diethylstilbestrol, estradiol, estriol, estrogenes sulfoconjugues equins, estrone, promestriene)
+</p>
+<p>estroprogestatifs contraceptifs
+(dienogest, ethinylestradiol)
+</p>
+<p>fibrates
+(bezafibrate, ciprofibrate, clofibrate, fenofibrate, gemfibrozil)
+</p>
+<p>fluoroquinolones
+(ciprofloxacine, enoxacine, fleroxacine, gemifloxacine, levofloxacine, lomefloxacine, moxifloxacine, norfloxacine, ofloxacine, pefloxacine)
+</p>
+<p>fluorouracile (et, par extrapolation, tegafur et capécitabine)
+(capecitabine, fluorouracile, tegafur)
+</p>
+<p>folates
+(acide folinique, acide folique)
+</p>
+<p>glinides
+(nateglinide, repaglinide)
+</p>
+<p>gliptines
+(linagliptine, saxagliptine, sitagliptine, vildagliptine)
+</p>
+<p>globulines antilymphocytaires
+(immunoglobuline de lapin anti-lymphocyte t humain, immunoglobulines equines antilymphocyte humain)
+</p>
+<p>glucocorticoïdes (sauf hydrocortisone en traitement substitutif)
+(betamethasone, budesonide, cortisone, cortivazol, dexamethasone, hydrocortisone, methylprednisolone, prednisolone, prednisone, 
+tetracosactide, triamcinolone)
+</p>
+<p>ANSM - Janvier 2014 9/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 10/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>hormones thyroïdiennes
+(levothyroxine, liothyronine sodique, thyroxines, tiratricol)
+</p>
+<p>huiles minérales
+(paraffine, silicone)
+</p>
+<p>hyperkaliémiants
+(aceclofenac, acide mefenamique, acide niflumique, acide tiaprofenique, alminoprofene, amiloride, azilsartan, benazepril, candesartan 
+cilexetil, canrenoate de potassium, captopril, celecoxib, ciclosporine, cilazapril, dalteparine sodique, danaparoide sodique, desirudine, 
+dexketoprofene trometamol, diclofenac, drospirenone, enalapril, enoxaparine, eplerenone, eprosartan, etodolac, etorecoxib, fenbufene, 
+fenoprofene, flurbiprofene, fondaparinux, fosinopril, heparine calcique, heparine sodique, heparine sodique/iodure de sodium, ibuprofene, 
+imidapril, indometacine, irbesartan, ketoprofene, lepirudine, lisinopril, losartan, meloxicam, moexipril, morniflumate, nabumetone, 
+nadroparine calcique, naproxene, nimesulide, olmesartan, parecoxib, perindopril tert-butylamine, phenylbutazone, piroxicam, piroxicam-
+betadex, potassium, quinapril, ramipril, reviparine, rofecoxib, spirapril, spironolactone, sulindac, tacrolimus, telmisartan, tenoxicam, 
+tinzaparine, trandolapril, triamterene, trimethoprime, valdecoxib, valsartan, zofenopril)
+</p>
+<p>hypnotiques
+(acepromazine, aceprometazine, alimemazine, doxylamine, estazolam, flunitrazepam, loprazolam, lormetazepam, meprobamate, 
+niaprazine, nitrazepam, promethazine, temazepam, zolpidem, zopiclone)
+</p>
+<p>hypokaliémiants
+(altizide, amphotericine b, bendroflumethiazide, betamethasone, bisacodyl, boldo, bourdaine, bumetanide, cascara, cascara sagrada, 
+chlortalidone, cicletanine, clopamide, cortisone, cortivazol, cyclothiazide, dexamethasone, fludrocortisone, furosemide, hydrochlorothiazide, 
+hydrocortisone, indapamide, methyclothiazide, methylprednisolone, piretanide, prednisolone, prednisone, reglisse, rhubarbe, ricin, ricinus 
+communis, sene, sene de khartoum, sene de l'inde, sodium (docusate de), sodium (picosulfate de), sodium (ricinoleate de), tetracosactide, 
+torasemide, triamcinolone, xipamide)
+</p>
+<p>hyponatrémiants
+(altizide, amiloride, bendroflumethiazide, bumetanide, canrenoate de potassium, carbamazepine, chlortalidone, cicletanine, citalopram, 
+clopamide, cyclothiazide, desmopressine, eplerenone, escitalopram, fluoxetine, fluvoxamine, furosemide, hydrochlorothiazide, indapamide, 
+methyclothiazide, oxcarbazepine, paroxetine, piretanide, sertraline, spironolactone, torasemide, triamterene, xipamide)
+</p>
+<p>héparines
+(dalteparine sodique, danaparoide sodique, desirudine, enoxaparine, fondaparinux, heparine calcique, heparine sodique, heparine 
+sodique/iodure de sodium, lepirudine, nadroparine calcique, reviparine, tinzaparine)
+</p>
+<p>héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé)
+(dalteparine sodique, danaparoide sodique, desirudine, enoxaparine, fondaparinux, lepirudine, nadroparine calcique, reviparine, tinzaparine)
+</p>
+<p>héparines de bas poids moléculaire et apparentés (doses préventives)
+(dalteparine sodique, danaparoide sodique, desirudine, enoxaparine, fondaparinux, lepirudine, nadroparine calcique, reviparine, tinzaparine)
+</p>
+<p>héparines non fractionnées (doses curatives et/ou sujet âgé)
+(heparine calcique, heparine sodique, heparine sodique/iodure de sodium)
+</p>
+<p>héparines non fractionnées (doses préventives)
+(heparine calcique, heparine sodique, heparine sodique/iodure de sodium)
+</p>
+<p>immunosuppresseurs
+(ciclosporine, everolimus, sirolimus, tacrolimus)
+</p>
+<p>inducteurs enzymatiques
+(carbamazepine, dabrafénib, efavirenz, enzalutamide, fosphenytoine, nevirapine, oxcarbazepine, phenobarbital, phenytoine, primidone, 
+rifabutine, rifampicine)
+</p>
+<p>inhibiteurs de l'HMG-CoA réductase (statines)
+(atorvastatine, fluvastatine, pitavastatine, pravastatine, rosuvastatine, simvastatine)
+</p>
+<p>inhibiteurs de l'enzyme de conversion
+(benazepril, captopril, cilazapril, enalapril, fosinopril, imidapril, lisinopril, moexipril, perindopril tert-butylamine, quinapril, ramipril, spirapril, 
+trandolapril, zofenopril)
+</p>
+<p>inhibiteurs de la phosphodiesterase de type 5
+(sildenafil, tadalafil, vardenafil)
+</p>
+<p>inhibiteurs de la xanthine oxydase
+(allopurinol, febuxostat)
+</p>
+<p>inhibiteurs de protéases boostés par ritonavir
+(amprenavir, atazanavir, darunavir, fosamprenavir, indinavir, lopinavir, ritonavir, saquinavir, tipranavir)
+</p>
+<p>ANSM - Janvier 2014 11/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 12/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>inhibiteurs des tyrosine kinases
+(axitinib, bosutinib, crizotinib, dabrafénib, dasatinib, erlotinib, gefitinib, imatinib, lapatinib, nilotinib, pazopanib, ruxolitinib, sorafenib, sunitinib, 
+vandétanib)
+</p>
+<p>inhibiteurs puissants du CYP3A4
+(boceprevir, clarithromycine, cobicistat, erythromycine, itraconazole, ketoconazole, nelfinavir, posaconazole, ritonavir, telaprevir, 
+telithromycine, voriconazole)
+</p>
+<p>inhibiteurs sélectifs de la recapture de la sérotonine
+(citalopram, dapoxétine, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline)
+</p>
+<p>insuline
+(insuline, insuline asparte, insuline asparte isophane biphasique, insuline glargine, insuline humaine biosynthetique, insuline humaine 
+biosynthetique zinc, insuline humaine hemisynthetique d'origine porcine, insuline humaine hemisynthetique isophane, insuline humaine 
+hemisynthetique isophane biphasique, insuline humaine recombinante, insuline humaine recombinante isophane, insuline humaine 
+recombinante isophane biphasique, insuline humaine recombinante zinc, insuline humaine recombinante zinc cristalline, insuline lispro, 
+insuline porcine)
+</p>
+<p>lincosanides
+(clindamycine, lincomycine)
+</p>
+<p>macrolides (sauf spiramycine)
+(azithromycine, clarithromycine, dirithromycine, erythromycine, josamycine, midecamycine, roxithromycine, telithromycine)
+</p>
+<p>minéralocorticoïdes
+(desoxycortone, fludrocortisone)
+</p>
+<p>morphiniques
+(alfentanil, buprenorphine, codeine, dextromethorphane, dextromoramide, dihydrocodeine, ethylmorphine, fentanyl, hydromorphone, 
+methadone, morphine, nalbuphine, nalorphine, naloxone, naltrexone, noscapine, oxycodone, pentazocine, pethidine, phenoperidine, 
+pholcodine, remifentanil, sufentanil, tramadol)
+</p>
+<p>morphiniques agonistes-antagonistes
+(buprenorphine, nalbuphine, pentazocine)
+</p>
+<p>morphiniques antagonistes partiels
+(nalméfène, naltrexone)
+</p>
+<p>morphiniques en traitement de substitution
+(buprenorphine, methadone)
+</p>
+<p>médicaments abaissant le seuil épileptogène
+(acepromazine, aceprometazine, alimemazine, alpha-pinene, amitriptyline, amoxapine, beta-pinene, bupropione, cajeput, camphre, 
+chloroquine, chlorproethazine, chlorpromazine, cineole, citalopram, clomipramine, cyamemazine, desipramine, dosulepine, doxepine, 
+droperidol, escitalopram, eucalyptus, eugenol, fampridines, fluoxetine, fluphenazine, fluvoxamine, haloperidol, imipramine, levomenthol, 
+levomepromazine, maprotiline, mefloquine, menthe, menthol racemique, niaouli, nortriptyline, opipramol, oxomemazine, paroxetine, 
+penfluridol, perphenazine, pipamperone, piperazine, pipotiazine, prochlorperazine, promethazine, propericiazine, sertraline, terpine, 
+terpineol, terpinol, thioproperazine, thymol, tramadol, trifluoperazine, trifluperidol, trimipramine)
+</p>
+<p>médicaments atropiniques
+(acepromazine, aceprometazine, alimemazine, amitriptyline, amoxapine, atropine, azatadine, azelastine, biperidene, brompheniramine, 
+buclizine, chlorphenamine, chlorproethazine, chlorpromazine, clidinium, clomipramine, clozapine, cyamemazine, cyclopentolate, 
+cyproheptadine, darifenacine, desipramine, dexchlorpheniramine, di(acefylline) diphenhydramine, dihexyverine, dimenhydrinate, 
+diphenhydramine, disopyramide, dosulepine, doxepine, doxylamine, fesoterodine, flunarizine, flupentixol, fluphenazine, histapyrrodine, 
+homatropine, hydroxyzine, imipramine, indoramine, ipratropium, isothipendyl, levomepromazine, maprotiline, méclozine, mefenidramium, 
+mepyramine, mequitazine, metopimazine, mizolastine, niaprazine, nortriptyline, opipramol, oxatomide, oxitropium, oxomemazine, 
+oxybutynine, perphenazine, pheniramine, phenyltoloxamine, pimethixene, piperazine, pipotiazine, pizotifene, prochlorperazine, 
+promethazine, propericiazine, quinidine, scopolamine, solifenacine, thenyldiamine, thioproperazine, tolterodine, trifluoperazine, 
+trihexyphenidyle, trimipramine, triprolidine, tropatepine, tropicamide, trospium)
+</p>
+<p>médicaments mixtes adrénergiques-sérotoninergiques
+(amitriptyline, atomoxetine, clomipramine, duloxetine, imipramine, milnacipran, oxitriptan, sibutramine, venlafaxine)
+</p>
+<p>médicaments néphrotoxiques
+(aciclovir, acide amidotrizoïque, acide clodronique, acide ioxaglique, acide ioxitalamique, adefovir, amikacine, amphotericine b, carboplatine, 
+ciclosporine, cidofovir, cisplatine, colistine, dibekacine, foscarnet, ganciclovir, gentamicine, ifosfamide, iobitridol, iodixanol, iohexol, iomeprol, 
+iopamidol, iopentol, iopromide, ioversol, isepamicine, kanamycine, methotrexate, netilmicine, oxaliplatine, pentamidine, spectinomycine, 
+streptomycine, streptozocine, tacrolimus, teicoplanine, tenofovir disoproxil, tobramycine, valaciclovir, valganciclovir, vancomycine)
+</p>
+<p>médicaments ototoxiques
+(amikacine, bumetanide, carboplatine, cisplatine, dibekacine, furosemide, gentamicine, isepamicine, kanamycine, netilmicine, oxaliplatine, 
+piretanide, streptomycine, teicoplanine, tobramycine, torasemide, vancomycine)
+</p>
+<p>ANSM - Janvier 2014 13/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 14/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>médicaments susceptibles de donner des torsades de pointes
+(amiodarone, amisulpride, arsenieux, chlorpromazine, citalopram, cyamemazine, diphemanil, disopyramide, dofetilide, dolasetron, 
+domperidone, dronedarone, droperidol, erythromycine, escitalopram, flupentixol, fluphenazine, halofantrine, haloperidol, hydroquinidine, 
+ibutilide, levofloxacine, levomepromazine, lumefantrine, mequitazine, methadone, mizolastine, moxifloxacine, pentamidine, pimozide, 
+pipamperone, pipotiazine, prucalopride, quinidine, sotalol, spiramycine, sulpiride, sultopride, tiapride, toremifene, vandétanib, vincamine, 
+zuclopenthixol)
+</p>
+<p>médicaments sédatifs
+(acepromazine, aceprometazine, agomelatine, alfentanil, alimemazine, alizapride, allobarbital, alprazolam, amantadine, amisulpride, 
+amitriptyline, amobarbital, apomorphine, aripiprazole, avizafone, azatadine, azelastine, baclofene, barbital, bromazepam, bromocriptine, 
+brompheniramine, brotizolam, buclizine, buprenorphine, butalbital, butobarbital, cabergoline, camazepam, captodiame, carbinoxamine, 
+chlordiazepoxide, chlorphenamine, chlorphenoxamine, chlorproethazine, chlorpromazine, clobazam, clocinizine, clonazepam, clonidine, 
+clorazepate, clotiazepam, cloxazolam, clozapine, codeine, cyamemazine, cyclizine, cyclobarbital, cyproheptadine, dapoxétine, delorazepam, 
+dexchlorpheniramine, dexmédétomidine, dextromethorphane, dextromoramide, di(acefylline) diphenhydramine, diazepam, dihydrocodeine, 
+dimenhydrinate, diphenhydramine, doxepine, doxylamine, droperidol, entacapone, estazolam, ethylmorphine, etifoxine, fenspiride, fentanyl, 
+fluanisone, fludiazepam, flunarizine, flunitrazepam, flupentixol, fluphenazine, flurazepam, guanfacine, halazepam, haloperidol, haloxazolam, 
+histapyrrodine, hydromorphone, hydroxyzine, indoramine, isothipendyl, ketazolam, ketotifene, levomepromazine, lisuride, loflazépate, 
+loprazolam, lorazepam, lormetazepam, loxapine, méclozine, medazepam, mefenidramium, meprobamate, mepyramine, mequitazine, 
+methadone, methyldopa, methylphenobarbital, metoclopramide, metopimazine, mianserine, midazolam, mirtazapine, mizolastine, morphine, 
+moxonidine, nalbuphine, nalorphine, naloxone, naltrexone, nefopam, niaprazine, nimetazepam, nitrazepam, nordazepam, noscapine, 
+olanzapine, oxatomide, oxazepam, oxazolam, oxetorone, oxomemazine, oxycodone, paliperidone, penfluridol, pentazocine, pentobarbital, 
+pérampanel, pergolide, perphenazine, pethidine, pheniramine, phenobarbital, phenyltoloxamine, pholcodine, pimethixene, pimozide, 
+pinazepam, pipamperone, piperazine, pipotiazine, piribedil, pizotifene, pramipexole, prazepam, pregabaline, primidone, prochlorperazine, 
+promethazine, propericiazine, quinagolide, rasagiline, remifentanil, rilmenidine, risperidone, ropinirole, rotigotine, rupatadine, 
+secbutabarbital, selegiline, sufentanil, sulpiride, sultopride, tapentadol, temazepam, tetrabenazine, tetrazepam, thalidomide, thenyldiamine, 
+thiopental, thioproperazine, tiapride, tramadol, trifluoperazine, trifluperidol, trimipramine, triprolidine, vinylbital, zolpidem, zopiclone, 
+zuclopenthixol)
+</p>
+<p>médicaments à l'origine d'un syndrome sérotoninergique
+(amitriptyline, atomoxetine, bleu de methylene, citalopram, clomipramine, duloxetine, escitalopram, fluoxetine, fluvoxamine, imipramine, 
+iproniazide, linezolide, millepertuis, milnacipran, moclobemide, oxitriptan, paroxetine, pethidine, sertraline, sibutramine, tramadol, 
+venlafaxine)
+</p>
+<p>médicaments à l'origine d'une hypotension orthostatique
+(acepromazine, aceprometazine, alfuzosine, alimemazine, alizapride, amantadine, amifostine, amitriptyline, amoxapine, apomorphine, 
+aripiprazole, asenapine, baclofene, bromocriptine, chlorproethazine, chlorpromazine, clomipramine, clozapine, cyamemazine, desipramine, 
+dinitrate d'isosorbide, dosulepine, doxazosine, doxepine, droperidol, entacapone, fluanisone, flupentixol, fluphenazine, haloperidol, 
+imipramine, isosorbide, levodopa, levomepromazine, linsidomine, lisuride, loxapine, maprotiline, metopimazine, molsidomine, nicorandil, 
+nortriptyline, olanzapine, opipramol, oxomemazine, paliperidone, penfluridol, pergolide, perphenazine, pimozide, pipamperone, piperazine, 
+pipotiazine, piribedil, pramipexole, prazosine, prochlorperazine, promethazine, propericiazine, rasagiline, risperidone, ropinirole, selegiline, 
+sildenafil, silodosine, sulpiride, sultopride, tadalafil, tamsulosine, terazosine, thioproperazine, tiapride, trifluoperazine, trifluperidol, 
+trimipramine, trinitrine, vardenafil, zuclopenthixol)
+</p>
+<p>médicaments à risque lors du sevrage tabagique
+(clozapine, methadone, ropinirole, theophylline)
+</p>
+<p>neuroleptiques
+(acepromazine, aceprometazine, alimemazine, alizapride, amisulpride, aripiprazole, asenapine, carpipramine, chlorproethazine, 
+chlorpromazine, clozapine, cyamemazine, droperidol, fluanisone, flupentixol, fluphenazine, haloperidol, levomepromazine, loxapine, 
+metoclopramide, metopimazine, olanzapine, oxomemazine, paliperidone, penfluridol, perphenazine, pimozide, pipamperone, piperazine, 
+pipotiazine, prochlorperazine, promethazine, propericiazine, risperidone, sulpiride, sultopride, thioproperazine, tiapride, trifluoperazine, 
+trifluperidol, zuclopenthixol)
+</p>
+<p>neuroleptiques antipsychotiques (sauf clozapine)
+(amisulpride, aripiprazole, asenapine, carpipramine, chlorpromazine, cyamemazine, droperidol, flupentixol, fluphenazine, haloperidol, 
+levomepromazine, loxapine, olanzapine, paliperidone, penfluridol, perphenazine, pimozide, pipamperone, pipotiazine, prochlorperazine, 
+propericiazine, risperidone, sulpiride, sultopride, thioproperazine, tiapride, trifluoperazine, trifluperidol, zuclopenthixol)
+</p>
+<p>neuroleptiques antiémétiques
+(alizapride, metoclopramide, metopimazine)
+</p>
+<p>neuroleptiques susceptibles de donner des torsades de pointes
+(amisulpride, chlorpromazine, cyamemazine, droperidol, flupentixol, fluphenazine, haloperidol, levomepromazine, pimozide, pipamperone, 
+pipotiazine, sulpiride, sultopride, tiapride, zuclopenthixol)
+</p>
+<p>organoplatines
+(carboplatine, cisplatine, oxaliplatine)
+</p>
+<p>phénobarbital (et, par extrapolation, primidone)
+(phenobarbital, primidone)
+</p>
+<p>phénytoïne (et, par extrapolation, fosphénytoïne)
+(fosphenytoine, phenytoine)
+</p>
+<p>produits de contraste iodés
+(acide amidotrizoïque, acide ioxaglique, acide ioxitalamique, iobitridol, iodixanol, iohexol, iomeprol, iopamidol, iopentol, iopromide, ioversol)
+</p>
+<p>ANSM - Janvier 2014 15/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 16/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>progestatifs contraceptifs
+(cyproterone, desogestrel, dienogest, drospirenone, etonogestrel, levonorgestrel, lynestrenol, medroxyprogesterone, norethisterone, 
+norgestrienone)
+</p>
+<p>progestatifs non contraceptifs, associés ou non à un estrogène
+(chlormadinone, dydrogesterone, hydroxyprogesterone, lynestrenol, medrogestone, medroxyprogesterone, nomegestrol, norethisterone, 
+progesterone, promegestone)
+</p>
+<p>préservatifs en latex
+pénems
+</p>
+<p>(ertapenem, imipenem, meropenem)
+</p>
+<p>pénicillines
+(amoxicilline, ampicilline, bacampicilline, benethamine-penicilline, benzylpenicilline, cloxacilline, dicloxacilline, mezlocilline, oxacilline, 
+phenoxymethylpenicilline, piperacilline, pivampicilline, ticarcilline)
+</p>
+<p>pénicillines A
+(amoxicilline, ampicilline, bacampicilline, pivampicilline, ticarcilline)
+</p>
+<p>résines chélatrices
+(catioresine sulfo sodique, colesevelam, colestilan, colestyramine, poly (styrenesulfonate de calcium), sevelamer)
+</p>
+<p>rétinoïdes
+(acitretine, alitretinoine, etretinate, isotretinoine, trétinoïne)
+</p>
+<p>spermicides
+(benzalkonium, cetalkonium, hexylresorcinol, myristalkonium, nonoxynol 9)
+</p>
+<p>substrats à risque du CYP3A4
+(alfentanil, atorvastatine, avanafil, bortezomib, cabazitaxel, ciclosporine, dasatinib, dihydroergotamine, docetaxel, ergotamine, erlotinib, 
+everolimus, fentanyl, gefitinib, halofantrine, imatinib, irinotecan, lapatinib, lumefantrine, methylergometrine, methysergide, midazolam, 
+nilotinib, oxycodone, pazopanib, pimozide, quetiapine, quinine, simvastatine, sirolimus, sorafenib, sufentanil, sunitinib, tacrolimus, vardenafil)
+</p>
+<p>sulfamides antibactériens
+(acetylsulfafurazol, sulfacetamide, sulfadiazine, sulfadoxine, sulfafurazol, sulfaguanidine, sulfamethizol, sulfamethoxazole, sulfamoxole)
+</p>
+<p>sulfamides hypoglycémiants
+(carbutamide, chlorpropamide, glibenclamide, glibornuride, gliclazide, glimepiride, glipizide, tolbutamide)
+</p>
+<p>sympathomimétiques alpha (voies orale et/ou nasale)
+(etilefrine, midodrine, naphazoline, oxymetazoline, phenylephrine, synephrine, tetryzoline, tuaminoheptane, tymazoline)
+</p>
+<p>sympathomimétiques alpha et bêta (voie IM et IV)
+(adrenaline, dopamine, noradrenaline, norepinephrine)
+</p>
+<p>sympathomimétiques indirects
+(bupropione, cafedrine, ephedrine, methylphenidate, phenylephrine, pseudoephedrine, theodrenaline)
+</p>
+<p>thrombolytiques
+(alteplase recombinante, reteplase, streptokinase, tenecteplase, urokinase)
+</p>
+<p>théophylline (et, par extrapolation, aminophylline)
+(aminophylline, theophylline)
+</p>
+<p>topiques gastro-intestinaux, antiacides et adsorbants
+(charbon active, charbon vegetal officinal, diosmectite, gel d'hydroxyde d'aluminium et de carbonate de magnesium codesseches, 
+hydrotalcite, kaolin lourd, magaldrate, magnesium (hydroxyde de), magnesium (trisilicate de), monmectite, povidone)
+</p>
+<p>torsadogènes (sauf antiparasitaires, neuroleptiques, méthadone)
+(amiodarone, arsenieux, citalopram, diphemanil, disopyramide, dofetilide, dolasetron, domperidone, dronedarone, erythromycine, 
+escitalopram, hydroquinidine, ibutilide, levofloxacine, mequitazine, mizolastine, moxifloxacine, prucalopride, quinidine, sotalol, spiramycine, 
+toremifene, vincamine)
+</p>
+<p>traitements de substitution nicotinique
+(nicotine
+</p>
+<p>triptans
+(almotriptan, eletriptan, frovatriptan, naratriptan, rizatriptan, sumatriptan, zolmitriptan)
+</p>
+<p>ANSM - Janvier 2014 17/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 18/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>triptans métabolisés par la MAO
+(almotriptan, rizatriptan, sumatriptan, zolmitriptan)
+</p>
+<p>triptans non métabolisés par la MAO
+(eletriptan, frovatriptan, naratriptan)
+</p>
+<p>uricosuriques
+(benzbromarone, probenecide)
+</p>
+<p>vaccin antiamarile
+(virus de la fievre jaune
+</p>
+<p>vaccins vivants atténués
+(bcg, virus de la fievre jaune, virus de la varicelle, virus des oreillons, virus rougeoleux, virus rubeoleux)
+</p>
+<p>vaccins vivants atténués (sauf antiamarile)
+(bcg, virus de la varicelle, virus des oreillons, virus rougeoleux, virus rubeoleux)
+</p>
+<p>valproïque (acide) et, par extrapolation, valpromide
+(acide valproique, valpromide)
+</p>
+<p>vinca-alcaloïdes cytotoxiques
+(vinblastine, vincristine, vindesine, vinflunine, vinorelbine)
+</p>
+<p>vitamine D
+(alfacalcidol, calcitriol, cholecalciferol, ergocalciferol)
+</p>
+<p>ANSM - Janvier 2014 19/20</p>
+<p/>
+</div>
+<div class="page"><p/>
+<p>ANSM - Janvier 2014 20/20</p>
+<p/>
+</div>
+<div class="acroform"><ol/>
+</div>
+</body></html>
