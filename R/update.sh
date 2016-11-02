@@ -8,7 +8,7 @@ cd ./032012/R/
 Rscript thesaurus032012.R
 cd ../../
 cd ./062015/R/
-Rscript thesaurus2015.R
+Rscript thesaurus062015.R
 cd ../../
 cd ./072013/R/
 Rscript thesaurus2013.R
