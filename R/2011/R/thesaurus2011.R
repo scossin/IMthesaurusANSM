@@ -1,5 +1,6 @@
 rm(list=ls())
 # classe parente
+library(methods)
 source("../../parsing_POO_thesaurus.R")
 fichier_thesaurus_txt = "../TXT/thesaurus_2011.txt"
 fichier_mol_seules_csv = "../CSV/mol_thesaurus_seules2011.csv"

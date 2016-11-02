@@ -1,6 +1,7 @@
 # setwd("../R")
 rm(list=ls())
 # classe parente
+library(methods)
 source("../../parsing_POO_thesaurus.R")
 
 fichier_thesaurus_txt = "../TXT/thesaurus_122012.txt"

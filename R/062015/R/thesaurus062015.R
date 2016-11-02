@@ -1,4 +1,5 @@
 ##### Parsing le thesaurus de juin 2015
+library(methods)
 source("../../parsing_POO_thesaurus.R")
 
 test <- new(Class = "Thesaurus",fichier_thesaurus_txt = "../TXT/thesaurus_2015.txt",
@@ -56,11 +57,3 @@ test$check_decompose()
 
 thesaurus062015 <- test
 save(thesaurus062015, file="../../../data/thesaurus062015.rdata")
-
-
-### suprpimer : 
-test$fichier_thesaurus_txt
-df <- test$df
-test$fichier_mol_seules_csv
-test$fichier_mol_famille_csv
-voir <- test$molecules_seules

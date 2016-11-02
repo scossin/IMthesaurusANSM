@@ -570,9 +570,9 @@ setRefClass(
       set_df_decompose = function(){
         df2 <- df
         df2$niveau <- ifelse (!is.na(df$PC), 1,
-                                               ifelse (!is.na(df$PE), 2,
-                                                       ifelse (!is.na(df$AD), 3,
-                                                               4)))
+                              ifelse (!is.na(df$PE), 2,
+                                      ifelse (!is.na(df$AD), 3,
+                                              4)))
         ## niveau par protagoniste
         colnames(df2)[1:2] <- c("prota1","prota2")
         ######## remplacer les familles par leurs molécules
@@ -588,7 +588,7 @@ setRefClass(
         ### le problème est qu'une interaction entre 2 molécules peut avoir plusieurs origines
         ##  doublons : molécule1- molécule2 et molécule2-molécule1
         ## et aussi plusieurs niveaux
-
+        
         ## couple de 2 molécules
         tab2$both <- paste(tab2$mol1, tab2$mol2, sep=";")
         temp <- lapply(tab2$both, function(x){
@@ -599,34 +599,17 @@ setRefClass(
         temp <- as.character(unlist(temp))
         # couple par ordre alphabétique
         tab2$both2 <- temp
-
-        ## on retire les doublons :
-        tab4 <- subset (tab2, select=c(both2,niveau))
-        tab4 <- unique(tab4)
-
-        ## plusieurs niveaux par interaction : sélectionner le minimum
-        temp <- tapply(tab4$niveau, tab4$both2, min)
-        tab5 <- data.frame(both2=names(temp), niveau = as.numeric(temp))
-        tab5$both2 <-as.character(tab5$both2)
-
-        # colnames(tab5)
-        tab6 <- merge (tab5, tab2, by=c("both2","niveau"))
-        tab6$both <- NULL
-
-        ### si on veut les couples uniques mol1-mol2-niveau :
+        
         ### reordonne les molécules
-        tab6$mol1 <- sapply(tab6$both2, function(x){
+        tab2$mol1 <- sapply(tab2$both2, function(x){
           unlist(strsplit(x,";"))[1]
         })
-        tab6$mol2 <- sapply(tab6$both2, function(x){
+        tab2$mol2 <- sapply(tab2$both2, function(x){
           unlist(strsplit(x,";"))[2]
         })
-        tab6$origine <- paste (tab6$prota1, tab6$prota2, sep=";")
-        tab6 <- unique(tab6)
-        tab6$niveau <- as.factor(tab6$niveau)
-        levels(tab6$niveau) <- c("PC","PE","AD","CI")
-        tab6 <- subset (tab6, select=c("mol1","mol2","origine","niveau"))
-        df_decompose <<- tab6
+        tab2$both <- NULL
+        tab2$both2 <- NULL
+        df_decompose <<- tab2
       },
 
       check_decompose=function(){
