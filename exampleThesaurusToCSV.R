@@ -17,7 +17,7 @@ write.table(df, "CSVfiles/thesaurusAout2016.csv",sep="\t",col.names=T, row.names
 ## replacing all the therapeutic classes by their drug substances
 df <- thesaurus$df_decompose
 df <- unique(df)
-write.table(df, "CSVfiles/thesaurusAout2016Decompose.csv",sep="\t",col.names=T, row.names=F, quote=F)
+#write.table(df, "CSVfiles/thesaurusAout2016Decompose.csv",sep="\t",col.names=T, row.names=F, quote=F)
 
 ## list of drugs substances - therapeutic class : 
 df <- thesaurus$mol_famille
