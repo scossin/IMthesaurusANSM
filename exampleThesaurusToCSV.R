@@ -12,7 +12,7 @@ class(thesaurus) ## an object of class Thesaurus
 ## thesaurus after extraction 
 df <- thesaurus$df
 colnames(df)[1:2] <- c("protagoniste1","protagoniste2")
-write.table(df, "CSVfiles/thesaurusAout2016.csv",sep="\t",col.names=T, row.names=F, quote=F)
+write.table(df, "CSVfiles/thesaurusAout2016.csv",sep="\t",col.names=T, row.names=F, quote=F, na = "")
 
 ## replacing all the therapeutic classes by their drug substances
 df <- thesaurus$df_decompose

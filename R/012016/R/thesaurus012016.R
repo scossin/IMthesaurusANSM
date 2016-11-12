@@ -79,6 +79,8 @@ voir <- test$verif_absence_de_niveau()
 
 df <- test$df
 test$df_sans_doublon()
+df <- test$df
+test$set_df_decompose()
 test$create_manuellement()
 nrow(test$manuellement)
 thesaurus012016 <- test
