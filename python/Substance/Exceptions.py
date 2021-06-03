@@ -1,2 +1,3 @@
 class SubstanceNotFound(Exception):
     pass
+
