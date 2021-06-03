@@ -1,6 +1,6 @@
 import re
 
-from python.Exceptions import SubstanceNotFound
+from python.Substance.Exceptions import SubstanceNotFound
 
 
 def get_index_first_substance(p_text, substance):

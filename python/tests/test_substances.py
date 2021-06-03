@@ -1,7 +1,8 @@
 import unittest
 
-from python.Exceptions import SubstanceNotFound
-from python.substance_functions import get_index_first_substance, is_a_paragraph_2_ignore
+from python.Substance.Exceptions import SubstanceNotFound
+from python.Substance.SubstanceDrugClasses import SubstanceClass
+from python.Substance.substance_functions import get_index_first_substance, is_a_paragraph_2_ignore
 
 p_text = [" ", "abatacept\nInteraction", "acetylsulfafurazol"]
 
@@ -26,6 +27,15 @@ class TestsSubstance(unittest.TestCase):
     def test_is_a_paragraph_2_ignore_empty(self):
         text = " "
         self.assertEqual(is_a_paragraph_2_ignore(text), True)
+
+    def test_substance_famille(self):
+        text = """acide alendronique
+Voir : bisphosphonates - substances à absorption réduite"""
+
+        substance_class = SubstanceClass(text)
+        self.assertEqual(substance_class.substance, "acide alendronique")
+        self.assertEqual(substance_class.drug_classes, ["bisphosphonates",
+                                                        "substances à absorption réduite"])
 
 
 if __name__ == "__main__":
