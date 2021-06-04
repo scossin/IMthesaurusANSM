@@ -1,5 +1,5 @@
 from collections import namedtuple
-from python.Interactions.Exceptions import PDDIerror
+from python.Interactions.Exceptions import PDDIerror, PDDIdescriptionError
 from python.Interactions.Severity_Levels import SEVERITY_LEVELS
 
 
@@ -46,8 +46,8 @@ class PDDI:
                 # the several levels in "CI - ASDEC - PEC" will be extracted later
 
         if len(severity_info) == 0:  # there is only one severity level and it MUST exist (or I didn't detected it)
-            raise PDDIerror(f"no severity level detected in this description: "
-                            f"{description}")
+            raise PDDIdescriptionError(f"no severity level detected in this description: "
+                                       f"{description}")
 
         severity_info = severity_info[0]
         self.severity_level = severity_info.severity_level

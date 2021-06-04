@@ -4,3 +4,15 @@ class MainDrugError(Exception):
 
 class PDDIerror(Exception):
     pass
+
+
+class PlusDrugUnfounderror(PDDIerror):
+    pass
+
+
+class PDDIdescriptionError(PDDIerror):
+    pass
+
+
+class SeverityLevelerror(Exception):
+    pass

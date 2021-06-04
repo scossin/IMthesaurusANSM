@@ -1,4 +1,4 @@
-from python.Interactions.Exceptions import PDDIerror
+from python.Interactions.Exceptions import PDDIerror, PDDIdescriptionError, PlusDrugUnfounderror
 from python.Interactions.PDDI import PDDI
 from python.Interactions.interaction_functions import detect_line_tag, LineTag
 
@@ -67,12 +67,11 @@ class DrugPDDIs:
 
     def __check_pddi_description(self, pddi_description):
         if len(pddi_description) == 0:
-            raise PDDIerror(f"no PDDI found for drug {self.main_drug}")
+            raise PlusDrugUnfounderror(f"no plus_drug found to interact with {self.main_drug}")
         if len(pddi_description) == 1:
-            raise PDDIerror(f"no PDDI description found for drug {self.main_drug}"
-                            f" that can interact with {pddi_description}")
+            raise PDDIdescriptionError(f"no PDDI description found for drug {self.main_drug}"
+                                       f" that can interact with {pddi_description}")
 
     def __str__(self) -> str:
         interact_with_text = "".join(self.interact_with)
         return f"PDDI: {self.main_drug} can interact with: {interact_with_text}"
-

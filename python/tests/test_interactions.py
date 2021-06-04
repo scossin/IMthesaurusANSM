@@ -1,9 +1,11 @@
 import unittest
 
+from extractInteraction import extract_pddis
 from python.Interactions.DrugPDDIs import DrugPDDIs
-from python.Interactions.Exceptions import MainDrugError, PDDIerror
+from python.Interactions.Exceptions import MainDrugError, PDDIerror, SeverityLevelerror, PlusDrugUnfounderror, \
+    PDDIdescriptionError
 from python.Interactions.PDDI import PDDI
-from python.Interactions.Severity_Levels import get_severity_levels_multiple
+from python.Interactions.Severity_Levels import get_severity_levels_multiple, get_long_forms
 from python.Interactions.interaction_functions import _is_metadata, _line_matched_main_drug, _line_matched_plus_drug, \
     detect_line_tag, LineTag, check_main_drugs_are_ordered
 
@@ -52,7 +54,17 @@ class MyTestCase(unittest.TestCase):
                           pddi_text)
 
         pddi_text = ["ANTI-VITAMINE K", "+ Anticoagulant"]
-        self.assertEqual(DrugPDDIs(pddi_text).main_drug, "ANTI-VITAMINE K")
+        self.assertRaises(PDDIdescriptionError,
+                          DrugPDDIs,
+                          pddi_text)
+
+        pddi_text = ["ANTI-VITAMINE K", "+ Anticoagulant", "Majoration du risque hémorragique"]
+        self.assertRaises(PDDIdescriptionError,
+                          DrugPDDIs,
+                          pddi_text)
+
+        pddi_text = ["ANTI-VITAMINE K", "+ Anticoagulant", "Association DECONSEILLEE", "Majoration du risque hémorragique"]
+        self.assertEqual(DrugPDDIs(pddi_text).pddis[0].plus_drug, "Anticoagulant")
 
     def test_PDDI_severity_level_detection(self):
         main_drug = "ACIDE ACETYLSALICYLIQUE"
@@ -66,6 +78,34 @@ class MyTestCase(unittest.TestCase):
     def test_severity_levels_multiple(self):
         multiple_severity_level = get_severity_levels_multiple()
         self.assertEqual(len(multiple_severity_level), 5)
+
+    def test_extract_pddis(self):
+        with open("./interaction_test_abatacept.txt", "r") as f:
+            lines = f.readlines()
+            pddis = extract_pddis(lines, False)
+            # check 2 potential drug drug interactions are detected
+            self.assertEqual(len(pddis), 2)
+            # check the content of the first PDDI
+            pddi0 = pddis[0]
+            self.assertEqual(pddi0.main_drug, 'ABATACEPT')
+            self.assertEqual(pddi0.plus_drug, 'ANTI-TNF ALPHA')
+            self.assertEqual(pddi0.severity_level, 'Association DECONSEILLEE')
+            self.assertEqual(pddi0.course_of_action, '')
+            self.assertEqual(pddi0.interaction_mechanism, 'Majoration de l’immunodépression.')
+            # check the content of the second PDDI
+            pddi1 = pddis[1]
+            self.assertEqual(pddi1.main_drug, 'ABATACEPT')
+            self.assertEqual(pddi1.plus_drug, 'VACCINS VIVANTS ATTÉNUÉS')
+            self.assertEqual(pddi1.severity_level, 'Association DECONSEILLEE')
+            self.assertEqual(pddi1.course_of_action, "ainsi que pendant les 3 mois suivant l'arrêt du traitement.")
+            self.assertEqual(pddi1.interaction_mechanism, "Risque de maladie vaccinale généralisée, éventuellement mortelle.")
+
+    def test_get_long_forms(self):
+        longform = get_long_forms("CI")
+        self.assertEqual(longform, 'Contre-indication')
+        self.assertRaises(SeverityLevelerror,
+                          get_long_forms,
+                          "AD")
 
 
 if __name__ == '__main__':
