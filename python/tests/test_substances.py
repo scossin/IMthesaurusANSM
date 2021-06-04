@@ -29,8 +29,7 @@ class TestsSubstance(unittest.TestCase):
         self.assertEqual(is_a_paragraph_2_ignore(text), True)
 
     def test_substance_famille(self):
-        text = """acide alendronique
-Voir : bisphosphonates - substances à absorption réduite"""
+        text = """acide alendronique\nVoir : bisphosphonates - substances à absorption réduite"""
 
         substance_class = SubstanceClass(text)
         self.assertEqual(substance_class.substance, "acide alendronique")

@@ -1,7 +1,9 @@
 import unittest
 
-from extractInteraction import DrugPDDIs, PDDI
+from python.Interactions.DrugPDDIs import DrugPDDIs
 from python.Interactions.Exceptions import MainDrugError, PDDIerror
+from python.Interactions.PDDI import PDDI
+from python.Interactions.Severity_Levels import get_severity_levels_multiple
 from python.Interactions.interaction_functions import _is_metadata, _line_matched_main_drug, _line_matched_plus_drug, \
     detect_line_tag, LineTag, check_main_drugs_are_ordered
 
@@ -56,10 +58,14 @@ class MyTestCase(unittest.TestCase):
         main_drug = "ACIDE ACETYLSALICYLIQUE"
         plus_drug = "+ ACETAZOLAMIDE"
         desription = ["\n",
-                     "Association DECONSEILLEEMajoration des effets indésirables, et notamment de l'acidose"
+                      "Association DECONSEILLEEMajoration des effets indésirables, et notamment de l'acidose"
                       ]
         pddi = PDDI(main_drug, plus_drug, desription)
         self.assertEqual(pddi.severity_level, "Association DECONSEILLEE")
+
+    def test_severity_levels_multiple(self):
+        multiple_severity_level = get_severity_levels_multiple()
+        self.assertEqual(len(multiple_severity_level), 5)
 
 
 if __name__ == '__main__':
