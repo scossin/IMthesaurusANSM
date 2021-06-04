@@ -1,23 +1,25 @@
+import re
 from collections import namedtuple
 from python.Interactions.Exceptions import PDDIerror, PDDIdescriptionError
-from python.Interactions.Severity_Levels import SEVERITY_LEVELS
+from python.Interactions.Severity_Levels import SEVERITY_LEVELS, SeverityLevel, is_a_multiple_severity_level, \
+    get_abbreviations, Abbreviation
 
 
 class PDDI:
 
     def __init__(self, main_drug: str, plus_drug: str, description: list):
-        self.main_drug = self.normalize_string(main_drug)
-        self.plus_drug = self.normalize_string(plus_drug)
-        self.severity_level = ""
-        self.interaction_mechanism = ""
-        self.course_of_action = ""
-        self.extract_interaction_information(description)
+        self.main_drug = self._normalize_string(main_drug)
+        self.plus_drug = self._normalize_string(plus_drug)
+        self.severity_level: SeverityLevel
+        self.interaction_mechanism: str
+        self.course_of_action: str
+        self._extract_interaction_information(description)
 
     def get_dict_representation(self):
         return {
             "main_drug": self.main_drug,
             "plus_drug": self.plus_drug,
-            "severity_level": self.severity_level,
+            "severity_level": self.severity_level.name,
             "course_of_action": self.course_of_action,
             "interaction_mechanism": self.interaction_mechanism
         }
@@ -28,22 +30,18 @@ class PDDI:
                f"The mechanism of the interaction is {self.interaction_mechanism}" \
                f"The course of action is {self.course_of_action}"
 
-    @staticmethod
-    def normalize_string(string: str):
-        return string.strip().replace("+ ", "")
-
-    def extract_interaction_information(self, description: list):
+    def _extract_interaction_information(self, description: list):
         SeverityInfo = namedtuple("SeverityInfo", ["num_line", "severity_line", "severity_level"])
 
         for num_line, line in enumerate(description):
-            severity_info = [SeverityInfo(num_line, line, severity_level.name)
+            severity_info = [SeverityInfo(num_line, line, severity_level)
                              for severity_level in SEVERITY_LEVELS
                              if line.startswith(severity_level.name)]
             if len(severity_info) != 0:
                 break  # why to break here? There is only one severity level description per PDDI
-                # although the description "CI - ASDEC - PEC" refers to several severity level
-                # the class considers "CI - ASDEC - PEC" to be only one severity level
-                # the several levels in "CI - ASDEC - PEC" will be extracted later
+                # although the description "CI - ASDEC - PEC" refers to several severity levels
+                # the class considers "CI - ASDEC - PEC" to be only one severity level here
+                # the several levels in "CI - ASDEC - PEC" will be extracted below
 
         if len(severity_info) == 0:  # there is only one severity level and it MUST exist (or I didn't detected it)
             raise PDDIdescriptionError(f"no severity level detected in this description: "
@@ -51,8 +49,20 @@ class PDDI:
 
         severity_info = severity_info[0]
         self.severity_level = severity_info.severity_level
-        severity_line = severity_info.severity_line
+        if is_a_multiple_severity_level(self.severity_level):
+            self.__several_severity_levels_info_extract(severity_info, description)
+        else:
+            self.__single_severity_level_info_extract(severity_info, description)
 
+    def __several_severity_levels_info_extract(self, severity_info, description):
+        abbreviations = get_abbreviations(severity_info.severity_level)
+        result = [self.__search_long_form(abbreviation, description) for abbreviation in abbreviations]
+
+    def __search_long_form(self, abbreviation:Abbreviation, description):
+        line_match = [re.search(abbreviation.long, line) for line in description]
+
+    def __single_severity_level_info_extract(self, severity_info, description):
+        severity_line = severity_info.severity_line
         if self.__description_begins_right_2_severity_level(severity_line, self.severity_level):
             # in this case course_of_action is empty, it's empty and the remaining information is about the interaction_description
             self.course_of_action = ""
@@ -72,6 +82,15 @@ class PDDI:
             lines_below_course_of_action = description[(num_line_begins_course_of_action +
                                                         len(course_of_action_lines)):]
             self.interaction_mechanism = self.__extract_interaction_mechanism(lines_below_course_of_action)
+
+
+    @classmethod
+    def line_is_not_empty(cls, line: str) -> None:
+        return line.strip() != ""
+
+    @staticmethod
+    def _normalize_string(string: str):
+        return string.strip().replace("+ ", "")
 
     @staticmethod
     def __extract_interaction_mechanism(lines: list):
@@ -97,13 +116,10 @@ class PDDI:
                             "in description: {description}"
                             "but this line doesn't exist !")
 
-    @classmethod
-    def line_is_not_empty(cls, line: str) -> None:
-        return line.strip() != ""
-
     @staticmethod
-    def __description_begins_right_2_severity_level(severity_line, severity_level):
+    def __description_begins_right_2_severity_level(severity_line: str, severity_level: SeverityLevel):
         """
+        Examples:
         :param severity_line: Association DECONSEILLEEMajoration des effets indésirables, et notamment de l'acidose
         :param severity_level: Association DECONSEILLEE
         :return: True if, when we remove severity level in severity_line, something remains
@@ -115,5 +131,7 @@ class PDDI:
             return True
 
     @staticmethod
-    def __remove_severity_level(string, severity_level):
-        return string.replace(severity_level, " ").strip()
+    def __remove_severity_level(string: str, severity_level: SeverityLevel) -> str:
+        return string.replace(severity_level.name, " ").strip()
+
+

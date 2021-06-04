@@ -5,7 +5,7 @@ from python.Interactions.DrugPDDIs import DrugPDDIs
 from python.Interactions.Exceptions import MainDrugError, PDDIerror, SeverityLevelerror, PlusDrugUnfounderror, \
     PDDIdescriptionError
 from python.Interactions.PDDI import PDDI
-from python.Interactions.Severity_Levels import get_severity_levels_multiple, get_long_forms
+from python.Interactions.Severity_Levels import get_severity_levels_multiple, get_abbreviation
 from python.Interactions.interaction_functions import _is_metadata, _line_matched_main_drug, _line_matched_plus_drug, \
     detect_line_tag, LineTag, check_main_drugs_are_ordered
 
@@ -73,7 +73,7 @@ class MyTestCase(unittest.TestCase):
                       "Association DECONSEILLEEMajoration des effets indésirables, et notamment de l'acidose"
                       ]
         pddi = PDDI(main_drug, plus_drug, desription)
-        self.assertEqual(pddi.severity_level, "Association DECONSEILLEE")
+        self.assertEqual(pddi.severity_level.name, "Association DECONSEILLEE")
 
     def test_severity_levels_multiple(self):
         multiple_severity_level = get_severity_levels_multiple()
@@ -89,22 +89,22 @@ class MyTestCase(unittest.TestCase):
             pddi0 = pddis[0]
             self.assertEqual(pddi0.main_drug, 'ABATACEPT')
             self.assertEqual(pddi0.plus_drug, 'ANTI-TNF ALPHA')
-            self.assertEqual(pddi0.severity_level, 'Association DECONSEILLEE')
+            self.assertEqual(pddi0.severity_level.name, 'Association DECONSEILLEE')
             self.assertEqual(pddi0.course_of_action, '')
             self.assertEqual(pddi0.interaction_mechanism, 'Majoration de l’immunodépression.')
             # check the content of the second PDDI
             pddi1 = pddis[1]
             self.assertEqual(pddi1.main_drug, 'ABATACEPT')
             self.assertEqual(pddi1.plus_drug, 'VACCINS VIVANTS ATTÉNUÉS')
-            self.assertEqual(pddi1.severity_level, 'Association DECONSEILLEE')
+            self.assertEqual(pddi1.severity_level.name, 'Association DECONSEILLEE')
             self.assertEqual(pddi1.course_of_action, "ainsi que pendant les 3 mois suivant l'arrêt du traitement.")
             self.assertEqual(pddi1.interaction_mechanism, "Risque de maladie vaccinale généralisée, éventuellement mortelle.")
 
     def test_get_long_forms(self):
-        longform = get_long_forms("CI")
+        longform = get_abbreviation("CI")
         self.assertEqual(longform, 'Contre-indication')
         self.assertRaises(SeverityLevelerror,
-                          get_long_forms,
+                          get_abbreviation,
                           "AD")
 
 
