@@ -44,36 +44,31 @@ class MyTestCase(unittest.TestCase):
 
     def test_DrugPDDIs_pddi_text(self):
         pddi_text = "ANTI-VITAMINE K"
-        self.assertRaises(TypeError,
-                          DrugPDDIs,
-                          pddi_text)
+        self.assertRaises(TypeError, DrugPDDIs, pddi_text)
 
         pddi_text = ["ANTI-VITAMINE K"]
-        self.assertRaises(PDDIerror,
-                          DrugPDDIs,
-                          pddi_text)
+        self.assertRaises(PDDIerror, DrugPDDIs, pddi_text)
 
         pddi_text = ["ANTI-VITAMINE K", "+ Anticoagulant"]
-        self.assertRaises(PDDIdescriptionError,
-                          DrugPDDIs,
-                          pddi_text)
+        self.assertRaises(PDDIdescriptionError, DrugPDDIs, pddi_text)
 
         pddi_text = ["ANTI-VITAMINE K", "+ Anticoagulant", "Majoration du risque hémorragique"]
-        self.assertRaises(PDDIdescriptionError,
-                          DrugPDDIs,
-                          pddi_text)
+        error_message = "no severity level detected in this description: ['Majoration du risque hémorragique']"
+        self.assertEqual(DrugPDDIs(pddi_text).pddis[0].interaction_mechanism, error_message)
 
-        pddi_text = ["ANTI-VITAMINE K", "+ Anticoagulant", "Association DECONSEILLEE", "Majoration du risque hémorragique"]
+        pddi_text = ["ANTI-VITAMINE K", "+ Anticoagulant", "Association DECONSEILLEE",
+                     "Majoration du risque hémorragique"]
         self.assertEqual(DrugPDDIs(pddi_text).pddis[0].plus_drug, "Anticoagulant")
 
     def test_PDDI_severity_level_detection(self):
         main_drug = "ACIDE ACETYLSALICYLIQUE"
         plus_drug = "+ ACETAZOLAMIDE"
+        between_main_and_plus_drug = ""
         desription = ["\n",
                       "Association DECONSEILLEEMajoration des effets indésirables, et notamment de l'acidose"
                       ]
-        pddi = PDDI(main_drug, plus_drug, desription)
-        self.assertEqual(pddi.severity_level.name, "Association DECONSEILLEE")
+        pddi = PDDI(main_drug, plus_drug, between_main_and_plus_drug, desription)
+        self.assertEqual(pddi.severity_levels[0].level, "Association DECONSEILLEE")
 
     def test_severity_levels_multiple(self):
         multiple_severity_level = get_severity_levels_multiple()
@@ -89,20 +84,21 @@ class MyTestCase(unittest.TestCase):
             pddi0 = pddis[0]
             self.assertEqual(pddi0.main_drug, 'ABATACEPT')
             self.assertEqual(pddi0.plus_drug, 'ANTI-TNF ALPHA')
-            self.assertEqual(pddi0.severity_level.name, 'Association DECONSEILLEE')
-            self.assertEqual(pddi0.course_of_action, '')
+            self.assertEqual(pddi0.severity_levels[0].level, 'Association DECONSEILLEE')
             self.assertEqual(pddi0.interaction_mechanism, 'Majoration de l’immunodépression.')
             # check the content of the second PDDI
             pddi1 = pddis[1]
             self.assertEqual(pddi1.main_drug, 'ABATACEPT')
             self.assertEqual(pddi1.plus_drug, 'VACCINS VIVANTS ATTÉNUÉS')
-            self.assertEqual(pddi1.severity_level.name, 'Association DECONSEILLEE')
-            self.assertEqual(pddi1.course_of_action, "ainsi que pendant les 3 mois suivant l'arrêt du traitement.")
-            self.assertEqual(pddi1.interaction_mechanism, "Risque de maladie vaccinale généralisée, éventuellement mortelle.")
+            self.assertEqual(pddi1.severity_levels[0].level, 'Association DECONSEILLEE')
+            self.assertEqual(pddi1.severity_levels[0].info,
+                             "ainsi que pendant les 3 mois suivant l'arrêt du traitement.")
+            self.assertEqual(pddi1.interaction_mechanism,
+                             "Risque de maladie vaccinale généralisée, éventuellement mortelle.")
 
     def test_get_long_forms(self):
-        longform = get_abbreviation("CI")
-        self.assertEqual(longform, 'Contre-indication')
+        abbreviation = get_abbreviation("CI")
+        self.assertEqual(abbreviation.long, 'Contre-indication')
         self.assertRaises(SeverityLevelerror,
                           get_abbreviation,
                           "AD")

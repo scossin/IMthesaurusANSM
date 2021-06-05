@@ -48,6 +48,9 @@ class DrugPDDIs:
                              if tag == LineTag.PLUS_DRUG]
         self.__check_index_plus_drug(indices_plus_drug)
 
+        between_main_and_plus_drug = pddi_text[1:(min(indices_plus_drug))]
+        between_main_and_plus_drug = "".join(between_main_and_plus_drug).strip()
+
         self.pddis = [None] * len(indices_plus_drug)
         # the last "plus_drug" information is located from the last indice_plus_drug to the end of pddi_text
         indices_2_iterate_to = indices_plus_drug + [len(pddi_text)]
@@ -57,9 +60,7 @@ class DrugPDDIs:
             self.__check_pddi_description(pddi_description)
             plus_drug = pddi_description[0]
             description = pddi_description[1:]
-            self.pddis[i] = PDDI(self.main_drug,
-                                 plus_drug,
-                                 description)
+            self.pddis[i] = PDDI(self.main_drug, plus_drug, between_main_and_plus_drug, description)
 
     def __check_index_plus_drug(self, index_plus_drug):
         if len(index_plus_drug) == 0:

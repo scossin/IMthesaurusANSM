@@ -69,10 +69,6 @@ if __name__ == "__main__":
 
         pddis = extract_pddis(all_lines, DEBUG_MODE)
 
-        pddis_w_several_level = list(filter(__pddi_has_multiple_severity_level, pddis))
-
-        print(f"{len(pddis_w_several_level)} pddis have several severity levels")
-
         pddis_dict = [pddi.get_dict_representation() for pddi in pddis]
 
         output_file = "test.json"

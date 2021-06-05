@@ -4,11 +4,11 @@ from python.Interactions.Exceptions import SeverityLevelerror
 
 SeverityLevel = namedtuple("SeverityLevel", ["name", "number"])
 SEVERITY_LEVELS = [
-    SeverityLevel('CONTRE-INDICATION', 1),
-    SeverityLevel('Association DECONSEILLEE', 2),
-    SeverityLevel("Précaution d'emploi", 3),
-    SeverityLevel('A prendre en compte', 4),
-    SeverityLevel('Il convient de prendre en compte', 5),
+    SeverityLevel('CONTRE-INDICATION', 0),
+    SeverityLevel('Association DECONSEILLEE', 1),
+    SeverityLevel("Précaution d'emploi", 2),
+    SeverityLevel('A prendre en compte', 3),
+    SeverityLevel('Il convient de prendre en compte', 4),
 
     # SeverityLevel in the PDF document that contains multiple severity levels
     SeverityLevel('CI - ASDEC - APEC', 100),
@@ -18,12 +18,12 @@ SEVERITY_LEVELS = [
     SeverityLevel('ASDEC - APEC', 104)
 ]
 
-Abbreviation = namedtuple("Abbreviations", ["short", "long"])
+Abbreviation = namedtuple("Abbreviations", ["short", "long", "severity_level"])
 ABB_SEVERITY_LEVEL = [
-    Abbreviation('CI', 'Contre-indication'),
-    Abbreviation('ASDEC', 'Association déconseillée'),
-    Abbreviation('PE', "Précaution d'emploi"),
-    Abbreviation('APEC', "A prendre en compte")
+    Abbreviation('CI', 'Contre-indication', SEVERITY_LEVELS[0]),
+    Abbreviation('ASDEC', 'Association déconseillée', SEVERITY_LEVELS[1]),
+    Abbreviation('PE', "Précaution d'emploi", SEVERITY_LEVELS[2]),
+    Abbreviation('APEC', "A prendre en compte", SEVERITY_LEVELS[3])
 ]
 
 
