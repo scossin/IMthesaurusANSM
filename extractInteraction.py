@@ -1,5 +1,7 @@
+import argparse
+import json
+
 from python.Interactions.DrugPDDIs import DrugPDDIs
-from python.Interactions.Severity_Levels import get_severity_levels_multiple
 from python.Interactions.interaction_functions import get_index_first_entry, is_a_line_2_ignore, detect_line_tag, \
     LineTag, check_main_drugs_are_ordered
 
@@ -14,12 +16,6 @@ def writeDebugFile(input_file, lines, step_number):
 def __get_debug_file_name(intput_file, step_number):
     debug_filename = intput_file.replace(".txt", "") + "__" + str(step_number) + ".txt"
     return debug_filename
-
-
-def __pddi_has_multiple_severity_level(pddi):
-    multiple_severity_levels = get_severity_levels_multiple()
-    names = [severity_level.name for severity_level in multiple_severity_levels]
-    return pddi.severity_level in names
 
 
 def extract_pddis(lines: list, debug_mode=False) -> list:
@@ -60,19 +56,51 @@ def extract_pddis(lines: list, debug_mode=False) -> list:
 
 
 if __name__ == "__main__":
-    input_file = "R/092019/TXT/thesaurus_092019.txt"
+    # python extractInteraction.py -f "R/092019/TXT/thesaurus_092019.txt"
+
+    # parse arguments
+    parser = argparse.ArgumentParser(description='Extract potential drug drug interactions '
+                                                 'from the textual content of a PDF document "thesaurus des interactions".')
+
+    parser.add_argument("-f",
+                        "--filename",
+                        help="the path to the textual file (.txt) containing potential drug drug interactions",
+                        type=str,
+                        required=True)
+    parser.add_argument("-o",
+                        "--outputfile",
+                        help="the path to the json output file",
+                        type=str)
+    parser.add_argument("--debug_mode",
+                        help="whether to write intermediate files during the several steps of extraction",
+                        type=str)
+    args = parser.parse_args()
+
+    # inputfile
+    if not args.filename.endswith(".txt"):
+        raise ValueError("argument error: filename must end by txt")
+    input_file = args.filename
+
+    # outputfile
+    if not args.outputfile:
+        output_file = input_file.replace(".txt", ".json")
+    else:
+        output_file = args.outputfile
+
+    # debug_mode
+    if not args.debug_mode:
+        debug_mode = True
+    else:
+        debug_mode = False
+
     with open(input_file) as fp:
-        DEBUG_MODE = True
         all_lines = fp.readlines()
         index_first_entry = get_index_first_entry(all_lines, "ABATACEPT")
         all_lines = all_lines[index_first_entry:]
 
-        pddis = extract_pddis(all_lines, DEBUG_MODE)
+        pddis = extract_pddis(all_lines, debug_mode)
 
         pddis_dict = [pddi.get_dict_representation() for pddi in pddis]
-
-        output_file = "test.json"
-        import json
 
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(pddis_dict, f, ensure_ascii=False, indent=4)

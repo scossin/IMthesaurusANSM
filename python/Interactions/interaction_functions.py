@@ -69,7 +69,7 @@ def _line_matched_main_drug(line: str) -> bool:
     return True
 
 
-def _is_severity_level(string: str) -> bool:
+def _is_a_severity_level_line(string: str) -> bool:
     if string in ["CONTRE", "CONTREINDICATION", "CI", "ASDEC", "PE", "ASPEC"]:
         return True
     else:
@@ -85,13 +85,23 @@ def _is_a_line_to_ignore(matched: str, unaccented_line: str) -> bool:
         return True
     if unaccented_line.startswith("AVK et INR"):
         return True
+    # in 2016
+    if unaccented_line.startswith("ANTI-INFECTIEUX ET INR"):
+        return True
 
     # CYP3A4: interaction description goes to the line and CYP3A4 appears but it's not a main_drug
     if unaccented_line.startswith("CYP3A4"):
         return True
 
-    if _is_severity_level(matched):
+    # in 2016:
+    # SUBSTANCES À ABSORPTION RÉDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET
+    # ADSORBANTS (we shouldn't have a new line here)
+    if unaccented_line.startswith("ADSORBANTS"):
         return True
+
+    if _is_a_severity_level_line(matched):
+        return True
+
     return False
 
 
@@ -129,7 +139,7 @@ def check_main_drugs_are_ordered(main_drugs: str) -> None:
                     if main_drug != main_drug_2]
         raise MainDrugError("Main drugs are not ordered "
                             "possibly because the algorithm failed to remove some irrelevant entries"
-                            "The files produced in DEBUG_MODE must be checked"
-                            f"An error occured near {messages[0]}")
+                            " The files produced in DEBUG_MODE must be checked"
+                            f" An error occured near {messages[0]}")
     else:
         return None
