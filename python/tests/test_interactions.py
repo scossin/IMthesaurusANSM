@@ -1,4 +1,5 @@
 import unittest
+import pathlib
 
 from extractInteraction import extract_pddis
 from python.Interactions.DrugPDDIs import DrugPDDIs
@@ -75,7 +76,9 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(len(multiple_severity_level), 5)
 
     def test_extract_pddis(self):
-        with open("./interaction_test_abatacept.txt", "r") as f:
+        current_dir = pathlib.Path(__file__).parent.absolute()
+        filepath = str(current_dir) + "/interaction_test_abatacept.txt"
+        with open(filepath, "r") as f:
             lines = f.readlines()
             pddis = extract_pddis(lines, False)
             # check 2 potential drug drug interactions are detected
