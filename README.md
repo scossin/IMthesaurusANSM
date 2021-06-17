@@ -1,11 +1,8 @@
 # IMthesaurusANSM
-Outils pour extraire le contenu du thesaurus des interactions de l'ANSM et le transformer dans un format réutilisable. [Cossin S. Interactions médicamenteuses : données liées et applications. 30 nov 2016.](https://dumas.ccsd.cnrs.fr/dumas-01442668)
-
-Rpackage to extract the content of the thesaurus of drug interactions publish by the French Agency for the Safety of Health Products (ANSM) at this addresse: https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1
+Scripts to extract and structure the content of the "thesaurus of drug interactions" published, in a PDF format, by the French Agency for the Safety of Health Products (ANSM) at this address: https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1
 
 ## Data
-The ANSM interaction working group publishes guidelines once or twice a year in PDF formats. 
-The different versions and their extraction are in the **thesauri** folder.  
+The ANSM interaction working group publishes guidelines once or twice a year. They are in the  **thesauri** folder.  
 
 ## Extraction details
 ### Extraction script
@@ -28,6 +25,8 @@ Run all the tests with this command:
 python -m unittest discover python
 ```
 
+# Citation 
+[Cossin S. Interactions médicamenteuses : données liées et applications. 30 nov 2016.](https://dumas.ccsd.cnrs.fr/dumas-01442668)
 
 
 
