@@ -93,9 +93,9 @@ if __name__ == "__main__":
 
     # debug_mode
     if not args.debug_mode:
-        debug_mode = True
-    else:
         debug_mode = False
+    else:
+        debug_mode = True
 
     with open(input_file) as fp:
         all_lines = fp.readlines()
