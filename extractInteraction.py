@@ -3,7 +3,7 @@ import json
 
 from python.Interactions.DrugPDDIs import DrugPDDIs
 from python.Interactions.interaction_functions import get_index_first_entry, is_a_line_2_ignore, detect_line_tag, \
-    LineTag, check_main_drugs_are_ordered
+    LineTag, check_main_drugs_are_ordered, fix_specific_lines_before_extraction
 
 
 def writeDebugFile(input_file, lines, step_number):
@@ -22,7 +22,11 @@ def extract_pddis(lines: list, debug_mode=False) -> list:
     if debug_mode:
         writeDebugFile(input_file, lines, 1)
 
-    lines_filtered = filter(lambda x: not is_a_line_2_ignore(x), lines)
+    lines_fixed = list(map(fix_specific_lines_before_extraction, lines))
+    if debug_mode:
+        writeDebugFile(input_file, lines_fixed, 1.1)
+
+    lines_filtered = filter(lambda x: not is_a_line_2_ignore(x), lines_fixed)
     lines_filtered = list(lines_filtered)
 
     if debug_mode:

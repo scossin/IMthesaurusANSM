@@ -93,12 +93,6 @@ def _is_a_line_to_ignore(matched: str, unaccented_line: str) -> bool:
     if unaccented_line.startswith("CYP3A4"):
         return True
 
-    # in 2016:
-    # SUBSTANCES À ABSORPTION RÉDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET
-    # ADSORBANTS (we shouldn't have a new line here)
-    if unaccented_line.startswith("ADSORBANTS"):
-        return True
-
     if _is_a_severity_level_line(matched):
         return True
 
@@ -143,3 +137,19 @@ def check_main_drugs_are_ordered(main_drugs: str) -> None:
                             f" An error occured near {messages[0]}")
     else:
         return None
+
+
+def fix_specific_lines_before_extraction(line: str) -> str:
+    fix_lined = _fix_ADSORBANTS(line)
+    return fix_lined
+
+
+def _fix_ADSORBANTS(line: str):
+    # There is a Tika extraction error we fix here for this therapeutic class:
+    # SUBSTANCES À ABSORPTION RÉDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET
+    # ADSORBANTS (we shouldn't have a new line here)
+    if line.strip().endswith("ANTIACIDES ET"):  # line: ...GASTRO-INTESTINAUX, ANTIACIDES ET \n
+        return line.strip() + " ADSORBANTS"
+    if line.startswith("ADSORBANTS"):
+        return ""
+    return line
