@@ -15,13 +15,20 @@ def get_index_first_entry(all_lines: list) -> int:
 
     max_index_to_search = 100
     possible_first_substance = ["ACETAZOLAMIDE", "ABATACEPT"]
-    line_start_by_a_substance = [text.strip() in possible_first_substance for text in all_lines[0:max_index_to_search]]
+    n_char = min([len(substance) for substance in possible_first_substance])
+    possible_first_char = [_get_first_n_char(substance, n_char) for substance in possible_first_substance]
+    line_start_by_a_substance = [_get_first_n_char(text, n_char).upper() in possible_first_char for text in
+                                 all_lines[0:max_index_to_search]]
     if True not in line_start_by_a_substance:
         raise SubstanceNotFound(f"First entry was not found in the first {max_index_to_search} lines of the file"
                                 f" You have to manually check the file and eventually add a substance in the variable "
                                 f"'possible_first_substance'")
     index_first_entry = line_start_by_a_substance.index(True)
     return index_first_entry
+
+
+def _get_first_n_char(string: str, n_char):
+    return string[:n_char]
 
 
 def is_a_line_2_ignore(text):

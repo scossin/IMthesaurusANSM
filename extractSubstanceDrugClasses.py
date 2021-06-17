@@ -2,16 +2,16 @@ import json
 import argparse
 from bs4 import BeautifulSoup
 
+from python.Interactions.interaction_functions import get_index_first_entry
 from python.Substance.SubstanceDrugClasses import SubstanceClass
-from python.Substance.substance_functions import is_a_paragraph_2_ignore, get_index_first_substance
+from python.Substance.substance_functions import is_a_paragraph_2_ignore
 
 
-def extract_substance_drug_classes(input_file: str, output_file: str, first_substance: str):
+def extract_substance_drug_classes(input_file: str, output_file: str):
     """
     See help information of main function
     :param input_file:  textual file (.txt)
     :param output_file: json
-    :param first_substance: string
     :return: None, write the outputfile
     """
     with open(input_file) as fp:
@@ -21,8 +21,8 @@ def extract_substance_drug_classes(input_file: str, output_file: str, first_subs
 
         p_text = [p.get_text() for p in p_elements]
 
-        index_first_substance = get_index_first_substance(p_text, first_substance)
-        print(f"first substance: {first_substance} detected at index {index_first_substance}")
+        index_first_substance = get_index_first_entry(p_text)
+        print(f"first substance detected at index {index_first_substance}")
         p_text = p_text[index_first_substance:]
 
         index_2_ignore = list(map(is_a_paragraph_2_ignore, p_text))
@@ -53,13 +53,6 @@ if __name__ == "__main__":
                         help="the path to the json output file",
                         type=str)
 
-    parser.add_argument("-s",
-                        "--first_substance",
-                        help="the name of the first substance appearing in the document",
-                        type=str,
-                        required=True
-                        )
-
     args = parser.parse_args()
 
     # inputfile
@@ -73,8 +66,5 @@ if __name__ == "__main__":
     else:
         output_file = args.outputfile
 
-    # first_substance name
-    first_substance = args.first_substance
-
     # extract and output json file
-    extract_substance_drug_classes(input_file, output_file, first_substance)
+    extract_substance_drug_classes(input_file, output_file)

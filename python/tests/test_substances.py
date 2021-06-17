@@ -1,24 +1,24 @@
 import unittest
 
+from python.Interactions.interaction_functions import get_index_first_entry
 from python.Substance.Exceptions import SubstanceNotFound
 from python.Substance.SubstanceDrugClasses import SubstanceClass
-from python.Substance.substance_functions import get_index_first_substance, is_a_paragraph_2_ignore
+from python.Substance.substance_functions import is_a_paragraph_2_ignore
 
 p_text = [" ", "abatacept\nInteraction", "acetylsulfafurazol"]
+p_text_without_abatacept = [" ", "acetylsulfafurazol\nInteraction", "carbamazepine"]
 
 
 class TestsSubstance(unittest.TestCase):
 
     def test_get_index_first_substance_found(self):
-        substance = "abatacept"
-        index_first_substance = get_index_first_substance(p_text, substance)
+        index_first_substance = get_index_first_entry(p_text)
         self.assertEqual(index_first_substance, 1)
 
     def test_get_index_first_substance_unfound(self):
-        substance = "abciximab"
         self.assertRaises(SubstanceNotFound,
-                          get_index_first_substance,
-                          p_text, substance)
+                          get_index_first_entry,
+                          p_text_without_abatacept)
 
     def test_is_a_paragraph_2_ignore_metadata_lowerCase(self):
         text = "page 1/2"
