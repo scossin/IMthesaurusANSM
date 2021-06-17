@@ -99,7 +99,7 @@ if __name__ == "__main__":
 
     with open(input_file) as fp:
         all_lines = fp.readlines()
-        index_first_entry = get_index_first_entry(all_lines, "ABATACEPT")
+        index_first_entry = get_index_first_entry(all_lines)
         all_lines = all_lines[index_first_entry:]
 
         pddis = extract_pddis(all_lines, debug_mode)

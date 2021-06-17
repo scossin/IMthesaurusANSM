@@ -6,21 +6,21 @@ from python.Interactions.Exceptions import MainDrugError
 from python.Substance.Exceptions import SubstanceNotFound
 
 
-def get_index_first_entry(all_lines: list, entry: str) -> int:
+def get_index_first_entry(all_lines: list) -> int:
     """
 
     :param all_lines: list
-    :param entry: string of the first substance
-    :return: the index of the string that begins with that substance
+    :return: the index of the string that begins with a substance
     """
 
     max_index_to_search = 100
-    text_start_by_substance = [text.startswith(entry) for text in all_lines[0:max_index_to_search]]
-    if not any(text_start_by_substance):
-        raise SubstanceNotFound(f"No line starts with {entry}")
-    if sum(text_start_by_substance) != 1:
-        raise ValueError(f" multiple paragraph elements starts with {entry}, expecting only one occurence")
-    index_first_entry = text_start_by_substance.index(True)
+    possible_first_substance = ["ACETAZOLAMIDE", "ABATACEPT"]
+    line_start_by_a_substance = [text.strip() in possible_first_substance for text in all_lines[0:max_index_to_search]]
+    if True not in line_start_by_a_substance:
+        raise SubstanceNotFound(f"First entry was not found in the first {max_index_to_search} lines of the file"
+                                f" You have to manually check the file and eventually add a substance in the variable "
+                                f"'possible_first_substance'")
+    index_first_entry = line_start_by_a_substance.index(True)
     return index_first_entry
 
 
