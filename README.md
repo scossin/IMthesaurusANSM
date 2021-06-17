@@ -16,7 +16,7 @@ java -jar tika-app-1.11.jar -t Thesaurus_09_2019.pdf > Thesaurus_09_2019.txt
 
 Then txt files are transformed to JSON files:
 ```bash
-python extractSubstanceDrugClasses.py  -f R/092019/TXT/index_substances092019.txt -s "abatacept"
+python extractSubstanceDrugClasses.py  -f R/092019/TXT/index_substances092019.txt
 ```
 
 ### Tests
