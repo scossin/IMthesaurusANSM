@@ -14,7 +14,11 @@ def get_index_first_entry(all_lines: list) -> int:
     """
 
     max_index_to_search = 100
-    possible_first_substance = ["ACETAZOLAMIDE", "ABATACEPT"]
+    possible_first_substance = ["ACETAZOLAMIDE",  # old versions
+                                "ABATACEPT",  # recent versions
+                                "SODIUM",  # mistake in version 2015 June ?
+                                "ABCIXIMAB"  # 2012 march
+                                ]
     n_char = min([len(substance) for substance in possible_first_substance])
     possible_first_char = [_get_first_n_char(substance, n_char) for substance in possible_first_substance]
     line_start_by_a_substance = [_get_first_n_char(text, n_char).upper() in possible_first_char for text in
