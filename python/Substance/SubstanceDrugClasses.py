@@ -31,7 +31,7 @@ class SubstanceClass:
         tokens = text_split[1:]
         normalized_tokens = map(self._normalize_text_split, tokens)
         normalized_tokens = list(filter(self._is_not_empty_string, normalized_tokens))
-        # ['antihypertenseurs sauf alpha-bloquants - bradycardisants - bêta-bloquants (sauf esmolol et sotalol) - bêta-bloquants (sauf esmolol) - médicaments abaissant la',
+        # normalized_tokens: ['antihypertenseurs sauf alpha-bloquants - bradycardisants - médicaments abaissant la',
         #  'pression artérielle']
         if len(normalized_tokens) != 0:
             families_string = " ".join(normalized_tokens)
