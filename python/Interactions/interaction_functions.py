@@ -99,6 +99,13 @@ def _is_a_line_to_ignore(matched: str, unaccented_line: str) -> bool:
     # in 2016
     if unaccented_line.startswith("ANTI-INFECTIEUX ET INR"):
         return True
+    # in 2009
+    if unaccented_line.startswith("ANTICANCEREUX ET INR"):
+        return True
+    if unaccented_line == "AGE)\n":
+        return True
+    if unaccented_line == "ECG.\n":
+        return True
 
     # CYP3A4: interaction description goes to the line and CYP3A4 appears but it's not a main_drug
     if unaccented_line.startswith("CYP3A4"):
