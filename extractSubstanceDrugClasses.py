@@ -7,9 +7,10 @@ from python.Substance.SubstanceDrugClasses import SubstanceClass
 from python.Substance.substance_functions import is_a_paragraph_2_ignore
 
 
-def extract_substance_drug_classes(input_file: str, output_file: str):
+def extract_substance_drug_classes(input_file: str, output_file: str, debug_mode=False):
     """
     See help information of main function
+    :param debug_mode:
     :param input_file:  textual file (.txt)
     :param output_file: json
     :return: None, write the outputfile
@@ -17,24 +18,30 @@ def extract_substance_drug_classes(input_file: str, output_file: str):
     with open(input_file) as fp:
         soup = BeautifulSoup(fp, "html.parser")
         p_elements = soup.select('.page > p')
-        print(f"{len(p_elements)} paragraphs elements detected")
+
+        if debug_mode:
+            print(f"{len(p_elements)} paragraphs elements detected")
 
         p_text = [p.get_text() for p in p_elements]
 
         index_first_substance = get_index_first_entry(p_text)
-        print(f"first substance detected at index {index_first_substance}")
+        if debug_mode:
+            print(f"first substance detected at index {index_first_substance}")
         p_text = p_text[index_first_substance:]
 
         index_2_ignore = list(map(is_a_paragraph_2_ignore, p_text))
-        print(f"{sum(index_2_ignore)} empty paragraphs or metadata detected and removed")
+        if debug_mode:
+            print(f"{sum(index_2_ignore)} empty paragraphs or metadata detected and removed")
         p_text = [text for (text, ignored) in zip(p_text, index_2_ignore) if not ignored]
 
         substances = [SubstanceClass(text) for text in p_text]
-        print(f"{len(substances)} substances detected")
+        if debug_mode:
+            print(f"{len(substances)} substances detected")
         json_substances = [substance.get_dic_representation() for substance in substances]
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(json_substances, f, ensure_ascii=False, indent=4)
-        print(f"new file created: {output_file}")
+        if debug_mode:
+            print(f"new file created: {output_file}")
 
 
 if __name__ == "__main__":
@@ -53,6 +60,10 @@ if __name__ == "__main__":
                         help="the path to the json output file",
                         type=str)
 
+    parser.add_argument("--debug_mode",
+                        help="whether to write intermediate files during the several steps of extraction",
+                        type=str)
+
     args = parser.parse_args()
 
     # inputfile
@@ -66,5 +77,11 @@ if __name__ == "__main__":
     else:
         output_file = args.outputfile
 
+    # debug_mode
+    if not args.debug_mode:
+        debug_mode = False
+    else:
+        debug_mode = True
+
     # extract and output json file
-    extract_substance_drug_classes(input_file, output_file)
+    extract_substance_drug_classes(input_file, output_file, debug_mode)
