@@ -1,4 +1,33 @@
 #! /bin/bash
+
+print_help () {
+   # Display Help
+   echo "Extraction script."
+   echo
+   echo "options:"
+   echo "p     Extract PDF files to TXT files (TXT folder is automatically created)"
+   echo "t     Extraction TXT files to JSON files (JSON folder is automatically created)"
+   echo "r     Remove TXT and JSON folder"
+   exit 0
+}
+
+while :; do
+    case $1 in
+        -h|--help) print_help        
+        ;;
+        -p|--pdf) extractPDF="SET"            
+        ;;
+        -t|--txt) extractTXT="SET"            
+        ;;
+        -r|--remove) removeTXTandJSONfolders="SET"            
+        ;;
+        *) break
+    esac
+    shift
+done
+
+
+
 currentDir=$(dirname "$(realpath $0)")
 
 is_thesaurus_file () {
@@ -40,35 +69,40 @@ extract_pdf_substance () {
     eval $commande
 }
 
-# empty JSON and TXT folders
-for folder in $currentDir/thesauri/*; do
-    if [ -d $folder ]; then
-        txt_folder=$folder/TXT
-        create_folder_if_not_exists $txt_folder
-        rm -R $folder/TXT
-        rm -R $folder/JSON
-        continue
-    fi
-done 
-
+if [ $removeTXTandJSONfolders ]; then
+    for folder in $currentDir/thesauri/*; do
+        if [ -d $folder ]; then
+            txt_folder=$folder/TXT
+            create_folder_if_not_exists $txt_folder
+            echo "Removing $folder/TXT"
+            rm -R $folder/TXT
+            echo "Removing $folder/JSON"
+            rm -R $folder/JSON
+            continue
+        fi
+    done 
+fi
 
 # PDF -> TXT
-for folder in $currentDir/thesauri/*; do
-    if [ -d $folder ]; then
-        txt_folder=$folder/TXT
-        create_folder_if_not_exists $txt_folder
-        for filename in $folder/PDF/*.pdf; do
-            base=$(basename "$filename")
-            txt_filename=${base/pdf/txt}
-            txt_file=$(echo $txt_folder/$txt_filename)
-            if is_thesaurus_file "$filename"; then
-                extract_pdf_thesaurus $filename $txt_file
-            elif is_substance_file "$filename"; then
-                extract_pdf_substance $filename $txt_file
-            fi
-        done
-    fi
-done
+if [ $extractPDF ]; then
+    echo "Extracting PDF files to TXT..."
+    for folder in $currentDir/thesauri/*; do
+        if [ -d $folder ]; then
+            txt_folder=$folder/TXT
+            create_folder_if_not_exists $txt_folder
+            for filename in $folder/PDF/*.pdf; do
+                base=$(basename "$filename")
+                txt_filename=${base/pdf/txt}
+                txt_file=$(echo $txt_folder/$txt_filename)
+                if is_thesaurus_file "$filename"; then
+                    extract_pdf_thesaurus $filename $txt_file
+                elif is_substance_file "$filename"; then
+                    extract_pdf_substance $filename $txt_file
+                fi
+            done
+        fi
+    done
+fi 
 
 thesaurus_txt_2_json () {
     txt_file=$1
@@ -87,20 +121,21 @@ substances_txt_2_json () {
 }
 
 # TXT -> JSON
-for folder in $currentDir/thesauri/*; do
-    if [ -d $folder ]; then
-        for filename in $folder/TXT/*.txt; do
-            json_folder=$folder/JSON
-            create_folder_if_not_exists $json_folder
-            base=$(basename "$filename")
-            json_filename=${base/txt/json}
-            json_file=$(echo $json_folder/$json_filename)
-            if is_thesaurus_file "$filename"; then   
-                thesaurus_txt_2_json $filename $json_file
-            elif is_substance_file "$filename"; then   
-                substances_txt_2_json $filename $json_file
-            fi  
-        done
-    fi
-done
-
+if [ $extractTXT ]; then
+    for folder in $currentDir/thesauri/*; do
+        if [ -d $folder ]; then
+            for filename in $folder/TXT/*.txt; do
+                json_folder=$folder/JSON
+                create_folder_if_not_exists $json_folder
+                base=$(basename "$filename")
+                json_filename=${base/txt/json}
+                json_file=$(echo $json_folder/$json_filename)
+                if is_thesaurus_file "$filename"; then   
+                    thesaurus_txt_2_json $filename $json_file
+                elif is_substance_file "$filename"; then   
+                    substances_txt_2_json $filename $json_file
+                fi  
+            done
+        fi
+    done
+fi
