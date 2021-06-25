@@ -37,20 +37,38 @@
     "between_main_and_plus_drug": "De nombreux antiarythmiques sont dépresseurs de l’automatisme, de la conduction et de la contractilité cardiaques.\nL’association d’antiarythmiques de classes différentes peut apporter un effet thérapeutique bénéfique, mais s’avère le plus souvent très délicate, nécessitant une \nsurveillance clinique étroite et un contrôle de l’ECG. L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, \nsotalol…) est contre-indiquée.\nL’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques.\nL’association à des médicaments ayant des propriétés inotropes négatives, bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et \nnécessite une surveillance clinique et un contrôle de l’ECG.\n\n(amiodarone, cibenzoline, diltiazem, disopyramide, dronedarone, flecainide, hydroquinidine, lidocaine, mexiletine, propafenone, quinidine, sotalol, verapamil)",
     "plus_drug": "AUTRES ANTIARYTHMIQUES",
     "severity_levels": [
-        {
-            "level": "CONTRE-INDICATION",
-            "info": "L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, \nsotalol…) est contre-indiquée."
-          },
-          {
-            "level": "Association DECONSEILLEE",
-            "info": "L’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques."
-          },
-          {
-            "level": "A prendre en compte",
-            "info": "L’association à des médicaments ayant des propriétés inotropes négatives, bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et \nnécessite une surveillance clinique et un contrôle de l’ECG."
-          }
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, \nsotalol…) est contre-indiquée."
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "L’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques."
+      },
+      {
+        "level": "A prendre en compte",
+        "info": "L’association à des médicaments ayant des propriétés inotropes négatives, bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et \nnécessite une surveillance clinique et un contrôle de l’ECG."
+      }
     ],
     "interaction_mechanism": "L'association de deux antiarythmiques est très délicate. Elle est \ndans la majorité des cas, contre-indiquée ou déconseillée.",
     "description": "CI - ASDEC - APECL'association de deux antiarythmiques est très délicate. Elle est \ndans la majorité des cas, contre-indiquée ou déconseillée."
+  },
+
+  {
+    "main_drug": "DÉLAMANID",
+    "between_main_and_plus_drug": "",
+    "plus_drug": "SUBSTANCES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "avec citalopram, dompéridone, escitalopram, hydroxyzine et pipéraquine"
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "avec les autres susbtances susceptibles de donner des torsades de pointes"
+      }
+    ],
+    "interaction_mechanism": "Si l’association ne peut être évitée, contrôle clinique et \nélectrocardiographique régulier.\n\nRisque majoré de troubles du rythme ventriculaire, notamment de \ntorsades de pointes.",
+    "description": "CI - ASDEC\nContre-indication:\n- avec citalopram, dompéridone, escitalopram, hydroxyzine et  \npipéraquine\n\nAssociations déconseillées\n- avec les autres susbtances susceptibles de donner des torsades de \npointes.\nSi l’association ne peut  être évitée, contrôle clinique et \nélectrocardiographique régulier.\n\nRisque majoré de troubles du rythme ventriculaire, notamment de \ntorsades de pointes."
   }
 ]
