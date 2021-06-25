@@ -146,5 +146,23 @@
     ],
     "interaction_mechanism": "Risque de majoration de la survenue de cet effet indésirable, \npouvant être fatal",
     "description": "CI - ASDEC\nContre-indication entre sacubitril et IEC\n\nRisque de majoration de la survenue de cet effet indésirable, \npouvant être fatal."
+  },
+
+  {
+    "main_drug": "TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS",
+    "between_main_and_plus_drug": "Les topiques gastro-intestinaux, le charbon, le lanthane et les antiacides (sels d'aluminium, de calcium et de magnésium), associés ou non aux alginates, diminuent la \nrésorption digestive de certains autres médicaments ingérés simultanément.\n\nPar mesure de précaution, il convient de prendre ces topiques ou antiacides à distance de tout autre médicament (plus de 2 heures, si possible).\n(charbon active, charbon vegetal officinal, crospovidone, diosmectite, gel d'hydroxyde d'aluminium et de carbonate de magnesium codesseches, hydrotalcite, kaolin \nlourd, lanthane, magaldrate, magnesium (hydroxyde de), magnesium (trisilicate de), monmectite)",
+    "plus_drug": "MÉDICAMENTS ADMINISTRÉS PAR VOIE ORALE",
+    "severity_levels": [
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "Prendre les topiques ou antiacides, adsorbants à distance de ces\nsubstances (plus de 2 heures, si possible)."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Prendre les topiques ou antiacides, adsorbants à distance de ces\nsubstances (plus de 2 heures, si possible)."
+      }
+    ],
+    "interaction_mechanism": "Diminution de l'absorption de certains autres médicaments ingérés \nsimultanément.",
+    "description": "ASDEC - PE\nPrendre les topiques ou antiacides, adsorbants à distance de ces\nsubstances (plus de 2 heures, si possible).\n\nDiminution de l'absorption de certains autres médicaments ingérés \nsimultanément."
   }
 ]
