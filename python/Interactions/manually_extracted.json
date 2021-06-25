@@ -19,16 +19,38 @@
     "between_main_and_plus_drug": "",
     "plus_drug": "ULIPRISTAL",
     "severity_levels": [
-        {
-            "level": "Association DECONSEILLEE",
-            "info": "Association déconseillée \nDans l'utilisation à visée contraceptive de la cyprotérone\n\n- Dans l'indication contraception d'urgence de l'ulipristal\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception additionnelle de type mécanique \npendant les 12 jours qui suivent la (dernière) prise de l’ulipristal (au cas \noù il y en aurait eu plus d’une).\n- Dans l’indication fibrome de l'ulipristal :\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception de type mécanique pendant les 7 \npremiers jours de la contraception hormonale."
-          },
-          {
-            "level": "Précaution d'emploi",
-            "info": "Lorsque la cyprotérone n'est pas à visée contraceptive."
-          }
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "Association déconseillée \nDans l'utilisation à visée contraceptive de la cyprotérone\n\n- Dans l'indication contraception d'urgence de l'ulipristal\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception additionnelle de type mécanique \npendant les 12 jours qui suivent la (dernière) prise de l’ulipristal (au cas \noù il y en aurait eu plus d’une).\n- Dans l’indication fibrome de l'ulipristal :\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception de type mécanique pendant les 7 \npremiers jours de la contraception hormonale."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Lorsque la cyprotérone n'est pas à visée contraceptive."
+      }
     ],
     "interaction_mechanism": "Dans l'indication contraception d'urgence de l'ulipristal :\nAntagonisme des effets de l’ulipristal en cas de reprise d’un \ncontraceptif hormonal moins de 5 jours après la prise de la \ncontraception d’urgence.\n\nDans l’indication fibrome de l'ulipristal :\nAntagonisme réciproque des effets de l’ulipristal et du progestatif, \navec risque d’inefficacité.",
     "description": "ASDEC - APEC\nAssociation déconseillée \nDans l'utilisation à visée contraceptive de la cyprotérone\n\n- Dans l'indication contraception d'urgence de l'ulipristal\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception additionnelle de type mécanique \npendant les 12 jours qui suivent la (dernière) prise de l’ulipristal (au cas \noù il y en aurait eu plus d’une).\n- Dans l’indication fibrome de l'ulipristal :\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception de type mécanique pendant les 7 \npremiers jours de la contraception hormonale.\nAssociation à prendre en compte\nLorsque la cyprotérone n'est pas à visée contraceptive.\n\nDans l'indication contraception d'urgence de l'ulipristal :\nAntagonisme des effets de l’ulipristal en cas de reprise d’un \ncontraceptif hormonal moins de 5 jours après la prise de la \ncontraception d’urgence.\n\nDans l’indication fibrome de l'ulipristal :\nAntagonisme réciproque des effets de l’ulipristal et du progestatif, \navec risque d’inefficacité."
+  },
+
+  {
+    "main_drug": "ANTIARYTHMIQUES",
+    "between_main_and_plus_drug": "De nombreux antiarythmiques sont dépresseurs de l’automatisme, de la conduction et de la contractilité cardiaques.\nL’association d’antiarythmiques de classes différentes peut apporter un effet thérapeutique bénéfique, mais s’avère le plus souvent très délicate, nécessitant une \nsurveillance clinique étroite et un contrôle de l’ECG. L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, \nsotalol…) est contre-indiquée.\nL’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques.\nL’association à des médicaments ayant des propriétés inotropes négatives, bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et \nnécessite une surveillance clinique et un contrôle de l’ECG.\n\n(amiodarone, cibenzoline, diltiazem, disopyramide, dronedarone, flecainide, hydroquinidine, lidocaine, mexiletine, propafenone, quinidine, sotalol, verapamil)",
+    "plus_drug": "AUTRES ANTIARYTHMIQUES",
+    "severity_levels": [
+        {
+            "level": "CONTRE-INDICATION",
+            "info": "L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, \nsotalol…) est contre-indiquée."
+          },
+          {
+            "level": "Association DECONSEILLEE",
+            "info": "L’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques."
+          },
+          {
+            "level": "A prendre en compte",
+            "info": "L’association à des médicaments ayant des propriétés inotropes négatives, bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et \nnécessite une surveillance clinique et un contrôle de l’ECG."
+          }
+    ],
+    "interaction_mechanism": "L'association de deux antiarythmiques est très délicate. Elle est \ndans la majorité des cas, contre-indiquée ou déconseillée.",
+    "description": "CI - ASDEC - APECL'association de deux antiarythmiques est très délicate. Elle est \ndans la majorité des cas, contre-indiquée ou déconseillée."
   }
 ]
