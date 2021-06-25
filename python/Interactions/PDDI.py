@@ -103,10 +103,10 @@ class PDDI:
         return match_results[0]
 
     @staticmethod
-    def __get_dict_severity_level(severity_level: SeverityLevel, severity_info: str):
+    def __get_dict_severity_level(severity_level: SeverityLevel, severity_info: str) -> SeverityInformation:
         return SeverityInformation(severity_level.name, severity_info)
 
-    def __single_severity_level_info_extract(self, severity_level_found, description):
+    def __single_severity_level_info_extract(self, severity_level_found, description) -> None:
         severity_line = severity_level_found.severity_line
         severity_level = severity_level_found.severity_level
         if self.__description_begins_right_2_severity_level(severity_line, severity_level):
@@ -155,7 +155,7 @@ class PDDI:
                             "but this line doesn't exist !")
 
     @staticmethod
-    def __description_begins_right_2_severity_level(severity_line: str, severity_level: SeverityLevel):
+    def __description_begins_right_2_severity_level(severity_line: str, severity_level: SeverityLevel) -> bool:
         """
         Examples:
         :param severity_line: Association DECONSEILLEEMajoration des effets indésirables, et notamment de l'acidose
