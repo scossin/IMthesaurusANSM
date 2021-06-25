@@ -38,7 +38,7 @@ def extract_pddis(lines: list, debug_mode=False) -> list:
                   if tag == LineTag.MAIN_DRUG]
     if debug_mode:
         writeDebugFile(input_file, list(main_drugs), 3)
-    print(f"checking main_drugs are ordered...")
+
     check_main_drugs_are_ordered(main_drugs)
 
     indices_main_drugs = [index for (index, tag) in enumerate(tags)
