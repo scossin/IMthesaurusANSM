@@ -186,5 +186,81 @@
     ],
     "interaction_mechanism": "Majoration de la dépression centrale.\nL'altération de la vigilance peut rendre dangereuses la conduite de \nvéhicules et l'utilisation de machines.",
     "description": "CI - ASDEC - APEC\nA prendre en compte:\n- pour tous les médicaments sédatifs entre eux sauf:\n\n- avec l'oxybate de sodium (association déconseillée)\n- entre l'oxybate de sodium et les opiacés ou les barbituriques  (contre-\nindication)\n\nMajoration de la dépression centrale.\nL'altération de la vigilance peut rendre dangereuses la conduite de \nvéhicules et l'utilisation de machines."
+  },
+
+  {
+    "main_drug": "SUBSTANCES À ABSORPTION RÉDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS",
+    "between_main_and_plus_drug": "(acide acetylsalicylique, acide alendronique, acide clodronique, acide etidronique, acide ibandronique, acide oxidronique, acide pamidronique, acide risedronique, \nacide tiludronique, acide zoledronique, alimemazine, atenolol, betamethasone, budesonide, catioresine sulfo sodique, chloroquine, chlorpromazine, chlortetracycline, \ncimetidine, ciprofloxacine, clindamycine, cortisone, cyamemazine, demeclocycline, dexamethasone, digoxine, dolutégravir, doxycycline, elvitégravir, enoxacine, \nethambutol, famotidine, fer, fexofenadine, fluor, fluphenazine, isoniazide, lansoprazole, lédipasvir, levofloxacine, levomepromazine, levothyroxine, lincomycine, \nliothyronine sodique, lomefloxacine, lymecycline, methylenecycline, methylprednisolone, metopimazine, metoprolol, minocycline, moxifloxacine, nizatidine, \nnorfloxacine, ofloxacine, oxomemazine, oxytetracycline, pefloxacine, penicillamine, phosphore, piperazine, pipotiazine, prednisolone, prednisone, proguanil, \npromethazine, propericiazine, propranolol, raltégravir, ranitidine, rosuvastatine, sulpiride, tériflunomide, tetracycline, thyroxines, tigecycline, tiratricol, triamcinolone, \nulipristal)",
+    "plus_drug": "TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS",
+    "severity_levels": [
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "Prendre les topiques ou antiacides, adsorbants à distance de ces \nsubstances (plus de 2 heures, si possible)."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Prendre les topiques ou antiacides, adsorbants à distance de ces \nsubstances (plus de 2 heures, si possible)."
+      }
+    ],
+    "interaction_mechanism": "Diminution de l'absorption de ces substances.",
+    "description": "ASDEC - PE\nPrendre les topiques ou antiacides, adsorbants à distance de ces \nsubstances (plus de 2 heures, si possible).\n\nDiminution de l'absorption de ces substances."
+  },
+
+  {
+    "main_drug": "ANTI-INFLAMMATOIRES NON STÉROÏDIENS",
+    "between_main_and_plus_drug": "(aceclofenac, acide mefenamique, acide niflumique, acide tiaprofenique, alminoprofene, celecoxib, dexketoprofene trometamol, diclofenac, etodolac, étoricoxib, \nfenoprofene, flurbiprofene, ibuprofene, indometacine, ketoprofene, meloxicam, morniflumate, nabumetone, naproxene, nimesulide, parecoxib, phenylbutazone, \npiroxicam, piroxicam-betadex, rofecoxib, sulindac, tenoxicam, valdecoxib)",
+    "plus_drug": "METHOTREXATE",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "avec :\n- la phénylbutazone, quelle que soit la dose de méthotrexate et pour \ntoutes les formes de phénylbutazone, y compris locales."
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "avec les autres anti-inflammatoires non-stéroidiens et pour des doses \nde méthotrexate supérieures à 20 mg par semaine.\n- avec le kétoprofène et le méthotrexate à des doses supérieures à 20 \nmg par semaines, respecter un intervalle d'au moins 12 heures entre \nl'arrêt ou le début d'un traitement par kétoprofène et la prise de \nméthotrexate."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "avec les autres AINS et le méthotrexate utilisé à faibles doses \n(inférieures ou égales à 20 mg par semaine), contrôle hebdomadaire de \nl'hémogramme durant les premières semaines de l'association. \nSurveillance accrue en cas d'altération (même légère) de la fonction \nrénale, ainsi que chez le sujet âgé."
+      }
+    ],
+    "interaction_mechanism": "Augmentation de la toxicité hématologique du méthotrexate \n(diminution de la clairance rénale du méthotrexate par les anti-\ninflammatoires).",
+    "description": "CI - ASDEC - PE\nAssociation contre-indiquée avec :\n- la phénylbutazone, quelle que soit la dose de méthotrexate et pour \ntoutes les formes de phénylbutazone, y compris locales.\n\nAssociations déconseillées:\n- avec les autres anti-inflammatoires non-stéroidiens et pour des doses \nde méthotrexate supérieures à 20 mg par semaine.\n- avec le kétoprofène et le méthotrexate à des doses supérieures à 20 \nmg par semaines, respecter un intervalle d'au moins 12 heures entre \nl'arrêt ou le début d'un traitement par kétoprofène et la prise de \nméthotrexate.\n\nAssociation nécessitant une précaution d'emploi :\n- avec les autres AINS et le méthotrexate utilisé à faibles doses \n(inférieures ou égales à 20 mg par semaine), contrôle hebdomadaire de \nl'hémogramme durant les premières semaines de l'association. \nSurveillance accrue en cas d'altération (même légère) de la fonction \nrénale, ainsi que chez le sujet âgé.\n\nAugmentation de la toxicité hématologique du méthotrexate \n(diminution de la clairance rénale du méthotrexate par les anti-\ninflammatoires)."
+  },
+
+  {
+    "main_drug": "ACIDE ACETYLSALICYLIQUE",
+    "between_main_and_plus_drug": "Voir aussi : antiagrégants plaquettaires - substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants",
+    "plus_drug": "METHOTREXATE",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires"
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé."
+      }
+    ],
+    "interaction_mechanism": "Majoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique)",
+    "description": "CI - PE\nAvec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires\n- précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé.\n\nMajoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique).\n\nInteractions médicamenteuses - Thésaurus"
+  },
+
+  {
+    "main_drug": "ACIDE ACETYLSALICYLIQUE",
+    "between_main_and_plus_drug": "Voir aussi : antiagrégants plaquettaires - substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants",
+    "plus_drug": "METHOTREXATE",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires"
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé."
+      }
+    ],
+    "interaction_mechanism": "Majoration de la toxicité, notamment hématologique, du méthotrexate (diminution de sa clairance rénale par l'acide acétylsalicylique)",
+    "description": "CI - PE\nAvec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires\n- précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé.\n\nMajoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique)."
   }
 ]
