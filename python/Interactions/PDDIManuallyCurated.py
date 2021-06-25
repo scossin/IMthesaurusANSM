@@ -17,6 +17,12 @@ class Singleton(type):
 
 
 class PDDIManullyCurated(metaclass=Singleton):
+    """
+    Some mechanism of action and severity levels are too difficult to extract automatically from the PDDI's description
+    I put, in a JSON file, these difficult cases and curate them manually.
+    When extracting the mechanism of action and the severity levels in a description,
+    I check if the description matches a curated one.
+    """
     FILENAME = "./pddis_manually_extracted.json"
 
     def __init__(self):
