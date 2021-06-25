@@ -70,5 +70,23 @@
     ],
     "interaction_mechanism": "Si l’association ne peut être évitée, contrôle clinique et \nélectrocardiographique régulier.\n\nRisque majoré de troubles du rythme ventriculaire, notamment de \ntorsades de pointes.",
     "description": "CI - ASDEC\nContre-indication:\n- avec citalopram, dompéridone, escitalopram, hydroxyzine et  \npipéraquine\n\nAssociations déconseillées\n- avec les autres susbtances susceptibles de donner des torsades de \npointes.\nSi l’association ne peut  être évitée, contrôle clinique et \nélectrocardiographique régulier.\n\nRisque majoré de troubles du rythme ventriculaire, notamment de \ntorsades de pointes."
+  },
+
+  {
+    "main_drug": "FIBRATES",
+    "between_main_and_plus_drug": "(bezafibrate, ciprofibrate, fenofibrate, gemfibrozil)",
+    "plus_drug": "INHIBITEURS DE L'HMG-COA RÉDUCTASE (STATINES)",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "La contre-indication s'applique : \n- entre le gemfibrozil et la simvastatine\n- pour des doses de rosuvastatine de 40 mg"
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "L'association d'un fibrate et d'une statine est au minmum déconseillée. \nAvec la simvastatine, ne pas dépasser 10 mg ( cette restriction de \ndoses ne concerne pas le fénofibrate)"
+      }
+    ],
+    "interaction_mechanism": "Risque d'addition d'effets indésirables (dose-dépendants) à type de \nrhabdomyolyse. En outre, avec le gemfibrozil, diminution du \nmétabolisme de la simvastatine et de la rosuvastatine, ce qui \nmajore le risque musculaire, ainsi que la néphrotoxicité de la \nrosuvastatine.",
+    "description": "CI - ASDEC\nL'association d'un fibrate et d'une statine est au minmum déconseillée. \nAvec la simvastatine, ne pas dépasser 10 mg ( cette restriction de \ndoses ne concerne pas le fénofibrate).\nLa contre-indication s'applique : \n- entre le gemfibrozil et la simvastatine\n- pour des doses de rosuvastatine de 40 mg\n\nRisque d'addition d'effets indésirables (dose-dépendants) à type de \nrhabdomyolyse. En outre, avec le gemfibrozil, diminution du \nmétabolisme de la simvastatine et de la rosuvastatine, ce qui \nmajore le risque musculaire, ainsi que la néphrotoxicité de la \nrosuvastatine."
   }
 ]
