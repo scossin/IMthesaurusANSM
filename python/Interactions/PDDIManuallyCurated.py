@@ -3,7 +3,6 @@ from typing import List
 
 import pydantic
 
-from python.Interactions.PDDI import PDDI
 from python.Interactions.CuratedPDDIobject import CuratedPDDIobject
 
 
@@ -30,10 +29,6 @@ class PDDIManullyCurated(metaclass=Singleton):
         pddis_curated = pydantic.parse_file_as(List[CuratedPDDIobject], path)
         for pddi in pddis_curated:
             self.map_description_to_pddi[pddi.description] = pddi
-
-    def is_a_manually_curated_pddi(self, pddi: PDDI) -> bool:
-        description_string = pddi.description_string
-        return self.is_a_manually_curated_description(description_string)
 
     def is_a_manually_curated_description(self, description_string) -> bool:
         return description_string in self.map_description_to_pddi

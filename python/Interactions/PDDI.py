@@ -1,6 +1,7 @@
 import re
 from collections import namedtuple
 from python.Interactions.Exceptions import PDDIerror, PDDIdescriptionError, SeverityLevelerror
+from python.Interactions.PDDIManuallyCurated import PDDIManullyCurated
 from python.Interactions.Severity_Levels import SEVERITY_LEVELS, SeverityLevel, is_a_multiple_severity_level, \
     get_abbreviations, Abbreviation
 
@@ -46,6 +47,10 @@ class PDDI:
                f"The mechanism of the interaction is {self.interaction_mechanism}"
 
     def _extract_interaction_information(self, description: list):
+        # in case structuration is too difficult, structuration is done manually and loaded by this function
+        if self.__pddi_was_manually_curated():
+            return None
+
         for num_line, line in enumerate(description):
             severity_level_found = [SeverityLevelFinding(num_line, line, severity_level)
                                     for severity_level in SEVERITY_LEVELS
@@ -66,6 +71,15 @@ class PDDI:
             self.__several_severity_levels_info_extract(severity_level_found, description)
         else:
             self.__single_severity_level_info_extract(severity_level_found, description)
+
+    def __pddi_was_manually_curated(self) -> True:
+        pddis_manually_curated = PDDIManullyCurated()
+        if not pddis_manually_curated.is_a_manually_curated_description(self.description_string):
+            return False
+        manually_curated_pddi = pddis_manually_curated.get_manually_curated_pddi(self.description_string)
+        self.severity_levels = manually_curated_pddi.severity_levels
+        self.interaction_mechanism = manually_curated_pddi.interaction_mechanism
+        return True
 
     def __several_severity_levels_info_extract(self, severity_level_found, description):
         description_string = "SEP".join(description)
