@@ -1,6 +1,6 @@
 import unittest
 
-from python.Interactions.PDDIManuallyExtracted import PDDIManullyCurated
+from python.Interactions.PDDIManuallyCurated import PDDIManullyCurated
 
 
 class MyTestCase(unittest.TestCase):
