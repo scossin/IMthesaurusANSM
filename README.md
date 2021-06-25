@@ -19,8 +19,8 @@ Examples:
 java -jar tika-app-1.11.jar -h ./thesauri/2019_09/PDF/index_des_substances_09_2019.pdf > ./index_des_substances_09_2019.txt
 java -jar tika-app-1.11.jar -t ./thesauri/2019_09/PDF/Thesaurus_09_2019.pdf > 
 ./Thesaurus_09_2019.txt
-
 ```
+
 The message "ERROR FlateFilter: stop reading corrupt stream due to a DataFormatException" can be ignored, the content is correctly extracted. 
 
 Next txt files are transformed to JSON files. For example:
@@ -29,7 +29,7 @@ python extractSubstanceDrugClasses.py -f ./index_substances092019.txt
 python extractInteraction.py -f ./thesauri/2019_09/TXT/Thesaurus_09_2019.txt
 ```
 
-
+The error message "SeverityLevelerror while extraction PDDI between X and Y" means that the programs has failed to structure the mechanism of action and the severity level of X and Y. To fix this issue, we need to structure it manually and add it to "./python/Interactions/pddis_manually_extracted.json" 
 
 ### Tests
 Run all the tests with this command: 
