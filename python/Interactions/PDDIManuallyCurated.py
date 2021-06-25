@@ -17,7 +17,7 @@ class Singleton(type):
 
 
 class PDDIManullyCurated(metaclass=Singleton):
-    FILENAME = "./manually_extracted.json"
+    FILENAME = "./pddis_manually_extracted.json"
 
     def __init__(self):
         self.map_description_to_pddi = {}

@@ -1,0 +1,168 @@
+[
+  {
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires"
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé. \n\n. Avec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé."
+      }
+    ],
+    "interaction_mechanism": "Majoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique).",
+    "description": "CI - PE\nAvec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires\n- précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\n\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé.\n\nMajoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique)."
+  },
+
+  {
+    "main_drug": "CYPROTERONE",
+    "between_main_and_plus_drug": "",
+    "plus_drug": "ULIPRISTAL",
+    "severity_levels": [
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "Association déconseillée \nDans l'utilisation à visée contraceptive de la cyprotérone\n\n- Dans l'indication contraception d'urgence de l'ulipristal\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception additionnelle de type mécanique \npendant les 12 jours qui suivent la (dernière) prise de l’ulipristal (au cas \noù il y en aurait eu plus d’une).\n- Dans l’indication fibrome de l'ulipristal :\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception de type mécanique pendant les 7 \npremiers jours de la contraception hormonale."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Lorsque la cyprotérone n'est pas à visée contraceptive."
+      }
+    ],
+    "interaction_mechanism": "Dans l'indication contraception d'urgence de l'ulipristal :\nAntagonisme des effets de l’ulipristal en cas de reprise d’un \ncontraceptif hormonal moins de 5 jours après la prise de la \ncontraception d’urgence.\n\nDans l’indication fibrome de l'ulipristal :\nAntagonisme réciproque des effets de l’ulipristal et du progestatif, \navec risque d’inefficacité.",
+    "description": "ASDEC - APEC\nAssociation déconseillée \nDans l'utilisation à visée contraceptive de la cyprotérone\n\n- Dans l'indication contraception d'urgence de l'ulipristal\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception additionnelle de type mécanique \npendant les 12 jours qui suivent la (dernière) prise de l’ulipristal (au cas \noù il y en aurait eu plus d’une).\n- Dans l’indication fibrome de l'ulipristal :\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception de type mécanique pendant les 7 \npremiers jours de la contraception hormonale.\nAssociation à prendre en compte\nLorsque la cyprotérone n'est pas à visée contraceptive.\n\nDans l'indication contraception d'urgence de l'ulipristal :\nAntagonisme des effets de l’ulipristal en cas de reprise d’un \ncontraceptif hormonal moins de 5 jours après la prise de la \ncontraception d’urgence.\n\nDans l’indication fibrome de l'ulipristal :\nAntagonisme réciproque des effets de l’ulipristal et du progestatif, \navec risque d’inefficacité."
+  },
+
+  {
+    "main_drug": "ANTIARYTHMIQUES",
+    "between_main_and_plus_drug": "De nombreux antiarythmiques sont dépresseurs de l’automatisme, de la conduction et de la contractilité cardiaques.\nL’association d’antiarythmiques de classes différentes peut apporter un effet thérapeutique bénéfique, mais s’avère le plus souvent très délicate, nécessitant une \nsurveillance clinique étroite et un contrôle de l’ECG. L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, \nsotalol…) est contre-indiquée.\nL’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques.\nL’association à des médicaments ayant des propriétés inotropes négatives, bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et \nnécessite une surveillance clinique et un contrôle de l’ECG.\n\n(amiodarone, cibenzoline, diltiazem, disopyramide, dronedarone, flecainide, hydroquinidine, lidocaine, mexiletine, propafenone, quinidine, sotalol, verapamil)",
+    "plus_drug": "AUTRES ANTIARYTHMIQUES",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, \nsotalol…) est contre-indiquée."
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "L’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques."
+      },
+      {
+        "level": "A prendre en compte",
+        "info": "L’association à des médicaments ayant des propriétés inotropes négatives, bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et \nnécessite une surveillance clinique et un contrôle de l’ECG."
+      }
+    ],
+    "interaction_mechanism": "L'association de deux antiarythmiques est très délicate. Elle est \ndans la majorité des cas, contre-indiquée ou déconseillée.",
+    "description": "CI - ASDEC - APECL'association de deux antiarythmiques est très délicate. Elle est \ndans la majorité des cas, contre-indiquée ou déconseillée."
+  },
+
+  {
+    "main_drug": "DÉLAMANID",
+    "between_main_and_plus_drug": "",
+    "plus_drug": "SUBSTANCES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "avec citalopram, dompéridone, escitalopram, hydroxyzine et pipéraquine"
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "avec les autres susbtances susceptibles de donner des torsades de pointes"
+      }
+    ],
+    "interaction_mechanism": "Si l’association ne peut être évitée, contrôle clinique et \nélectrocardiographique régulier.\n\nRisque majoré de troubles du rythme ventriculaire, notamment de \ntorsades de pointes.",
+    "description": "CI - ASDEC\nContre-indication:\n- avec citalopram, dompéridone, escitalopram, hydroxyzine et  \npipéraquine\n\nAssociations déconseillées\n- avec les autres susbtances susceptibles de donner des torsades de \npointes.\nSi l’association ne peut  être évitée, contrôle clinique et \nélectrocardiographique régulier.\n\nRisque majoré de troubles du rythme ventriculaire, notamment de \ntorsades de pointes."
+  },
+
+  {
+    "main_drug": "FIBRATES",
+    "between_main_and_plus_drug": "(bezafibrate, ciprofibrate, fenofibrate, gemfibrozil)",
+    "plus_drug": "INHIBITEURS DE L'HMG-COA RÉDUCTASE (STATINES)",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "La contre-indication s'applique : \n- entre le gemfibrozil et la simvastatine\n- pour des doses de rosuvastatine de 40 mg"
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "L'association d'un fibrate et d'une statine est au minmum déconseillée. \nAvec la simvastatine, ne pas dépasser 10 mg ( cette restriction de \ndoses ne concerne pas le fénofibrate)"
+      }
+    ],
+    "interaction_mechanism": "Risque d'addition d'effets indésirables (dose-dépendants) à type de \nrhabdomyolyse. En outre, avec le gemfibrozil, diminution du \nmétabolisme de la simvastatine et de la rosuvastatine, ce qui \nmajore le risque musculaire, ainsi que la néphrotoxicité de la \nrosuvastatine.",
+    "description": "CI - ASDEC\nL'association d'un fibrate et d'une statine est au minmum déconseillée. \nAvec la simvastatine, ne pas dépasser 10 mg ( cette restriction de \ndoses ne concerne pas le fénofibrate).\nLa contre-indication s'applique : \n- entre le gemfibrozil et la simvastatine\n- pour des doses de rosuvastatine de 40 mg\n\nRisque d'addition d'effets indésirables (dose-dépendants) à type de \nrhabdomyolyse. En outre, avec le gemfibrozil, diminution du \nmétabolisme de la simvastatine et de la rosuvastatine, ce qui \nmajore le risque musculaire, ainsi que la néphrotoxicité de la \nrosuvastatine."
+  },
+
+  {
+    "main_drug": "INHIBITEURS DE LA PHOSPHODIESTERASE DE TYPE 5",
+    "between_main_and_plus_drug": "(avanafil, sildenafil, tadalafil, vardenafil)",
+    "plus_drug": "INHIBITEURS PUISSANTS DU CYP3A4",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "Pour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux."
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "Pour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Pour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux."
+      }
+    ],
+    "interaction_mechanism": "Augmentation (très importante pour l'avanafil et le vardénafil) des \nconcentrations plasmatiques de l'IPDE5, avec risque d'hypotension \n(sévère avec le vardénafil).",
+    "description": "CI - ASDEC - PE\n\nPour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux.\n\nAugmentation (très importante pour l'avanafil et le vardénafil) des \nconcentrations plasmatiques de l'IPDE5, avec risque d'hypotension \n(sévère avec le vardénafil)."
+  },
+
+  {
+    "main_drug": "INHIBITEURS PUISSANTS DU CYP3A4",
+    "between_main_and_plus_drug": "Certains médicaments possèdent la capacité d’inhiber fortement le CYP3A4, une enzyme qui intervient dans le métabolisme de nombreux médicaments. Lorsque \nl’activité de cette enzyme est inhibée, elle n’est plus en mesure de métaboliser le médicament qui va alors s’accumuler. Si la marge thérapeutique de ce médicament \nest étroite et qu’il n'y a pas d’autre voie métabolique efficace, le risque d’observer une interaction cliniquement significative devient élevé.\n\nLes principaux inhibiteurs du CYP3A4 sont :\n- les azolés antifongiques (kétoconazole, itraconazole, voriconazole, posaconazole),\n- les inhibiteurs de protéase, représentés ici par le ritonavir, avec lequel ils sont boostés,\n- certains macrolides (la clarithromycine, l’érythromycine, la télithromycine).\nParmi les substrats du CYP3A4 à marge thérapeutique étroite et pour lesquels un risque de surdosage est plus particulièrement à redouter en cas d’association avec \nun inhibiteur du CYP3A4, on peut citer :\n- l'ergotamine, alcaloïde vasocontricteur de l'ergot de seigle : risque de nécrose des extrémités ;\n- les immunosuppresseurs (ciclosporine, tacrolimus…) : risque néphrotoxique ;\n- certaines statines (simvastatine, et dans une moindre mesure, atorvastatine) : risque musculaire, notamment rhabdomyolyse ;\n- certains médicaments donnant des torsades de pointes : pimozide, halofantrine, luméfantrine ;\n- des médicaments dépresseurs du centre respiratoire : alfentanil, sufentanil, oxycodone, midazolam ;\n- certains cytotoxiques : bortezomib, docétaxel, inhibiteurs des tyrosine kinases.\n\nPour connaître les risques et les niveaux de contrainte de chacun de ces substrats, il convient de se reporter aux interactions spécifiques avec chaque inhibiteur.\n\n(clarithromycine, cobicistat, erythromycine, itraconazole, ketoconazole, posaconazole, ritonavir, telithromycine, voriconazole)",
+    "plus_drug": "QUININE",
+    "severity_levels": [
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "avec les inhibiteurs de protéases"
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "avec les azolés antifongiques et certains macrolides."
+      }
+    ],
+    "interaction_mechanism": "Surveillance clinique et ECG. Adaptation éventuelle de la posologie de \nla quinine pendant le traitement par l’inhibiteur enzymatique et après \nson arrêt.\n\nRisque de majoration des effets indésirables de la quinine, \nnotamment troubles du rythme ventriculaire et troubles \nneurosensoriels (cinchonisme).",
+    "description": "ASDEC - PE\nAssociation déconseillée : \n- avec les inhibiteurs de protéases\n\nPrécaution d’emploi : \n- avec les azolés antifongiques et certains macrolides.\nSurveillance clinique et ECG. Adaptation éventuelle de la posologie de \nla quinine pendant le traitement par l’inhibiteur enzymatique et après \nson arrêt.\n\nRisque de majoration des effets indésirables de la quinine, \nnotamment troubles du rythme ventriculaire et troubles \nneurosensoriels (cinchonisme)."
+  },
+
+  {
+    "main_drug": "MÉDICAMENTS, BRADYKININE ET ANGIO-ŒDÈME",
+    "between_main_and_plus_drug": "Certains médicaments ou classes thérapeutiques sont susceptibles de provoquer une réaction vasculaire à type d’angio-œdème de la face et du cou, résultant de \nl’inhibition de la dégradation de la bradykinine. Les médicaments les plus fréquemment impliqués sont les IEC, certains immunosuppresseurs dits mTORi, des \nantidiabétiques de la classe des gliptines, un antidiarrhéique, le racécadotril, un cytotoxique, l’estramustine, le sacubitril. Les conséquences de l’angio-oedème \npeuvent parfois être fatales, par obstruction des voies respiratoires. L’angio-oedème peut survenir indépendamment d’une association simultanée entre ces \nmédicaments, au cas où le patient aurait été exposé antérieurement à l’un des deux protagonistes. Il conviendra de rechercher des antécédents de survenue de cet \neffet et de mesurer la nécessité de ce type d’association.\n\n(alteplase recombinante, azilsartan, benazepril, candesartan cilexetil, captopril, cilazapril, enalapril, eprosartan, estramustine, évérolimus, fosinopril, irbesartan, \nlinagliptine, lisinopril, losartan, moexipril, olmesartan, périndopril, quinapril, racecadotril, ramipril, sacubitril, saxagliptine, sirolimus, sitagliptine, telmisartan, \ntemsirolimus, trandolapril, valsartan, vildagliptine, zofenopril)",
+    "plus_drug": "AUTRES MEDICAMENTS À RISQUE D'ANGIO-ŒDÈME",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "entre sacubitril et IEC"
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": ""
+      }
+    ],
+    "interaction_mechanism": "Risque de majoration de la survenue de cet effet indésirable, \npouvant être fatal",
+    "description": "CI - ASDEC\nContre-indication entre sacubitril et IEC\n\nRisque de majoration de la survenue de cet effet indésirable, \npouvant être fatal."
+  },
+
+  {
+    "main_drug": "TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS",
+    "between_main_and_plus_drug": "Les topiques gastro-intestinaux, le charbon, le lanthane et les antiacides (sels d'aluminium, de calcium et de magnésium), associés ou non aux alginates, diminuent la \nrésorption digestive de certains autres médicaments ingérés simultanément.\n\nPar mesure de précaution, il convient de prendre ces topiques ou antiacides à distance de tout autre médicament (plus de 2 heures, si possible).\n(charbon active, charbon vegetal officinal, crospovidone, diosmectite, gel d'hydroxyde d'aluminium et de carbonate de magnesium codesseches, hydrotalcite, kaolin \nlourd, lanthane, magaldrate, magnesium (hydroxyde de), magnesium (trisilicate de), monmectite)",
+    "plus_drug": "MÉDICAMENTS ADMINISTRÉS PAR VOIE ORALE",
+    "severity_levels": [
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "Prendre les topiques ou antiacides, adsorbants à distance de ces\nsubstances (plus de 2 heures, si possible)."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Prendre les topiques ou antiacides, adsorbants à distance de ces\nsubstances (plus de 2 heures, si possible)."
+      }
+    ],
+    "interaction_mechanism": "Diminution de l'absorption de certains autres médicaments ingérés \nsimultanément.",
+    "description": "ASDEC - PE\nPrendre les topiques ou antiacides, adsorbants à distance de ces\nsubstances (plus de 2 heures, si possible).\n\nDiminution de l'absorption de certains autres médicaments ingérés \nsimultanément."
+  }
+]
