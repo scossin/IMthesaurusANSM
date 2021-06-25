@@ -128,5 +128,23 @@
     ],
     "interaction_mechanism": "Surveillance clinique et ECG. Adaptation éventuelle de la posologie de \nla quinine pendant le traitement par l’inhibiteur enzymatique et après \nson arrêt.\n\nRisque de majoration des effets indésirables de la quinine, \nnotamment troubles du rythme ventriculaire et troubles \nneurosensoriels (cinchonisme).",
     "description": "ASDEC - PE\nAssociation déconseillée : \n- avec les inhibiteurs de protéases\n\nPrécaution d’emploi : \n- avec les azolés antifongiques et certains macrolides.\nSurveillance clinique et ECG. Adaptation éventuelle de la posologie de \nla quinine pendant le traitement par l’inhibiteur enzymatique et après \nson arrêt.\n\nRisque de majoration des effets indésirables de la quinine, \nnotamment troubles du rythme ventriculaire et troubles \nneurosensoriels (cinchonisme)."
+  },
+
+  {
+    "main_drug": "MÉDICAMENTS, BRADYKININE ET ANGIO-ŒDÈME",
+    "between_main_and_plus_drug": "Certains médicaments ou classes thérapeutiques sont susceptibles de provoquer une réaction vasculaire à type d’angio-œdème de la face et du cou, résultant de \nl’inhibition de la dégradation de la bradykinine. Les médicaments les plus fréquemment impliqués sont les IEC, certains immunosuppresseurs dits mTORi, des \nantidiabétiques de la classe des gliptines, un antidiarrhéique, le racécadotril, un cytotoxique, l’estramustine, le sacubitril. Les conséquences de l’angio-oedème \npeuvent parfois être fatales, par obstruction des voies respiratoires. L’angio-oedème peut survenir indépendamment d’une association simultanée entre ces \nmédicaments, au cas où le patient aurait été exposé antérieurement à l’un des deux protagonistes. Il conviendra de rechercher des antécédents de survenue de cet \neffet et de mesurer la nécessité de ce type d’association.\n\n(alteplase recombinante, azilsartan, benazepril, candesartan cilexetil, captopril, cilazapril, enalapril, eprosartan, estramustine, évérolimus, fosinopril, irbesartan, \nlinagliptine, lisinopril, losartan, moexipril, olmesartan, périndopril, quinapril, racecadotril, ramipril, sacubitril, saxagliptine, sirolimus, sitagliptine, telmisartan, \ntemsirolimus, trandolapril, valsartan, vildagliptine, zofenopril)",
+    "plus_drug": "AUTRES MEDICAMENTS À RISQUE D'ANGIO-ŒDÈME",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "entre sacubitril et IEC"
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": ""
+      }
+    ],
+    "interaction_mechanism": "Risque de majoration de la survenue de cet effet indésirable, \npouvant être fatal",
+    "description": "CI - ASDEC\nContre-indication entre sacubitril et IEC\n\nRisque de majoration de la survenue de cet effet indésirable, \npouvant être fatal."
   }
 ]
