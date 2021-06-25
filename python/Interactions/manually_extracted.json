@@ -110,5 +110,23 @@
     ],
     "interaction_mechanism": "Augmentation (très importante pour l'avanafil et le vardénafil) des \nconcentrations plasmatiques de l'IPDE5, avec risque d'hypotension \n(sévère avec le vardénafil).",
     "description": "CI - ASDEC - PE\n\nPour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux.\n\nAugmentation (très importante pour l'avanafil et le vardénafil) des \nconcentrations plasmatiques de l'IPDE5, avec risque d'hypotension \n(sévère avec le vardénafil)."
+  },
+
+  {
+    "main_drug": "INHIBITEURS PUISSANTS DU CYP3A4",
+    "between_main_and_plus_drug": "Certains médicaments possèdent la capacité d’inhiber fortement le CYP3A4, une enzyme qui intervient dans le métabolisme de nombreux médicaments. Lorsque \nl’activité de cette enzyme est inhibée, elle n’est plus en mesure de métaboliser le médicament qui va alors s’accumuler. Si la marge thérapeutique de ce médicament \nest étroite et qu’il n'y a pas d’autre voie métabolique efficace, le risque d’observer une interaction cliniquement significative devient élevé.\n\nLes principaux inhibiteurs du CYP3A4 sont :\n- les azolés antifongiques (kétoconazole, itraconazole, voriconazole, posaconazole),\n- les inhibiteurs de protéase, représentés ici par le ritonavir, avec lequel ils sont boostés,\n- certains macrolides (la clarithromycine, l’érythromycine, la télithromycine).\nParmi les substrats du CYP3A4 à marge thérapeutique étroite et pour lesquels un risque de surdosage est plus particulièrement à redouter en cas d’association avec \nun inhibiteur du CYP3A4, on peut citer :\n- l'ergotamine, alcaloïde vasocontricteur de l'ergot de seigle : risque de nécrose des extrémités ;\n- les immunosuppresseurs (ciclosporine, tacrolimus…) : risque néphrotoxique ;\n- certaines statines (simvastatine, et dans une moindre mesure, atorvastatine) : risque musculaire, notamment rhabdomyolyse ;\n- certains médicaments donnant des torsades de pointes : pimozide, halofantrine, luméfantrine ;\n- des médicaments dépresseurs du centre respiratoire : alfentanil, sufentanil, oxycodone, midazolam ;\n- certains cytotoxiques : bortezomib, docétaxel, inhibiteurs des tyrosine kinases.\n\nPour connaître les risques et les niveaux de contrainte de chacun de ces substrats, il convient de se reporter aux interactions spécifiques avec chaque inhibiteur.\n\n(clarithromycine, cobicistat, erythromycine, itraconazole, ketoconazole, posaconazole, ritonavir, telithromycine, voriconazole)",
+    "plus_drug": "QUININE",
+    "severity_levels": [
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "avec les inhibiteurs de protéases"
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "avec les azolés antifongiques et certains macrolides."
+      }
+    ],
+    "interaction_mechanism": "Surveillance clinique et ECG. Adaptation éventuelle de la posologie de \nla quinine pendant le traitement par l’inhibiteur enzymatique et après \nson arrêt.\n\nRisque de majoration des effets indésirables de la quinine, \nnotamment troubles du rythme ventriculaire et troubles \nneurosensoriels (cinchonisme).",
+    "description": "ASDEC - PE\nAssociation déconseillée : \n- avec les inhibiteurs de protéases\n\nPrécaution d’emploi : \n- avec les azolés antifongiques et certains macrolides.\nSurveillance clinique et ECG. Adaptation éventuelle de la posologie de \nla quinine pendant le traitement par l’inhibiteur enzymatique et après \nson arrêt.\n\nRisque de majoration des effets indésirables de la quinine, \nnotamment troubles du rythme ventriculaire et troubles \nneurosensoriels (cinchonisme)."
   }
 ]
