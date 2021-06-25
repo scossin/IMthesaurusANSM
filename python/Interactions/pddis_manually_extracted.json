@@ -164,5 +164,27 @@
     ],
     "interaction_mechanism": "Diminution de l'absorption de certains autres médicaments ingérés \nsimultanément.",
     "description": "ASDEC - PE\nPrendre les topiques ou antiacides, adsorbants à distance de ces\nsubstances (plus de 2 heures, si possible).\n\nDiminution de l'absorption de certains autres médicaments ingérés \nsimultanément."
+  },
+
+  {
+    "main_drug": "MÉDICAMENTS SÉDATIFS",
+    "between_main_and_plus_drug": "Il faut prendre en compte le fait que de nombreux médicaments ou substances peuvent additionner leurs effets dépresseurs du système nerveux central et contribuer \nà diminuer la vigilance. Il s'agit des dérivés morphiniques (analgésiques, antitussifs et traitements de substitution), des neuroleptiques, des barbituriques, des \nbenzodiazépines, des anxiolytiques autres que les benzodiazépines (par exemple, le méprobamate), des hypnotiques, des antidépresseurs sédatifs (amitriptyline, \ndoxépine, miansérine, mirtazapine, trimipramine), des antihistaminiques H1 sédatifs, des antihypertenseurs centraux, du baclofène et du thalidomide.\n(agomelatine, alfentanil, alimemazine, alizapride, alprazolam, amisulpride, amitriptyline, aripiprazole, avizafone, azelastine, baclofene, bromazepam, brompheniramine, \nbuprenorphine, captodiame, chlordiazepoxide, chlorphenamine, chlorpromazine, clobazam, clonazepam, clonidine, clorazepate, clotiazepam, clozapine, codeine, \ncyamemazine, cyproheptadine, dapoxétine, dexchlorpheniramine, dexmédétomidine, dextromethorphane, di(acefylline) diphenhydramine, diazepam, dihydrocodeine, \ndimenhydrinate, diphenhydramine, doxepine, doxylamine, droperidol, estazolam, eszopiclone, ethylmorphine, etifoxine, fenspiride, fentanyl, flunarizine, flupentixol, \nfluphenazine, flurazepam, gabapentine, haloperidol, hydromorphone, hydroxyzine, isothipendyl, ketotifene, levomepromazine, loflazépate, loprazolam, lorazepam, \nlormetazepam, loxapine, maprotiline, méclozine, mepyramine, mequitazine, methadone, methyldopa, metoclopramide, metopimazine, mianserine, midazolam, \nmirtazapine, morphine, moxonidine, nalbuphine, naloxone, nefopam, nitrazepam, nordazepam, noscapine, olanzapine, oxazepam, oxetorone, oxomemazine, oxybate \nde sodium, oxycodone, paliperidone, penfluridol, pérampanel, pethidine, pheniramine, phenobarbital, phenyltoloxamine, pholcodine, pimethixene, pimozide, \npipamperone, pipotiazine, pizotifene, prazepam, pregabaline, primidone, promethazine, propericiazine, quetiapine, remifentanil, rilmenidine, risperidone, ropinirole, \nrupatadine, sodium (oxybate de), sufentanil, sulpiride, tapentadol, tetrabenazine, thalidomide, tiapride, tramadol, trimipramine, triprolidine, ziconotide, zolpidem, \nzopiclone, zuclopenthixol)",
+    "plus_drug": "AUTRES MÉDICAMENTS SÉDATIFS",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "entre l'oxybate de sodium et les opiacés ou les barbituriques."
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "avec l'oxybate de sodium."
+      },
+      {
+        "level": "A prendre en compte",
+        "info": "A prendre en compte:\n- pour tous les médicaments sédatifs entre eux"
+      }
+    ],
+    "interaction_mechanism": "Majoration de la dépression centrale.\nL'altération de la vigilance peut rendre dangereuses la conduite de \nvéhicules et l'utilisation de machines.",
+    "description": "CI - ASDEC - APEC\nA prendre en compte:\n- pour tous les médicaments sédatifs entre eux sauf:\n\n- avec l'oxybate de sodium (association déconseillée)\n- entre l'oxybate de sodium et les opiacés ou les barbituriques  (contre-\nindication)\n\nMajoration de la dépression centrale.\nL'altération de la vigilance peut rendre dangereuses la conduite de \nvéhicules et l'utilisation de machines."
   }
 ]
