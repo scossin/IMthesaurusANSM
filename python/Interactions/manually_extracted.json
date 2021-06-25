@@ -1,16 +1,34 @@
 [
-    {
-        "severity_levels": [
-            {
-                "level": "CONTRE-INDICATION",
-                "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires"
-            },
-            {
-                "level": "Précaution d'emploi",
-                "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé. \n\n. Avec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé."
-            }
-        ],
-        "interaction_mechanism": "Majoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique).",
-        "description": "CI - PE\nAvec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires\n- précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\n\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé.\n\nMajoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique)."
-    }
+  {
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires"
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé. \n\n. Avec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé."
+      }
+    ],
+    "interaction_mechanism": "Majoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique).",
+    "description": "CI - PE\nAvec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires\n- précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\n\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé.\n\nMajoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique)."
+  },
+
+  {
+    "main_drug": "CYPROTERONE",
+    "between_main_and_plus_drug": "",
+    "plus_drug": "ULIPRISTAL",
+    "severity_levels": [
+        {
+            "level": "Association DECONSEILLEE",
+            "info": "Association déconseillée \nDans l'utilisation à visée contraceptive de la cyprotérone\n\n- Dans l'indication contraception d'urgence de l'ulipristal\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception additionnelle de type mécanique \npendant les 12 jours qui suivent la (dernière) prise de l’ulipristal (au cas \noù il y en aurait eu plus d’une).\n- Dans l’indication fibrome de l'ulipristal :\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception de type mécanique pendant les 7 \npremiers jours de la contraception hormonale."
+          },
+          {
+            "level": "Précaution d'emploi",
+            "info": "Lorsque la cyprotérone n'est pas à visée contraceptive."
+          }
+    ],
+    "interaction_mechanism": "Dans l'indication contraception d'urgence de l'ulipristal :\nAntagonisme des effets de l’ulipristal en cas de reprise d’un \ncontraceptif hormonal moins de 5 jours après la prise de la \ncontraception d’urgence.\n\nDans l’indication fibrome de l'ulipristal :\nAntagonisme réciproque des effets de l’ulipristal et du progestatif, \navec risque d’inefficacité.",
+    "description": "ASDEC - APEC\nAssociation déconseillée \nDans l'utilisation à visée contraceptive de la cyprotérone\n\n- Dans l'indication contraception d'urgence de l'ulipristal\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception additionnelle de type mécanique \npendant les 12 jours qui suivent la (dernière) prise de l’ulipristal (au cas \noù il y en aurait eu plus d’une).\n- Dans l’indication fibrome de l'ulipristal :\nDans le cas où la (re)prise d’une contraception hormonale est \nenvisagée, utiliser une contraception de type mécanique pendant les 7 \npremiers jours de la contraception hormonale.\nAssociation à prendre en compte\nLorsque la cyprotérone n'est pas à visée contraceptive.\n\nDans l'indication contraception d'urgence de l'ulipristal :\nAntagonisme des effets de l’ulipristal en cas de reprise d’un \ncontraceptif hormonal moins de 5 jours après la prise de la \ncontraception d’urgence.\n\nDans l’indication fibrome de l'ulipristal :\nAntagonisme réciproque des effets de l’ulipristal et du progestatif, \navec risque d’inefficacité."
+  }
 ]
