@@ -1,0 +1,16 @@
+[
+    {
+        "severity_levels": [
+            {
+                "level": "CONTRE-INDICATION",
+                "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires"
+            },
+            {
+                "level": "Précaution d'emploi",
+                "info": "Avec le méthotrexate utilisé à des doses > 20 mg/semaine : précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé. \n\n. Avec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé."
+            }
+        ],
+        "interaction_mechanism": "Majoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique).",
+        "description": "CI - PE\nAvec le méthotrexate utilisé à des doses > 20 mg/semaine : \n- contre-indication avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires\n- précaution d'emploi avec des doses antiagrégantes plaquettaires \nd'acide acétylsalicylique. Contrôle hebdomadaire de l’hémogramme \ndurant les premières semaines de l’association. Surveillance accrue en \ncas d’altération (même légère) de la fonction rénale, ainsi que chez le \nsujet âgé.\n\nAvec le méthotrexate utilisé à des doses =< 20 mg/semaine :\n- précaution d'emploi avec l'acide acétylsalicylique utilisé à doses \nantalgiques, antipyrétiques ou anti-inflammatoires. Contrôle \nhebdomadaire de l’hémogramme durant les premières semaines de \nl’association. Surveillance accrue en cas d’altération (même légère) de \nla fonction rénale, ainsi que chez le sujet âgé.\n\nMajoration de la toxicité, notamment hématologique, du \nméthotrexate (diminution de sa clairance rénale par l'acide \nacétylsalicylique)."
+    }
+]
