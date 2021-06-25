@@ -88,5 +88,27 @@
     ],
     "interaction_mechanism": "Risque d'addition d'effets indésirables (dose-dépendants) à type de \nrhabdomyolyse. En outre, avec le gemfibrozil, diminution du \nmétabolisme de la simvastatine et de la rosuvastatine, ce qui \nmajore le risque musculaire, ainsi que la néphrotoxicité de la \nrosuvastatine.",
     "description": "CI - ASDEC\nL'association d'un fibrate et d'une statine est au minmum déconseillée. \nAvec la simvastatine, ne pas dépasser 10 mg ( cette restriction de \ndoses ne concerne pas le fénofibrate).\nLa contre-indication s'applique : \n- entre le gemfibrozil et la simvastatine\n- pour des doses de rosuvastatine de 40 mg\n\nRisque d'addition d'effets indésirables (dose-dépendants) à type de \nrhabdomyolyse. En outre, avec le gemfibrozil, diminution du \nmétabolisme de la simvastatine et de la rosuvastatine, ce qui \nmajore le risque musculaire, ainsi que la néphrotoxicité de la \nrosuvastatine."
+  },
+
+  {
+    "main_drug": "INHIBITEURS DE LA PHOSPHODIESTERASE DE TYPE 5",
+    "between_main_and_plus_drug": "(avanafil, sildenafil, tadalafil, vardenafil)",
+    "plus_drug": "INHIBITEURS PUISSANTS DU CYP3A4",
+    "severity_levels": [
+      {
+        "level": "CONTRE-INDICATION",
+        "info": "Pour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux."
+      },
+      {
+        "level": "Association DECONSEILLEE",
+        "info": "Pour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux."
+      },
+      {
+        "level": "Précaution d'emploi",
+        "info": "Pour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux."
+      }
+    ],
+    "interaction_mechanism": "Augmentation (très importante pour l'avanafil et le vardénafil) des \nconcentrations plasmatiques de l'IPDE5, avec risque d'hypotension \n(sévère avec le vardénafil).",
+    "description": "CI - ASDEC - PE\n\nPour connaître les risques et les niveaux de contrainte de chaque \nIPDE5 avec les inhibiteurs puissants du CYP3A4, il convient de se \nreporter aux AMM specifiques à chacun d'eux.\n\nAugmentation (très importante pour l'avanafil et le vardénafil) des \nconcentrations plasmatiques de l'IPDE5, avec risque d'hypotension \n(sévère avec le vardénafil)."
   }
 ]
