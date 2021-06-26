@@ -16,7 +16,7 @@ class Singleton(type):
         return cls._instances[cls]
 
 
-class PDDIManullyCurated(metaclass=Singleton):
+class PDDIManuallyCurated(metaclass=Singleton):
     """
     Some mechanism of action and severity levels are too difficult to extract automatically from the PDDI's description
     I put, in a JSON file, these difficult cases and curate them manually.
@@ -31,7 +31,7 @@ class PDDIManullyCurated(metaclass=Singleton):
 
     def load_pddis_manually_curated(self):
         current_dir = os.path.dirname(__file__)
-        path = current_dir + "/" + PDDIManullyCurated.FILENAME
+        path = current_dir + "/" + PDDIManuallyCurated.FILENAME
         pddis_curated = pydantic.parse_file_as(List[CuratedPDDIobject], path)
         for pddi in pddis_curated:
             self.map_description_to_pddi[pddi.description] = pddi

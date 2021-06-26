@@ -1,7 +1,7 @@
 import re
 from collections import namedtuple
 from python.Interactions.Exceptions import PDDIerror, PDDIdescriptionError, SeverityLevelerror
-from python.Interactions.PDDIManuallyCurated import PDDIManullyCurated
+from python.Interactions.PDDIManuallyCurated import PDDIManuallyCurated
 from python.Interactions.Severity_Levels import SEVERITY_LEVELS, SeverityLevel, is_a_multiple_severity_level, \
     get_abbreviations, Abbreviation
 
@@ -73,7 +73,7 @@ class PDDI:
             self.__single_severity_level_info_extract(severity_level_found, description)
 
     def __pddi_was_manually_curated(self) -> True:
-        pddis_manually_curated = PDDIManullyCurated()
+        pddis_manually_curated = PDDIManuallyCurated()
         if not pddis_manually_curated.is_a_manually_curated_description(self.description_string):
             return False
         manually_curated_pddi = pddis_manually_curated.get_manually_curated_pddi(self.description_string)
