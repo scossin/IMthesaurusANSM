@@ -3,7 +3,7 @@ import unittest
 from python.Interactions.interaction_functions import get_index_first_entry
 from python.Substance.Exceptions import SubstanceNotFound
 from python.Substance.SubstanceDrugClasses import SubstanceClass
-from python.Substance.substance_functions import is_a_paragraph_2_ignore
+from python.Substance.substance_functions import is_a_paragraph_2_ignore, remove_wrong_p_tag
 
 p_text = [" ", "abatacept\nInteraction", "acetylsulfafurazol"]
 p_text_without_abatacept = [" ", "acetylsulfafurazol\nInteraction", "carbamazepine"]
@@ -35,6 +35,12 @@ class TestsSubstance(unittest.TestCase):
         self.assertEqual(substance_class.substance, "acide alendronique")
         self.assertEqual(substance_class.drug_classes, ["bisphosphonates",
                                                         "substances à absorption réduite"])
+
+    def test_remove_wrong_tag(self):
+        all_lines = ["<p>acide alendronique", "</p>", "<p>Voir : bisphosphonates", "</p>"]
+        remove_wrong_p_tag(all_lines)
+        new_lines = ["<p>acide alendronique", "", "Voir : bisphosphonates", "</p>"]
+        self.assertEqual(all_lines, new_lines)
 
 
 if __name__ == "__main__":

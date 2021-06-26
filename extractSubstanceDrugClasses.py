@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 from python.Interactions.interaction_functions import get_index_first_entry
 from python.Substance.SubstanceDrugClasses import SubstanceClass
-from python.Substance.substance_functions import is_a_paragraph_2_ignore
+from python.Substance.substance_functions import is_a_paragraph_2_ignore, remove_wrong_p_tag
 
 
 def extract_substance_drug_classes(input_file: str, output_file: str, debug_mode=False):
@@ -16,7 +16,11 @@ def extract_substance_drug_classes(input_file: str, output_file: str, debug_mode
     :return: None, write the outputfile
     """
     with open(input_file) as fp:
-        soup = BeautifulSoup(fp, "html.parser")
+        all_lines = fp.readlines()
+        # in old substances versions, Tika extraction is different so we need to remove some <p> and </p> tags here
+        remove_wrong_p_tag(all_lines)
+
+        soup = BeautifulSoup("".join(all_lines), "html.parser")
         p_elements = soup.select('.page > p')
 
         if debug_mode:
