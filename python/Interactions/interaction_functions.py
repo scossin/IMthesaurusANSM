@@ -102,8 +102,6 @@ def _is_a_line_to_ignore(matched: str, unaccented_line: str) -> bool:
     # in 2009
     if unaccented_line.startswith("ANTICANCEREUX ET INR"):
         return True
-    if unaccented_line == "AGE)\n":
-        return True
     if unaccented_line == "ECG.\n":
         return True
 
@@ -159,6 +157,7 @@ def check_main_drugs_are_ordered(main_drugs: str) -> None:
 
 def fix_specific_lines_before_extraction(line: str) -> str:
     fix_lined = _fix_ADSORBANTS(line)
+    fix_lined = _fix_HBPM(fix_lined)
     return fix_lined
 
 
@@ -169,5 +168,16 @@ def _fix_ADSORBANTS(line: str):
     if line.strip().endswith("ANTIACIDES ET"):  # line: ...GASTRO-INTESTINAUX, ANTIACIDES ET \n
         return line.strip() + " ADSORBANTS"
     if line.startswith("ADSORBANTS"):
+        return ""
+    return line
+
+
+def _fix_HBPM(line: str):
+    # There is a Tika extraction error we fix here for this therapeutic class:
+    #  HÉPARINES DE BAS POIDS MOLÉCULAIRE ET APPARENTÉS (DOSES CURATIVES ET/OU SUJET
+    # ÂGÉ) (we shouldn't have a new line here)
+    if line.strip().endswith("DOSES CURATIVES ET/OU SUJET"):  # line: ...GASTRO-INTESTINAUX, ANTIACIDES ET \n
+        return line.strip() + " ÂGÉ)"
+    if line.startswith("ÂGÉ)"):
         return ""
     return line
