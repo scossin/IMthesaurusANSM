@@ -8,6 +8,7 @@ from python.Interactions.PDDIobject import SubstanceObject
 from python.Interactions.interaction_functions import get_index_first_entry
 from python.Substance.SubstanceDrugClasses import SubstanceClass
 from python.Substance.substance_functions import is_a_paragraph_2_ignore, remove_wrong_p_tag
+from python.Substance.AltDrugClasses import AltDrugClassLabels
 
 
 def extract_substance_drug_classes(input_file: str, output_file: str, debug_mode=False):
@@ -45,7 +46,14 @@ def extract_substance_drug_classes(input_file: str, output_file: str, debug_mode
         if debug_mode:
             print(f"{len(substances)} substances detected")
         sub_objects: List[SubstanceObject] = [substance.get_substance_object() for substance in substances]
+
+        # There are missing drug classes labels in the substance file
+        # for example substance in the class "retinoides" are also in the class "autres retinoides"
+        # we add this information here:
+        [AltDrugClassLabels().add_alternative_class_labels(substance_object) for substance_object in sub_objects]
+
         dict_representations = [substance_object.dict() for substance_object in sub_objects]
+
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(dict_representations, f, ensure_ascii=False, indent=4)
         if debug_mode:
