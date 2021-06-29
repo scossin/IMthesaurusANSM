@@ -17,8 +17,14 @@ class ThesaurusFiles:
 
     @staticmethod
     def get_thesaurus_version(root_folder):
-        thesaurus_version = root_folder.replace("./thesauri/", "").replace("/JSON", "")
+        thesaurus_version = ThesaurusFiles.__get_last_folder_name_before_JSON_folder(root_folder)
         return thesaurus_version
+
+    @classmethod
+    def __get_last_folder_name_before_JSON_folder(cls, root_folder):
+        folders = root_folder.split("/")
+        nth_folder_before_JSON = len(folders) - 1 # -1 because last is JSON_folder
+        return folders[nth_folder_before_JSON - 1] # -1 because list is 0 indexed
 
     def add_json_file(self, json_file):
         if self._is_a_substance_file(json_file):
@@ -49,11 +55,3 @@ class ThesaurusFiles:
     def check_file(self, json_file, filename):
         if json_file == "":
             raise TypeError(f"{filename} of thesaurus version {self.thesaurus_version} was not set")
-
-
-def create_thesaurus_files(root, json_files) -> ThesaurusFiles:
-    if len(json_files) == 0:
-        return None
-    thesaurus_file = ThesaurusFiles(root)
-    [thesaurus_file.add_json_file(json_file) for json_file in json_files]
-    return thesaurus_file
