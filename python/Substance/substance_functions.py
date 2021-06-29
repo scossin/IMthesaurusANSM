@@ -54,7 +54,7 @@ def is_a_paragraph_2_ignore(text: str) -> bool:
 
 
 def __is_metadata(text: str) -> bool:
-    patterns = ["[^a-z]?page[^a-z]", "ANSM", "[^a-z]?Version[^a-z]", "www"]
+    patterns = ["[^a-z]?page[^a-z]", "ANSM", "[^a-z]Version[^a-z]", "www"]
     for pattern in patterns:
         match = re.search(pattern, text, re.IGNORECASE)
         if match is not None:

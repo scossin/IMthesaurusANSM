@@ -29,7 +29,7 @@ class TestsSubstance(unittest.TestCase):
         self.assertEqual(is_a_paragraph_2_ignore(text), True)
 
     def test_iec_is_not_a_paragraph_2_ignore_empty(self):
-        text = "inhibiteur de l'enzyme de conversion" # conversion contains Version but should be ignored
+        text = "inhibiteurs de l'enzyme de conversion "  # conversion contains Version but should be ignored
         self.assertEqual(not is_a_paragraph_2_ignore(text), True)
 
     def test_substance_famille(self):
