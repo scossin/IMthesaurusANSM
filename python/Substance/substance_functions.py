@@ -2,7 +2,7 @@ import re
 from typing import List
 
 
-def remove_wrong_p_tag(all_lines: List[str]):
+def remove_wrong_p_tag(all_lines: List[str]) -> None:
     line_has_wrong_type = list(map(_line_start_by_wrong_tag, all_lines))
     wrong_lines_number = _get_wrong_lines_number(line_has_wrong_type)
     for i in wrong_lines_number:
@@ -10,11 +10,11 @@ def remove_wrong_p_tag(all_lines: List[str]):
         _remove_tag_current_line(all_lines, i)
 
 
-def _line_start_by_wrong_tag(line):
+def _line_start_by_wrong_tag(line) -> bool:
     return _line_starts_by_Interaction(line) or _line_starts_by_Voir(line)
 
 
-def _remove_tag_previous_line(all_lines, i):
+def _remove_tag_previous_line(all_lines, i) -> None:
     previous_line_number = i - 1
     line = all_lines[previous_line_number]
     line = line.replace("</p>", "")  # closing tag of a paragraph containing a molecule name
@@ -22,7 +22,7 @@ def _remove_tag_previous_line(all_lines, i):
     return
 
 
-def _remove_tag_current_line(all_lines, i):
+def _remove_tag_current_line(all_lines, i) -> None:
     line = all_lines[i]
     line = line.replace("<p>", "")  # closing tag of a paragraph containing a molecule name
     all_lines[i] = line
@@ -37,15 +37,15 @@ def _get_wrong_lines_number(line_has_wrong_type: List[bool]) -> List[int]:
     return wrong_lines_number
 
 
-def _line_starts_by_Interaction(line: str):
+def _line_starts_by_Interaction(line: str) -> bool:
     return line.startswith("<p>Interactions en propre")
 
 
-def _line_starts_by_Voir(line: str):
+def _line_starts_by_Voir(line: str) -> bool:
     return line.startswith("<p>Voir :")
 
 
-def is_a_paragraph_2_ignore(text):
+def is_a_paragraph_2_ignore(text: str) -> bool:
     if __is_empty_paragraph(text):
         return True
     if __is_metadata(text):
@@ -53,7 +53,7 @@ def is_a_paragraph_2_ignore(text):
     return False
 
 
-def __is_metadata(text):
+def __is_metadata(text: str) -> bool:
     patterns = ["[^a-z]?page[^a-z]", "ANSM", "[^a-z]?Version[^a-z]", "www"]
     for pattern in patterns:
         match = re.search(pattern, text, re.IGNORECASE)
