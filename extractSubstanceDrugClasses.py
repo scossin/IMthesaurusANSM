@@ -8,7 +8,7 @@ from python.Interactions.PDDIobject import SubstanceObject
 from python.Interactions.interaction_functions import get_index_first_entry
 from python.Substance.SubstanceDrugClasses import SubstanceClass
 from python.Substance.substance_functions import is_a_paragraph_2_ignore, remove_wrong_p_tag
-from python.Substance.AltDrugClasses import AltDrugClassLabels
+from python.Substance.AltDrugClassLabels import AltDrugClassLabels
 
 
 def extract_substance_drug_classes(input_file: str, output_file: str, debug_mode=False):

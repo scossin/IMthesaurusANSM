@@ -2,7 +2,6 @@ import json
 import pathlib
 
 from python.Interactions.PDDIManuallyCurated import Singleton
-from python.SumUp.DrugClasses import DrugClasses
 from python.utils.utils import Utils
 
 
