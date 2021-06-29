@@ -1,3 +1,6 @@
+from python.Interactions.PDDIobject import SubstanceObject
+
+
 class SubstanceClass:
 
     def __init__(self, text):
@@ -9,16 +12,13 @@ class SubstanceClass:
         self.drug_classes = []
         self._extract_substance_and_families(text)
 
-    def get_dic_representation(self):
+    def get_substance_object(self) -> SubstanceObject:
         """
 
-        :return: a dictionary representation of the instance
+        :return: a data object to write on disk
         """
-        dic = {
-            "substance": self.substance,
-            "drug_classes": self.drug_classes
-        }
-        return dic
+        substance_object = SubstanceObject(substance=self.substance, drug_classes=self.drug_classes)
+        return substance_object
 
     def _extract_substance_and_families(self, text):
         """

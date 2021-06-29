@@ -1,7 +1,10 @@
 import json
 import argparse
+from typing import List
+
 from bs4 import BeautifulSoup
 
+from python.Interactions.PDDIobject import SubstanceObject
 from python.Interactions.interaction_functions import get_index_first_entry
 from python.Substance.SubstanceDrugClasses import SubstanceClass
 from python.Substance.substance_functions import is_a_paragraph_2_ignore, remove_wrong_p_tag
@@ -41,9 +44,10 @@ def extract_substance_drug_classes(input_file: str, output_file: str, debug_mode
         substances = [SubstanceClass(text) for text in p_text]
         if debug_mode:
             print(f"{len(substances)} substances detected")
-        json_substances = [substance.get_dic_representation() for substance in substances]
+        sub_objects: List[SubstanceObject] = [substance.get_substance_object() for substance in substances]
+        dict_representations = [substance_object.dict() for substance_object in sub_objects]
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(json_substances, f, ensure_ascii=False, indent=4)
+            json.dump(dict_representations, f, ensure_ascii=False, indent=4)
         if debug_mode:
             print(f"new file created: {output_file}")
 
