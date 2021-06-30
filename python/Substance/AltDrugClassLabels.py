@@ -14,6 +14,13 @@ class AltValues(BaseModel):
 
 
 class AltDrugClassLabels(metaclass=Singleton):
+    """
+    The purpose of this class is to add alternative drug class labels to substance_object
+    For example, in the thesaurus file, we have a drug_class "anticoagulants oraux" also called "autres anticoagulants oraux"
+    But in the substance file, we only have "anticoagulants oraux" that appears. This class adds "autres anticoagulants oraux"
+    To every substance that has the "anticoagulants oraux" drug class
+    """
+    FILENAME_ALT_LABELS = "/altClassLabels.json"
     dict_alt_2_main_label: AltValues = {}  # map an alternative label to a list of main labels
     dict_main_2_alt_label: AltValues = {}  # map a main label to a list of alternative labels
 
@@ -39,10 +46,10 @@ class AltDrugClassLabels(metaclass=Singleton):
             cls.dict_main_2_alt_label[normalized_main_label] = []
         cls.dict_main_2_alt_label[normalized_main_label].append(alt_label)
 
-    @staticmethod
-    def __load_alt_classes_labels() -> dict:
+    @classmethod
+    def __load_alt_classes_labels(cls) -> dict:
         current_dir = pathlib.Path(__file__).parent.absolute()
-        filepath = str(current_dir) + "/altClassLabels.json"
+        filepath = str(current_dir) + cls.FILENAME_ALT_LABELS
         with open(filepath) as json_file:
             data = json.load(json_file)
         return data
