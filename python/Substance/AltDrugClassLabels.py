@@ -1,19 +1,28 @@
 import json
 import pathlib
+from typing import Dict, List
+
+from pydantic import BaseModel
 
 from python.Interactions.PDDIManuallyCurated import Singleton
+from python.Interactions.PDDIobject import SubstanceObject
 from python.utils.utils import Utils
 
 
+class AltValues(BaseModel):
+    __root__: Dict[str, List[str]]  # map a label to a list of other labels
+
+
 class AltDrugClassLabels(metaclass=Singleton):
-    dict_alt_2_main_label = {}
-    dict_main_2_alt_label = {}
+    dict_alt_2_main_label: AltValues = {}  # map an alternative label to a list of main labels
+    dict_main_2_alt_label: AltValues = {}  # map a main label to a list of alternative labels
 
     def __init__(self):
         self.dict_alt_2_main_label = self.__load_alt_classes_labels()
         self.__transform_alt_2_main_label(self.dict_alt_2_main_label)
 
-    def __transform_alt_2_main_label(self, dict_alt_2_main_label):
+    @classmethod
+    def __transform_alt_2_main_label(cls, dict_alt_2_main_label):
         """
         reverse key / value pair
         :return:
@@ -22,7 +31,13 @@ class AltDrugClassLabels(metaclass=Singleton):
             main_labels = dict_alt_2_main_label[alt_label]
             for main_label in main_labels:
                 normalized_main_label = Utils.remove_accents_and_lower_case(main_label)
-                self.dict_main_2_alt_label[normalized_main_label] = alt_label
+                cls.__add_alt_label(normalized_main_label, alt_label)
+
+    @classmethod
+    def __add_alt_label(cls, normalized_main_label, alt_label):
+        if normalized_main_label not in cls.dict_main_2_alt_label:
+            cls.dict_main_2_alt_label[normalized_main_label] = []
+        cls.dict_main_2_alt_label[normalized_main_label].append(alt_label)
 
     @staticmethod
     def __load_alt_classes_labels() -> dict:
@@ -45,8 +60,9 @@ class AltDrugClassLabels(metaclass=Singleton):
             return True
 
     @classmethod
-    def add_alternative_label_if_not_added_yet(cls, drug_class, substance_object):
+    def add_alternative_label_if_not_added_yet(cls, drug_class: str, substance_object: SubstanceObject):
         normalized_drug_class = Utils.remove_accents_and_lower_case(drug_class)
-        alt_label_drug_class = cls.dict_main_2_alt_label[normalized_drug_class]
-        if alt_label_drug_class not in substance_object.drug_classes:
-            substance_object.drug_classes.append(alt_label_drug_class)
+        alt_labels_drug_class: List[str] = cls.dict_main_2_alt_label[normalized_drug_class]
+        for alt_label in alt_labels_drug_class:
+            if alt_label not in substance_object.drug_classes:
+                substance_object.drug_classes.append(alt_label)
