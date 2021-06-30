@@ -1,6 +1,10 @@
 import unittest
 
+import pydantic
+
+from python.Interactions.PDDIobject import SubstanceObject
 from python.Interactions.interaction_functions import get_index_first_entry
+from python.Substance.AltDrugClassLabels import AltDrugClassLabels
 from python.Substance.Exceptions import SubstanceNotFound
 from python.Substance.SubstanceDrugClasses import SubstanceClass
 from python.Substance.substance_functions import is_a_paragraph_2_ignore, remove_wrong_p_tag
@@ -45,6 +49,26 @@ class TestsSubstance(unittest.TestCase):
         remove_wrong_p_tag(all_lines)
         new_lines = ["<p>acide alendronique", "", "Voir : bisphosphonates", "</p>"]
         self.assertEqual(all_lines, new_lines)
+
+    def test_alt_label(self):
+        output_expected = {
+            "substance": "dabigatran",
+            "drug_classes": [
+                "anticoagulants oraux",
+                "autres anticoagulants oraux",
+                "autres médicaments agissant sur l'hémostase"
+            ]
+        }
+        input_value = {
+            "substance": "dabigatran",
+            "drug_classes": [
+                "anticoagulants oraux"
+            ]
+        }
+        substance_object = SubstanceObject.parse_obj(input_value)
+        alt_drugs_classes = AltDrugClassLabels()
+        alt_drugs_classes.add_alternative_class_labels(substance_object)
+        self.assertEqual(substance_object.dict(), output_expected)
 
 
 if __name__ == "__main__":
