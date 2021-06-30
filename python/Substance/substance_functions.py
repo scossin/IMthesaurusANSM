@@ -67,3 +67,15 @@ def __is_empty_paragraph(text):
     if normalized_text == "":
         return True
     return False
+
+
+def fix_specific_lines_before_extraction(line: str) -> str:
+    fix_lined = _fix_RACECADOTRIL(line)
+    return fix_lined
+
+
+def _fix_RACECADOTRIL(line: str):
+    # there is a typo in thesaurus version 2015_06
+    if line.strip().endswith("cadodril"):
+        line = line.replace("cadodril", "cadotril")
+    return line
