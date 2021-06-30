@@ -12,8 +12,8 @@ SeverityLevelFinding = namedtuple("SeverityLevelFinding", ["num_line", "severity
 class PDDI:
 
     def __init__(self, main_drug: str, plus_drug: str, between_main_and_plus_drug: str, description: list):
-        self.main_drug = self._normalize_string(main_drug)
-        self.plus_drug = self._normalize_string(plus_drug)
+        self.main_drug = self._normalize_main_drug(main_drug)
+        self.plus_drug = self._normalize_plus_drug(plus_drug)
         self.between_main_and_plus_drug = between_main_and_plus_drug
         self.severity_levels: list
         self.interaction_mechanism: str
@@ -147,8 +147,17 @@ class PDDI:
         return line.strip() != ""
 
     @staticmethod
-    def _normalize_string(string: str):
-        return string.strip().replace("+ ", "").strip()
+    def _normalize_main_drug(string: str):
+        return string.strip()
+
+    @staticmethod
+    def _normalize_plus_drug(string: str):
+        return PDDI.__remove_plus_sign(string.strip()).strip()
+
+    @classmethod
+    def __remove_plus_sign(cls, string):
+        string = re.sub(r"^[+]", "", string) # remove only the first one: "+ OMBITASVIR + PARITAPRÉVIR" => "OMBITASVIR + PARITAPRÉVIR"
+        return string
 
     @staticmethod
     def __extract_severity_info_lines(description: list, next_line: int) -> list:
