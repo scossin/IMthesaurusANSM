@@ -36,8 +36,8 @@ class DrugClasses:
         self.__create_set_thesauris_entries(pddis)
 
     def detect_missing_entries(self):
-        missing_entry_in_substances_files = [entry for entry in self.set_thesaurus_entries
-                                             if not self.__entry_is_in_substance_file(entry)]
+        missing_entry_in_substances_files = [thesaurus_entry for thesaurus_entry in self.set_thesaurus_entries
+                                             if not self.__entry_is_in_substance_file(thesaurus_entry)]
         print(missing_entry_in_substances_files)
 
     def __entry_is_in_substance_file(self, entry):
