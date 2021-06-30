@@ -29,6 +29,12 @@ class AltDrugClassLabels(metaclass=Singleton):
         self.__transform_alt_2_main_label(self.dict_alt_2_main_label)
 
     @classmethod
+    def add_alternative_class_labels(cls, substance_object):
+        for drug_class in substance_object.drug_classes:
+            if AltDrugClassLabels.__drug_class_has_alternative_label(drug_class):
+                AltDrugClassLabels.__add_alternative_label_if_not_added_yet(drug_class, substance_object)
+                
+    @classmethod
     def __transform_alt_2_main_label(cls, dict_alt_2_main_label):
         """
         reverse key / value pair
@@ -55,19 +61,13 @@ class AltDrugClassLabels(metaclass=Singleton):
         return data
 
     @classmethod
-    def add_alternative_class_labels(cls, substance_object):
-        for drug_class in substance_object.drug_classes:
-            if AltDrugClassLabels.drug_class_has_alternative_label(drug_class):
-                AltDrugClassLabels.add_alternative_label_if_not_added_yet(drug_class, substance_object)
-
-    @classmethod
-    def drug_class_has_alternative_label(cls, drug_class):
+    def __drug_class_has_alternative_label(cls, drug_class):
         normalized_drug_class = Utils.remove_accents_and_lower_case(drug_class)
         if normalized_drug_class in cls.dict_main_2_alt_label:
             return True
 
     @classmethod
-    def add_alternative_label_if_not_added_yet(cls, drug_class: str, substance_object: SubstanceObject):
+    def __add_alternative_label_if_not_added_yet(cls, drug_class: str, substance_object: SubstanceObject):
         normalized_drug_class = Utils.remove_accents_and_lower_case(drug_class)
         alt_labels_drug_class: List[str] = cls.dict_main_2_alt_label[normalized_drug_class]
         for alt_label in alt_labels_drug_class:
