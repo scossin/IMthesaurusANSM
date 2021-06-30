@@ -20,7 +20,12 @@
         "autres rétinoides": ["rétinoides"],
         "autres anticoagulants oraux": ["anticoagulants oraux"],
         "autres médicaments méthémoglobinisants": ["médicaments méthémoglobinisants"],
-        "autres médicaments agissant sur l'hémostase": ["médicaments agissant sur l'hémostase"],
+        "autres médicaments agissant sur l'hémostase": ["anticoagulants oraux",
+                "héparines",
+                "héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé)",
+                "antiagrégants plaquettaires",
+                "antivitamines K",
+                "inhibiteurs directs de la thrombine à indication spécifique"],
         "autres médicaments à risque d'angio-œdème": ["médicaments, bradykinine et angio-œdème"],
         "autres médicaments à l'origine d'un syndrome serotoninergique": ["médicaments à l'origine d'un syndrome serotoninergique"]
 }
