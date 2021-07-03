@@ -1,7 +1,7 @@
 
-from python.SumUp.AllSubstances import AllSubstances
-from python.SumUp.DrugClasses import DrugClasses
-from python.SumUp.ThesaurusFilesBuilder import ThesaurusFilesBuilder
+from python.Check.AllSubstances import AllSubstances
+from python.Check.DrugClasses import DrugClasses
+from python.Check.ThesaurusFilesBuilder import ThesaurusFilesBuilder
 
 if __name__ == "__main__":
     all_thesaurus_files = ThesaurusFilesBuilder.thesauri_files()

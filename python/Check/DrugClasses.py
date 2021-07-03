@@ -3,7 +3,7 @@ from typing import List, Set
 import pydantic
 
 from python.Interactions.PDDIobject import SubstanceObject, PDDIobject
-from python.SumUp.Substances import Substances
+from python.Check.Substances import Substances
 from python.Substance.AltDrugClassLabels import AltDrugClassLabels
 from python.utils.utils import Utils
 

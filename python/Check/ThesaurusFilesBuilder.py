@@ -2,7 +2,7 @@ import os
 import pathlib
 from typing import List
 
-from python.SumUp.ThesaurusFiles import ThesaurusFiles
+from python.Check.ThesaurusFiles import ThesaurusFiles
 
 
 class ThesaurusFilesBuilder:

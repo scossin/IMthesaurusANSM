@@ -1,8 +1,8 @@
 import unittest
 from typing import List
 
-from python.SumUp.ThesaurusFiles import ThesaurusFiles
-from python.SumUp.ThesaurusFilesBuilder import ThesaurusFilesBuilder
+from python.Check.ThesaurusFiles import ThesaurusFiles
+from python.Check.ThesaurusFilesBuilder import ThesaurusFilesBuilder
 
 
 class MyTestCase(unittest.TestCase):

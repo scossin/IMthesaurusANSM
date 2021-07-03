@@ -3,8 +3,8 @@ from typing import List
 
 from text_unidecode import unidecode
 
-from python.SumUp.Substances import Substances
-from python.SumUp.ThesaurusFiles import ThesaurusFiles
+from python.Check.Substances import Substances
+from python.Check.ThesaurusFiles import ThesaurusFiles
 
 
 class AllSubstances:

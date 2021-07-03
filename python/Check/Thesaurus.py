@@ -1,6 +1,6 @@
-from python.SumUp.Substances import Substances
-from python.SumUp.ThesaurusFiles import ThesaurusFiles
-from python.SumUp.DrugClasses import DrugClasses
+from python.Check.Substances import Substances
+from python.Check.ThesaurusFiles import ThesaurusFiles
+from python.Check.DrugClasses import DrugClasses
 
 
 class Thesaurus:
