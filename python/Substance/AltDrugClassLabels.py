@@ -4,7 +4,7 @@ from typing import Dict, List
 
 from pydantic import BaseModel
 
-from python.Interactions.PDDIManuallyCurated import Singleton
+from python.utils.Singleton import Singleton
 from python.Interactions.PDDIobject import SubstanceObject
 from python.utils.utils import Utils
 
