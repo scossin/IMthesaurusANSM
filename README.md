@@ -1,4 +1,4 @@
-# IMthesaurusANSM
+# IMthesaurusANSM (DEPRECATED - See https://github.com/scossin/ExtractThesaurusANSM)
 Paquet R développé pour extraire le PDF du thesaurus des interactions de l'ANSM et le transformer dans un format structuré (R dataframe). [Cossin S. Interactions médicamenteuses : données liées et applications. 30 nov 2016.](https://dumas.ccsd.cnrs.fr/dumas-01442668)
 
 Rpackage to extract the content of the thesaurus of drug interactions edited by ANSM (french national drug safety institute)
